@@ -1,0 +1,47 @@
+name: morning
+
+on:
+  schedule:
+    # 日本時間の毎朝6時（UTC 21:00）
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: salon-talk-morning
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Tokyo
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate
+        run: npm run generate
+
+      - name: Deploy
+        env:
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+        run: npx --yes surge . --domain ozawa-salon-talk.surge.sh
+
+      - name: Save archive
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive.json index.html
+          if git diff --staged --quiet; then
+            echo "no archive changes"
+          else
+            git commit -m "archive $(date +%Y-%m-%d)"
+            git push
+          fi

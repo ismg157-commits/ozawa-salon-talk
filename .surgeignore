@@ -1,0 +1,4 @@
+scripts/
+package.json
+.env
+.env.example

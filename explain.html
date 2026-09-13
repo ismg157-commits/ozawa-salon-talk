@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>工夫したポイント — お客さまとの今日の話題</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            ud: ['"BIZ UDGothic"', '"Yu Gothic"', "sans-serif"],
+            udb: ['"UD Digi Kyokasho NK-B"', '"UDデジタル教科書体NK-B"', '"BIZ UDGothic"', '"Yu Gothic"', "sans-serif"]
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="bg-[#FFFBF5] px-3 pb-16 pt-6 font-ud text-neutral-800">
+  <div class="mx-auto max-w-[640px] space-y-10">
+    <header class="text-center">
+      <p class="text-xs font-bold tracking-widest text-orange-500">ADS　工夫したポイント</p>
+      <h1 class="mt-2 font-udb text-2xl font-bold leading-snug text-neutral-900">お客さまとの今日の話題</h1>
+      <p class="mt-2 text-sm text-neutral-500">面倒な報告を自動化する　／　ニュースチェック</p>
+      <a href="https://ozawa-salon-talk.surge.sh/" class="mt-4 inline-flex h-11 min-w-[200px] items-center justify-center rounded-full bg-[#1b5e3b] px-6 font-udb text-sm font-bold text-white">完成形はこちら</a>
+    </header>
+
+    <section class="space-y-4">
+      <h2 class="font-udb text-lg font-bold text-neutral-900">1. 4つのパーツの決め方</h2>
+      <p class="text-sm leading-relaxed">まず、面倒な報告を列挙した。自動化するものを決めるとき、毎日発生するか・手作業が長いか・データが取れるかを見た。その結果、今回の課題は <strong>2. ニュースチェック</strong> にした。</p>
+
+      <div class="grid gap-2">
+        <div class="rounded-xl border border-neutral-200 bg-white px-4 py-3 text-sm">1. 治療院の日報</div>
+        <div class="rounded-xl border-2 border-orange-400 bg-orange-50 px-4 py-3">
+          <p class="font-udb font-bold text-orange-700">2. ニュースチェック　← 今回これ</p>
+          <p class="mt-1 text-xs text-orange-800/80">ニュースを見て、今日のお客さんとの話題を選ぶ</p>
+        </div>
+        <div class="rounded-xl border border-neutral-200 bg-white px-4 py-3 text-sm">3. 学習の進捗報告</div>
+        <div class="rounded-xl border border-neutral-200 bg-white px-4 py-3 text-sm">4. コミット報告</div>
+      </div>
+
+      <div class="grid grid-cols-3 gap-2 text-center text-xs">
+        <div class="rounded-lg bg-white p-3 shadow-sm">毎日やる</div>
+        <div class="rounded-lg bg-white p-3 shadow-sm">手作業が長い</div>
+        <div class="rounded-lg bg-white p-3 shadow-sm">データが取れる</div>
+      </div>
+
+      <div class="overflow-hidden rounded-2xl border border-orange-200 bg-white">
+        <p class="bg-orange-500 px-4 py-2 text-center text-sm font-udb font-bold text-white">決めたあとの 4パーツ</p>
+        <div class="grid divide-y divide-orange-100 sm:grid-cols-2 sm:divide-x sm:divide-y-0 lg:grid-cols-4">
+          <div class="p-3 text-center">
+            <p class="text-[11px] font-bold text-orange-500">トリガー</p>
+            <p class="mt-1 text-sm font-udb">毎朝6時に生成</p>
+          </div>
+          <div class="p-3 text-center">
+            <p class="text-[11px] font-bold text-orange-500">ソース元</p>
+            <p class="mt-1 text-sm font-udb">気象庁やYahooなどニュースサイト</p>
+          </div>
+          <div class="p-3 text-center">
+            <p class="text-[11px] font-bold text-orange-500">処理</p>
+            <p class="mt-1 text-sm font-udb">Cursor上</p>
+          </div>
+          <div class="p-3 text-center">
+            <p class="text-[11px] font-bold text-orange-500">届ける先</p>
+            <p class="mt-1 text-sm font-udb">スマホのホーム画面のブラウザ</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="space-y-4">
+      <h2 class="font-udb text-lg font-bold text-neutral-900">2. デザインの工夫</h2>
+      <p class="text-sm leading-relaxed">スマホで見やすいように、5項目を四角で囲んで色分けした。完成の絵は Word で簡単に作り、読み込ませて指示した。リンクボタンは、リンク先の単語を入れて押しやすくした。</p>
+
+      <div class="rounded-3xl bg-[#e7f3ea] p-4">
+        <p class="mb-3 text-center text-[11px] font-bold text-[#1b5e3b]">Wordで描いた完成イメージ</p>
+        <div class="mx-auto max-w-[320px] space-y-2">
+          <div class="rounded-2xl border-[3px] border-[#5aa6e8] bg-white px-3 py-2 text-sm font-udb">天気　×　3本</div>
+          <div class="rounded-2xl border-[3px] border-[#2aa39a] bg-white px-3 py-2 text-sm font-udb">神奈川　×　3本</div>
+          <div class="rounded-2xl border-[3px] border-[#e89b5a] bg-white px-3 py-2 text-sm font-udb">全般・国内　×　3本</div>
+          <div class="rounded-2xl border-[3px] border-[#b57ae8] bg-white px-3 py-2 text-sm font-udb">全般・海外　×　3本</div>
+          <div class="rounded-2xl border-[3px] border-[#6db56a] bg-white px-3 py-2 text-sm font-udb">健康と美容　×　3本</div>
+        </div>
+      </div>
+
+      <div class="flex items-center justify-center gap-3 rounded-2xl bg-white p-4 shadow-sm">
+        <span class="text-sm text-neutral-500">押しにくい ★</span>
+        <span class="text-orange-400 font-udb">→</span>
+        <span class="inline-flex h-11 min-w-11 items-center justify-center rounded-lg border border-sky-200 bg-sky-50 px-3 text-xs font-bold text-sky-800">Yahoo</span>
+        <span class="inline-flex h-11 items-center justify-center rounded-lg border border-sky-200 bg-sky-50 px-3 text-xs font-bold text-sky-800">気象庁</span>
+      </div>
+      <p class="text-center text-xs text-neutral-500">リンク先の単語をボタンにして、44px以上でポチリやすくした</p>
+    </section>
+
+    <section class="space-y-4">
+      <h2 class="font-udb text-lg font-bold text-neutral-900">3. ぶつかった課題</h2>
+      <p class="text-sm leading-relaxed">主文と中身の文が重複してしまっていて、リンクに飛ばないと概要が分からない。</p>
+
+      <div class="grid gap-3 sm:grid-cols-2">
+        <div class="rounded-2xl border border-red-200 bg-red-50 p-4">
+          <p class="text-[11px] font-bold text-red-500">うまくいかない例</p>
+          <p class="mt-2 font-udb text-sm">中国　日本人ビザ約7.5倍に値上げ</p>
+          <p class="mt-1 text-sm text-neutral-600">中国政府は、日本人に対するビザの手数料を大幅に引き上げると発表…</p>
+          <p class="mt-3 text-xs text-red-700">主文の言い直しになっている。新しい情報がない。</p>
+        </div>
+        <div class="rounded-2xl border border-emerald-200 bg-emerald-50 p-4">
+          <p class="text-[11px] font-bold text-emerald-600">目指す形</p>
+          <p class="mt-2 font-udb text-sm">中国　日本人ビザ約7.5倍に値上げ</p>
+          <p class="mt-1 text-sm text-neutral-600">日本側の手数料引き上げへの対抗措置とみられる。</p>
+          <p class="mt-3 text-xs text-emerald-800">リンクを開かなくても、補足が1行で分かる。</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="space-y-4">
+      <h2 class="font-udb text-lg font-bold text-neutral-900">4. その解決方法</h2>
+      <p class="text-sm leading-relaxed">中身は、リンクから拾って1行でまとめるように指示した。主文と同じ内容は出さない。</p>
+
+      <div class="flex flex-col items-stretch gap-2 sm:flex-row sm:items-center">
+        <div class="flex-1 rounded-xl bg-white p-3 text-center text-sm shadow-sm">主文<br><span class="text-xs text-neutral-500">短い見出し</span></div>
+        <p class="text-center font-udb text-orange-500">→</p>
+        <div class="flex-1 rounded-xl bg-white p-3 text-center text-sm shadow-sm">リンク先を読む<br><span class="text-xs text-neutral-500">Yahoo / 気象庁 など</span></div>
+        <p class="text-center font-udb text-orange-500">→</p>
+        <div class="flex-1 rounded-xl border-2 border-orange-400 bg-orange-50 p-3 text-center text-sm font-udb">1行にまとめる<br><span class="text-xs font-normal text-orange-800">重複したら出さない</span></div>
+      </div>
+    </section>
+
+    <p class="text-center text-xs text-neutral-400"><a class="underline" href="https://ozawa-salon-talk.surge.sh/">完成ページ　https://ozawa-salon-talk.surge.sh/</a></p>
+  </div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "name": "salon-talk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "施術中の雑談用。朝の天気とニュースを4+1枠で1枚にまとめる",
+  "type": "module",
+  "scripts": {
+    "generate": "node --use-system-ca scripts/generate.js",
+    "morning": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/morning.ps1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
