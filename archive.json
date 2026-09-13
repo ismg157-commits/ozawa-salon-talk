@@ -13,13 +13,13 @@
             "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
           },
           {
-            "title": "明日はくもり",
+            "title": "明日は晴れ",
             "detail": "最高32℃／最低25℃、降水確率33%。",
             "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
           },
           {
-            "title": "週末（9/19（土））は雨",
-            "detail": "最高25℃／最低21℃、降水確率67%。お出かけの話のきっかけに。",
+            "title": "週末（9/19（土））はにわか雨",
+            "detail": "最高27℃／最低21℃、降水確率67%。お出かけの話のきっかけに。",
             "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
           }
         ]
@@ -29,19 +29,19 @@
         "tone": "kanagawa",
         "items": [
           {
-            "title": "高校野球秋季大会 １２日に３回戦１５試合…",
-            "link": "https://www.kanaloco.jp/sports/baseball/hsbaseball/article-1303782.html",
-            "detail": "【下に３回戦以降の組み合わせ】桐光学園－法政二、横浜清陵－平塚学園、慶応－相洋、藤嶺藤沢－横浜隼人、日大藤沢－向上など強豪校の好カードが…"
+            "title": "「かなトク！」商品券を９月にも追加実施…",
+            "link": "https://www.kanaloco.jp/news/government/article-1303590.html",
+            "detail": "県は１０日、物価高騰対策として本年度実施した「かながわトクトクキャンペーン！"
           },
           {
-            "title": "屈指の進学校・浅野が奮闘…",
-            "link": "https://www.hb-nippon.com/articles/17135",
+            "title": "岩野喜一（三浦学苑1）10秒36＝高1歴代3…",
+            "link": "https://www.rikujyokyogi.co.jp/archives/216248",
             "detail": ""
           },
           {
-            "title": "高校軟式野球秋季大会 組み合わせ決まる…",
-            "link": "https://vk.sportsbull.jp/koshien/articles/ASV994GRVV99ULOB00BM.html",
-            "detail": "21チームが参加し、試合は12日に始まる。"
+            "title": "（）伊勢原市日向でクマ出没の可能性…",
+            "link": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1471803087244378141?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch2",
+            "detail": ""
           }
         ]
       },
@@ -60,9 +60,9 @@
             "detail": ""
           },
           {
-            "title": "「夜泣きカフェ」漫画機に開設増",
-            "link": "https://news.yahoo.co.jp/pickup/6595144?source=rss",
-            "detail": "背景には子育て中の親の孤立がある。"
+            "title": "性行為したくない 夫婦で言えぬ訳",
+            "link": "https://news.yahoo.co.jp/pickup/6595175?source=rss",
+            "detail": "どうやって互いの意思を確認すればいいのか。"
           }
         ]
       },
@@ -76,9 +76,9 @@
             "detail": "新興国グループ「BRICS」の首脳会議が12日、インドの首都ニューデリーで開かれた。"
           },
           {
-            "title": "台湾に武器売却なら習氏訪米せず",
-            "link": "https://news.yahoo.co.jp/pickup/6595095?source=rss",
-            "detail": "承認すれば習近平国家主席の訪米を見送る意向。"
+            "title": "フーシ派 紅海入口要衝を「支配」",
+            "link": "https://news.yahoo.co.jp/pickup/6595152?source=rss",
+            "detail": "ーシ派のブハイティ幹部は12日、共同通信の取材に応じ、イエメンの紅海沿岸地域や。"
           },
           {
             "title": "トランプ氏 フーシ派が不介入要請",
@@ -97,14 +97,14 @@
             "detail": ""
           },
           {
-            "title": "三菱重工浦和レッズレディース",
-            "link": "https://www.urawa-reds.co.jp/redsladies/informations/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BF%E3%83%8B%E3%82%BF%E3%81%AB%E3%82%88%E3%82%8B%E6%A0%84%E9%A4%8A%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%92%E5%AE%9F%E6%96%BD.html",
-            "detail": ""
+            "title": "たるみケア新時代到来…",
+            "link": "https://i-voce.jp/feed/5135343/",
+            "detail": "新製品リリースが相次ぐ季節はワクワクが止まらないが、今期のスキンケアは例年以上の進化ぶり。"
           },
           {
-            "title": "柳沢正史教授が語る「睡眠学」とは？…",
-            "link": "https://diamond.jp/articles/-/398998",
-            "detail": "正しい睡眠を知り、本来の自分とよりよい明日を取り戻すためのヒントをお届けします。"
+            "title": "「ゲラン」最高峰ライン『オーキデ…",
+            "link": "https://precious.jp/articles/-/62739",
+            "detail": "第6世代へと進化を遂げた、濃密な潤いで大人の肌にハリと弾力感を与えてくれる逸品を詳しくご紹介します。"
           }
         ]
       }
