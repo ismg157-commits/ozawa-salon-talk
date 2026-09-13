@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-14",
+    "heading": "9月14日（月曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日はくもり",
+            "detail": "最高32℃／最低25℃、降水確率34%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高26℃／最低24℃、降水確率98%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（9/19（土））はにわか雨",
+            "detail": "最高24℃／最低20℃、降水確率63%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "試合結果（2026年9月12日）3回戦…",
+            "link": "https://www.kanaloco.jp/sports/baseball/hsbaseball/article-1303519.html",
+            "detail": "慶応は相洋に先制されるも五回に打線が爆発。"
+          },
+          {
+            "title": "屈指の進学校・浅野が奮闘…",
+            "link": "https://sportsbull.jp/p/2416159/",
+            "detail": "＜2026年神奈川県高校野球秋季大会：武相4－0浅野＞◇12日◇3回戦◇相模原ギオンベースボールパーク 5年ぶりの秋3回…"
+          },
+          {
+            "title": "公式戦ラストピッチング【フューチャードリーム…",
+            "link": "https://sports.yahoo.co.jp/video/player/27805794",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "14日関東暑さ戻る 35℃迫る予想も",
+            "link": "https://news.yahoo.co.jp/pickup/6595185?source=rss",
+            "detail": "東京都心は32℃予想で、5日ぶりに真夏日が復活するでしょう。"
+          },
+          {
+            "title": "アンダーパス冠水恐れ 148自治体",
+            "link": "https://news.yahoo.co.jp/pickup/6595114?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "総務省 開示請求後に文書削除か",
+            "link": "https://news.yahoo.co.jp/pickup/6595115?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "習氏が訪印 中印関係の改善探る",
+            "link": "https://news.yahoo.co.jp/pickup/6595101?source=rss",
+            "detail": "新興国グループ「BRICS」の首脳会議が12日、インドの首都ニューデリーで開かれた。"
+          },
+          {
+            "title": "フーシ派 紅海入口要衝を「支配」",
+            "link": "https://news.yahoo.co.jp/pickup/6595152?source=rss",
+            "detail": "ーシ派のブハイティ幹部は12日、共同通信の取材に応じ、イエメンの紅海沿岸地域や。"
+          },
+          {
+            "title": "トランプ氏 フーシ派が不介入要請",
+            "link": "https://news.yahoo.co.jp/pickup/6595131?source=rss",
+            "detail": "【AFP＝時事】米国のドナルド・トランプ大統領は12日…"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "無印良品 「素材の栄養おやつ」シリーズから新…",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jbjFlVjBkNy1UMlJWRU5ISmg0UlBxRXdvMGFrQnh2NWx5d1ZZc3RiMENaX2dycnhENEtKT1JEdkJqazJ4dkNyX3lMOGZWUWFGNGpoWnRaRnluZzUxTHRiblFNWjY5bVk?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "柳沢正史教授が語る「睡眠学」とは？…",
+            "link": "https://diamond.jp/articles/-/398998",
+            "detail": "正しい睡眠を知り、本来の自分とよりよい明日を取り戻すためのヒントをお届けします。"
+          },
+          {
+            "title": "コスメデコルテ26年クリスマスコフレ…",
+            "link": "https://www.fashion-press.net/news/150482",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-13",
     "heading": "9月13日（日曜日）",
     "sections": [
