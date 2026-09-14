@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-15",
+    "heading": "9月15日（火曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高26℃／最低24℃、降水確率97%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高23℃／最低20℃、降水確率100%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（9/19（土））は霧雨",
+            "detail": "最高25℃／最低20℃、降水確率61%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "屈指の進学校・浅野が奮闘…",
+            "link": "https://www.hb-nippon.com/articles/17135",
+            "detail": ""
+          },
+          {
+            "title": "秋季大会、３回戦に横浜が登場…",
+            "link": "https://www.kanaloco.jp/sports/baseball/hsbaseball/article-1304429.html",
+            "detail": "夏の甲子園に出場した横浜は３回戦が初戦。"
+          },
+          {
+            "title": "慶応、桐光学園、綾瀬西などベスト１６進出…",
+            "link": "https://news.yahoo.co.jp/articles/ed77f17ff59fd4fb866fffed52e5d58afdb665e3",
+            "detail": "高校野球の秋季神奈川県大会（県高野連主催、神奈川新聞社など後援）は１２日、県内８球場で３回戦１５試合を行った。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "マンション浸水 地下設備が弱点に",
+            "link": "https://news.yahoo.co.jp/pickup/6595322?source=rss",
+            "detail": "［都市型水害 検証 千葉豪雨］＜中＞ 「水道と電気が使える生活が当たり前でないことがよくわかった」。"
+          },
+          {
+            "title": "高市氏の人事調整 林氏の処遇焦点",
+            "link": "https://news.yahoo.co.jp/pickup/6595302?source=rss",
+            "detail": "今週行われる予定の内閣改造・自民党役員人事をめぐり、高市首相は大詰めの調整を行っています。"
+          },
+          {
+            "title": "森衆院議長キーウ訪問 連帯表明へ",
+            "link": "https://news.yahoo.co.jp/pickup/6595271?source=rss",
+            "detail": "衆院議長のウクライナ訪問は2022年2月のロシアの侵攻開始後初めてで、11年の故・横路孝弘氏以来15年ぶり。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米大統領 軽油高騰巡りウに要求",
+            "link": "https://news.yahoo.co.jp/pickup/6595214?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "25年の災害で学習中断の子1.7億人",
+            "link": "https://news.yahoo.co.jp/pickup/6595274?source=rss",
+            "detail": "2025年に全世界で発生した災害で、少なくとも1億7100万人の子供が学習の中断を余儀なくされたことが…"
+          },
+          {
+            "title": "タイ 邦人のビザなし滞在期間短縮",
+            "link": "https://news.yahoo.co.jp/pickup/6595293?source=rss",
+            "detail": "観光客誘致のため2024年に大幅に緩和した制度を、約2年で見直した。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "主役は仏様…ではなく美容液だった！？…",
+            "link": "https://www.atpress.ne.jp/news/632166",
+            "detail": "濃密なのにベタつきにくく、奈良の天然素材を配合。"
+          },
+          {
+            "title": "無印良品 「素材の栄養おやつ」シリーズから新…",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jbjFlVjBkNy1UMlJWRU5ISmg0UlBxRXdvMGFrQnh2NWx5d1ZZc3RiMENaX2dycnhENEtKT1JEdkJqazJ4dkNyX3lMOGZWUWFGNGpoWnRaRnluZzUxTHRiblFNWjY5bVk?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "柳沢正史教授が語る「睡眠学」とは？…",
+            "link": "https://diamond.jp/articles/-/398998",
+            "detail": "正しい睡眠を知り、本来の自分とよりよい明日を取り戻すためのヒントをお届けします。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-14",
     "heading": "9月14日（月曜日）",
     "sections": [
