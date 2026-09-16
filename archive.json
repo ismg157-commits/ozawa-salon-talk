@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-17",
+    "heading": "9月17日（木曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高24℃／最低20℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日はくもり",
+            "detail": "最高24℃／最低20℃、降水確率47%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（9/19（土））は雨",
+            "detail": "最高25℃／最低21℃、降水確率59%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "の百貨店「さいか屋」が上場廃止発表",
+            "link": "https://news.yahoo.co.jp/articles/7ba57db526512d272f4aaf7a109a1a61a42927b0",
+            "detail": "「さいか屋」（川崎市）は16日、2027年3月1日に東京証券取引所スタンダード。"
+          },
+          {
+            "title": "の百貨店「さいか屋」が上場廃止発表",
+            "link": "https://www.okinawatimes.co.jp/articles/-/1925448",
+            "detail": "「さいか屋」（川崎市）は１６日、２０２７年３月１日に東京証券取引所スタンダード。"
+          },
+          {
+            "title": "の百貨店「さいか屋」が上場廃止発表",
+            "link": "https://www.47news.jp/14951244.html",
+            "detail": "神奈川県で百貨店を運営する「さいか屋」（川崎市）は16日、2027年3月1日 ...。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "台風25号 21日ごろに関東最接近か",
+            "link": "https://news.yahoo.co.jp/pickup/6595535?source=rss",
+            "detail": "た後、21日(月・敬老の日)頃に関東地方に最も接近するおそれ。"
+          },
+          {
+            "title": "立憲系の新党は「民主改革の会」",
+            "link": "https://news.yahoo.co.jp/pickup/6595494?source=rss",
+            "detail": "議員総会では、立民出身の渡辺創衆院議員1。"
+          },
+          {
+            "title": "男女平等 日本は145カ国中の117位",
+            "link": "https://news.yahoo.co.jp/pickup/6595505?source=rss",
+            "detail": "世界経済フォーラム（WEF）は16日、世界の男女格差の状況をまとめた2026年版の「ジェンダーギャップ報告書」を発表した。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "強制連行遺族 日本6社に賠償請求",
+            "link": "https://news.yahoo.co.jp/pickup/6595496?source=rss",
+            "detail": "【石家荘共同】日中戦争時の強制連行の中国人被害者遺族ら50人が16日、大成建設や日鉄鉱業など日本企業6社に対し…"
+          },
+          {
+            "title": "北朝鮮に50億円賠償命令 韓国地裁",
+            "link": "https://news.yahoo.co.jp/pickup/6595472?source=rss",
+            "detail": "【ソウル聯合ニュース】北朝鮮が2020年6月に開城工業団地内の南北共同連絡事務所を爆破したことを巡り…"
+          },
+          {
+            "title": "ウ大統領 高市氏のキーウ訪問要請",
+            "link": "https://news.yahoo.co.jp/pickup/6595444?source=rss",
+            "detail": "ウ共同】森英介衆院議長は15日、ウクライナの首都キーウで共同通信と単独会見し、。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "近大と資生堂ジャパンがスキンケア・メイク講座…",
+            "link": "https://www.atpress.ne.jp/news/7861953",
+            "detail": ""
+          },
+          {
+            "title": "アクアレーベルのオールインワンがリニューアル…",
+            "link": "https://prtimes.jp/main/html/rd/p/000003203.000005794.html",
+            "detail": ""
+          },
+          {
+            "title": "#3：シンママ「ヨンア」(40)若さの秘密＆…",
+            "link": "https://abema.tv/channels/abema-special/slots/DH8JLFbX8b342B",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-16",
     "heading": "9月16日（水曜日）",
     "sections": [
