@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-18",
+    "heading": "9月18日（金曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日はくもり",
+            "detail": "最高23℃／最低20℃、降水確率21%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は霧雨",
+            "detail": "最高24℃／最低21℃、降水確率71%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（9/20（日））は強い雨",
+            "detail": "最高25℃／最低22℃、降水確率100%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "主催「白鳥の湖」全幕バレエ公演詳細決定！",
+            "link": "https://prtimes.jp/main/html/rd/p/000001745.000108051.html",
+            "detail": ""
+          },
+          {
+            "title": "「支援」ではなく「一緒に」 工業高有志…",
+            "link": "https://topics.smt.docomo.ne.jp/article/tokyo/region/tokyo-516245?fm=latestnews",
+            "detail": "県立神奈川工業高校（横浜市神奈川区）の生徒有志が、学んだ技術を生かして県内の福祉事業所の商品の付加…"
+          },
+          {
+            "title": "台風25号(2026年)のの暴風域に入る確率",
+            "link": "https://tenki.jp/bousai/typhoon/storm/2625/3/17/",
+            "detail": "「台風の暴風域に入る確率」は、 それぞれ24・48・72時間以内に台風の暴風域に入る確率が0.5%以上である地域に対して発表します。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "細野豪志氏「宿命」 復興相に就任",
+            "link": "https://news.yahoo.co.jp/pickup/6595613?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "台風25号 接近前から大雨の恐れ",
+            "link": "https://news.yahoo.co.jp/pickup/6595654?source=rss",
+            "detail": "その後、21日(月・祝)には関東に接近する予想です。"
+          },
+          {
+            "title": "「隠れ教育費」が年々増 実態は",
+            "link": "https://news.yahoo.co.jp/pickup/6595575?source=rss",
+            "detail": "「うちの子は公立なのに、なんでこんなにお金がかかるの？"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "トランプ氏 FRBに迅速利下げ要求",
+            "link": "https://news.yahoo.co.jp/pickup/6595545?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "豪 留学のビザで子など同伴認めず",
+            "link": "https://news.yahoo.co.jp/pickup/6595585?source=rss",
+            "detail": "７日、留学生がパートナーや子どもを連れて滞在すること。"
+          },
+          {
+            "title": "フィジー HIV拡大で非常事態宣言",
+            "link": "https://news.yahoo.co.jp/pickup/6595522?source=rss",
+            "detail": "覚醒剤メタンフェタミンのまん延も感染拡大の一因となっている。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "わが県の栄養状態は？…",
+            "link": "https://www.asahi.com/articles/ASV9H14XSV9HUTFL002M.html",
+            "detail": "毎日何を食べているかは目に見えていても、栄養の状態は分かりにくい。"
+          },
+          {
+            "title": "ユンス生美容液がポケモンの限定パッケージで登…",
+            "link": "https://jocr.jp/raditopi/2026/09/18/706388/",
+            "detail": "9月18日（金）から全国のバラエティストアなどで順次発売される。"
+          },
+          {
+            "title": "7時間寝ても疲れる40代へ…「睡眠時間」だけ…",
+            "link": "https://finance.yahoo.co.jp/news/detail/4d6c524c433e6d2b60a2ed8ef080afe7db3018e2",
+            "detail": "十分寝ているはずなのに、朝から頭が重い。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-17",
     "heading": "9月17日（木曜日）",
     "sections": [
