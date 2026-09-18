@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-19",
+    "heading": "9月19日（土曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は霧雨",
+            "detail": "最高23℃／最低21℃、降水確率53%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は強い雨",
+            "detail": "最高26℃／最低21℃、降水確率89%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（9/21（月））は強い雨",
+            "detail": "最高27℃／最低25℃、降水確率100%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "台風２５号、には２０日から２１日に接近か…",
+            "link": "https://news.yahoo.co.jp/articles/a0e27c948dc934fa0671fa5c50fc28323672ff16",
+            "detail": "土砂災害への厳重な警戒や、低い土地や地。"
+          },
+          {
+            "title": "台風25号(2026年)のの暴風域に入る確率",
+            "link": "https://tenki.jp/bousai/typhoon/storm/2625/3/17/",
+            "detail": "「台風の暴風域に入る確率」は、 それぞれ24・48・72時間以内に台風の暴風域に入る確率が0.5%以上である地域に対して発表します。"
+          },
+          {
+            "title": "真鶴町長のパワハラ、百条委が認定…",
+            "link": "https://www.tokyo-np.co.jp/article/516392",
+            "detail": "神奈川県真鶴町議会調査特別委員会（百条委員会）は18日、小林伸行町長（51）が違法行為を指示するなど3件の行為をパワーハラスメントと認...。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "台風 21日夕方〜夜に関東最接近か",
+            "link": "https://news.yahoo.co.jp/pickup/6595755?source=rss",
+            "detail": "関東への最接近が遅れる台風２５号の予報円（ウェザーマップ）最新の台風予報円（気象庁発表）大型の台風２５号は…"
+          },
+          {
+            "title": "米中接近を懸念 試される高市外交",
+            "link": "https://news.yahoo.co.jp/pickup/6595672?source=rss",
+            "detail": "第2次高市改造内閣にとって、予測不能な外交姿勢を続けるトランプ米政権との安定的な関係維持が外交上の目標となる。"
+          },
+          {
+            "title": "皇室の養子縁組 成立時の儀式検討",
+            "link": "https://news.yahoo.co.jp/pickup/6595761?source=rss",
+            "detail": "明治以降の皇室典範では、皇室の養子が禁。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "露下院選 帰還兵180人超が立候補",
+            "link": "https://news.yahoo.co.jp/pickup/6595760?source=rss",
+            "detail": "ロシアでは18日、ウクライナ侵攻後、初めてとなる下院選挙が始まりました。"
+          },
+          {
+            "title": "米大統領 習氏訪米で異例の厚遇へ",
+            "link": "https://news.yahoo.co.jp/pickup/6595658?source=rss",
+            "detail": "トン共同】米政府当局者は17日、中国の習近平国家主席が米中首脳会談のため23日。"
+          },
+          {
+            "title": "ジャガイモ輸入解禁加速を 米要請",
+            "link": "https://news.yahoo.co.jp/pickup/6595701?source=rss",
+            "detail": "輸入解禁の検討は2020年に米側の申し入れを受けて開始し。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "寝るだけで222万円!?…",
+            "link": "https://prtimes.jp/main/html/rd/p/000000241.000033793.html",
+            "detail": ""
+          },
+          {
+            "title": "日本人の身長、なぜ中国・韓国に抜かれたのか…",
+            "link": "https://www.nikkei.com/article/DGXZQOSG073HZ0X00C26A8000000/",
+            "detail": "【この記事でわかること】・中韓とのエネルギー摂取量の差・日本で低出生体重児が多い背景・3歳までの差に着目「第3の仮説」。"
+          },
+          {
+            "title": "訪問看護の処遇改善…",
+            "link": "https://www.pt-ot-st.net/index.php/topics/detail/2005",
+            "detail": "全日本病院協会は、訪問リハビリテーションと訪問看護ステーションから提供されるリハビリテーションについて…"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-18",
     "heading": "9月18日（金曜日）",
     "sections": [
