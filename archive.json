@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-20",
+    "heading": "9月20日（日曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高24℃／最低22℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は強い雨",
+            "detail": "最高26℃／最低22℃、降水確率100%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（9/26（土））は雨",
+            "detail": "最高20℃／最低18℃、降水確率71%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "２１日に最接近へ…",
+            "link": "https://news.yahoo.co.jp/articles/05a881a3545c6ec1b74ba86979f523949eb576e2",
+            "detail": "台風２５号は２１日午後に神奈川県へ最接近する見込みだ。"
+          },
+          {
+            "title": "２１日、最接近へ 海上は大しけに…",
+            "link": "https://news.yahoo.co.jp/articles/654c71073dddc125e7a23e11bf57da34342ebc4a",
+            "detail": "横浜地方気象台は１９日、台風２５号に関する気象解説情報を発表した。"
+          },
+          {
+            "title": "は今夜から大雨警戒…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/2703092",
+            "detail": "21日は非常に激しい雨の降る所があるほか、夕方以降は風も強まる見込み。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "大型で強い台風 21日に関東最接近",
+            "link": "https://news.yahoo.co.jp/pickup/6595856?source=rss",
+            "detail": "台風が近づくまでは比較的動きが遅いため、雨が長く続くでしょう。"
+          },
+          {
+            "title": "日米首脳会談 22日に米NYで開催",
+            "link": "https://news.yahoo.co.jp/pickup/6595772?source=rss",
+            "detail": "アメリカのトランプ政権は、トランプ大統領と高市総理が22日にニューヨークで首脳会談を行うと正式に発表しました。"
+          },
+          {
+            "title": "皇室の養子縁組 成立時の儀式検討",
+            "link": "https://news.yahoo.co.jp/pickup/6595761?source=rss",
+            "detail": "明治以降の皇室典範では、皇室の養子が禁。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "対露制裁法が成立 トランプ氏署名",
+            "link": "https://news.yahoo.co.jp/pickup/6595796?source=rss",
+            "detail": "米連邦議会上下両院が16日までに法案を可決していた。"
+          },
+          {
+            "title": "グリーンランド安保 協定署名へ",
+            "link": "https://news.yahoo.co.jp/pickup/6595785?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "AIで誤情報 米軍に一時緊張走る",
+            "link": "https://news.yahoo.co.jp/pickup/6595808?source=rss",
+            "detail": "（CNN） イランとの戦争のさなかにあった今春、米軍内で回覧されたある情報報告書に、即座に緊張が走った。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "自費で海外遠征、睡眠は通勤電車で…",
+            "link": "https://www.asahi.com/articles/ASV9J1JG3V9JUTQP01MM.html",
+            "detail": "愛知・名古屋アジア大会総合格闘技男子トラディショナル65キロ級代表の村山大介（32）=マスタージャパン東京=は毎朝…"
+          },
+          {
+            "title": "加齢とともに減少する「コエンザイムQ10」を…",
+            "link": "https://www.kateigaho.com/migaku/biyou/182909",
+            "detail": ""
+          },
+          {
+            "title": "寝る前の体がフッとほぐれる「睡眠の質を高める…",
+            "link": "https://diamond.jp/articles/-/398206",
+            "detail": "満員電車を降りた時点で、まだ仕事前なのに疲れている......。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-19",
     "heading": "9月19日（土曜日）",
     "sections": [
