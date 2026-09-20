@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-21",
+    "heading": "9月21日（月曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は強い雨",
+            "detail": "最高27℃／最低22℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日はくもり",
+            "detail": "最高29℃／最低24℃、降水確率73%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（9/26（土））は雨",
+            "detail": "最高21℃／最低19℃、降水確率70%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "で線状降水帯発生の恐れ…",
+            "link": "https://www.47news.jp/14971955.html",
+            "detail": "横浜地方気象台は２０日、線状降水帯の予測情報（半日前予測）を発表した。"
+          },
+          {
+            "title": "台風25号接近 三浦…",
+            "link": "https://news.web.nhk/newsweb/na/nd-20260920de51369",
+            "detail": "5段階の警戒レベルのうち警戒レベル3にあたる情報で、。"
+          },
+          {
+            "title": "にきょう最接近 線状降水帯の可能性…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/2703633",
+            "detail": "シルバーウィーク中の外出やレジャー、車での移動を予定している人にとって気になるのは、台風の影響がいつ強まり…"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "台風21日午後に関東最接近 警戒を",
+            "link": "https://news.yahoo.co.jp/pickup/6595971?source=rss",
+            "detail": "東海(静岡県)や関東では線状降水帯が発生し、千葉県を中心に記録的な大雨となるおそれもあります。"
+          },
+          {
+            "title": "65歳以上の割合が29.6% 最高更新",
+            "link": "https://news.yahoo.co.jp/pickup/6595928?source=rss",
+            "detail": "総務省は20日、「敬老の日」に合わせ、65歳以上の高齢者の推計人口が15日時点で前年比2万人増の3624万人となったと発表した。"
+          },
+          {
+            "title": "北の体育相に日本側接触 返答なし",
+            "link": "https://news.yahoo.co.jp/pickup/6595963?source=rss",
+            "detail": "大会の開会式が開かれた名古屋市の会場で、対話の意思を直接伝える狙。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "ウクライナ 日本に首脳会談要請",
+            "link": "https://news.yahoo.co.jp/pickup/6595910?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "AIで誤情報 米軍に一時緊張走る",
+            "link": "https://news.yahoo.co.jp/pickup/6595808?source=rss",
+            "detail": "（CNN） イランとの戦争のさなかにあった今春、米軍内で回覧されたある情報報告書に、即座に緊張が走った。"
+          },
+          {
+            "title": "フーシ派 サウジ首都攻撃と主張",
+            "link": "https://news.yahoo.co.jp/pickup/6595859?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "睡眠不足＋日中の眠気、30兆円の損失?…",
+            "link": "https://www.nikkei.com/article/DGXZQOUC180ES0Y6A910C2000000/",
+            "detail": "十分な睡眠は健康面からも業務の効率性からも重要だ。"
+          },
+          {
+            "title": "注目成分＆技術が詰まったアイテムで理想の肌に…",
+            "link": "https://ananweb.jp/categories/beauty/109276",
+            "detail": "夏ダメージが残るこの季節の肌は、ハリツヤが不足したり、くすみやすかったり…。"
+          },
+          {
+            "title": "寝るだけで222万円!?…",
+            "link": "https://prtimes.jp/main/html/rd/p/000000241.000033793.html",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-20",
     "heading": "9月20日（日曜日）",
     "sections": [
