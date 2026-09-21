@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-22",
+    "heading": "9月22日（火曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ時々くもり",
+            "detail": "最高30℃／最低24℃、降水確率50%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日はくもり",
+            "detail": "最高25℃／最低22℃、降水確率41%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（9/26（土））は雨",
+            "detail": "最高22℃／最低19℃、降水確率78%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "三浦市 アパートに土砂が流れ込む…",
+            "link": "https://news.web.nhk/newsweb/na/nd-20260921de51711",
+            "detail": ""
+          },
+          {
+            "title": "東部に「線状降水帯直前予測」",
+            "link": "https://news.web.nhk/newsweb/na/nd-20260921de51624",
+            "detail": "「線状降水帯」は発達した積乱雲が連なって。"
+          },
+          {
+            "title": "東部 線状降水帯発生恐れ",
+            "link": "https://news.yahoo.co.jp/pickup/6596011",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "台風の爪痕残る 川や崖など注意を",
+            "link": "https://news.yahoo.co.jp/pickup/6596089?source=rss",
+            "detail": "今日22日の関東地方は各地で日差しが届きますが、台風25号に伴う記録的な大雨により地盤の緩んでいる所や増水している河川があります。"
+          },
+          {
+            "title": "千葉県を中心に停電発生 最新状況",
+            "link": "https://news.yahoo.co.jp/pickup/6596059?source=rss",
+            "detail": "どこで停電が起きているか、都道府県ごとに地図上で表示する。"
+          },
+          {
+            "title": "重要資源代替の研究力強化へ 政府",
+            "link": "https://news.yahoo.co.jp/pickup/6596100?source=rss",
+            "detail": "文部科学省は来年度、レアアース（希土類）や石油製品のナフサなど…"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "CNNなど 記者証没収で米政権提訴",
+            "link": "https://news.yahoo.co.jp/pickup/6596084?source=rss",
+            "detail": "Ｗ、ポリティコは２１日、所属記者のホワイトハウスへの立ち入りを禁止され。"
+          },
+          {
+            "title": "露与党 下院で過去最多議席獲得へ",
+            "link": "https://news.yahoo.co.jp/pickup/6596101?source=rss",
+            "detail": "一方、反戦を掲げる野党「ヤブロコ」。"
+          },
+          {
+            "title": "中国 軍制服組トップら2人を処分",
+            "link": "https://news.yahoo.co.jp/pickup/6596064?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "ヘアショー観客４００人魅了…",
+            "link": "https://www.shimintimes.co.jp/news/2026/09/post-15073/",
+            "detail": "松本・安曇野・塩尻・木曽 信州の地域紙。"
+          },
+          {
+            "title": "「マキアージュ」の“白玉クッション美容液”や…",
+            "link": "https://www.wwdjapan.com/articles/2451252",
+            "detail": "逆転の発想で取り入れた技術の実力をぜひチェックして。"
+          },
+          {
+            "title": "「育児」と「食べ方と栄養」を気軽に相談",
+            "link": "https://www.tonichi.net/news/index.php?id=125285",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-21",
     "heading": "9月21日（月曜日）",
     "sections": [
