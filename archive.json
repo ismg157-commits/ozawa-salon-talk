@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-23",
+    "heading": "9月23日（水曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高24℃／最低20℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日はくもり",
+            "detail": "最高27℃／最低19℃、降水確率41%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（9/26（土））はにわか雨",
+            "detail": "最高22℃／最低19℃、降水確率88%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "の自由民権運動率いた山口左七郎氏…",
+            "link": "https://www.asahi.com/articles/ASV9P44FSV9PULOB002M.html",
+            "detail": ""
+          },
+          {
+            "title": "開成町が町議対象に電子投票の実演会 来春…",
+            "link": "https://news.yahoo.co.jp/articles/cd461f8e9755b62d00c3e3504bac414a6d9a5ed7",
+            "detail": "町選管は来春予定の町長選、町議選から導入する方針で、投票シス。"
+          },
+          {
+            "title": "内で土砂崩れ相次ぐ 救助活動続く三浦市では",
+            "link": "https://news.ntv.co.jp/category/society/8d663838b08a4894a1772ab1648172d9",
+            "detail": "神奈川県三浦市では、22日も行方不明者の捜索が続けられています。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "新たな台風発生へ 27日沖縄の南に",
+            "link": "https://news.yahoo.co.jp/pickup/6596202?source=rss",
+            "detail": "気象庁は今日23日(水・秋分の日)午前3時現在、マリアナ諸島にある熱帯低気圧が、今後、台風に発達する見込みと発表しました。"
+          },
+          {
+            "title": "水害後 片付け・復旧作業の注意点",
+            "link": "https://news.yahoo.co.jp/pickup/6596156?source=rss",
+            "detail": "台風25号の影響で、千葉県や神奈川県を中心に浸水や土砂災害などの被害が相次ぎました。"
+          },
+          {
+            "title": "日米 経済安保で連携の方針一致",
+            "link": "https://news.yahoo.co.jp/pickup/6596200?source=rss",
+            "detail": "【ニューヨーク共同】高市早苗首相は米東部時間22日（日本時間23日）、トランプ米大統領とニューヨークの国連本部で会談した。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米大統領 国連でICC脱退呼びかけ",
+            "link": "https://news.yahoo.co.jp/pickup/6596198?source=rss",
+            "detail": "国際刑事裁判所（ICC）について、米国を不当に標的にする「邪悪な組織だ」と批判し、全ての加盟。"
+          },
+          {
+            "title": "米大統領 質問したCNN記者を威圧",
+            "link": "https://news.yahoo.co.jp/pickup/6596205?source=rss",
+            "detail": "【ニューヨーク＝阿部真司】米国のトランプ大統領は２２日…"
+          },
+          {
+            "title": "トランプ氏支持率32% 過去最低",
+            "link": "https://news.yahoo.co.jp/pickup/6596138?source=rss",
+            "detail": "イランとの戦争を背景とする生活費高騰への。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "2026年クリスマスコフレ【スキンケア編】狙…",
+            "link": "https://www.fashion-press.net/news/149892",
+            "detail": "化粧水や美容液、洗顔の現品などを詰め込んだおすすめセットをどこよりも早く紹...。"
+          },
+          {
+            "title": "栄養改善の機会を低所得者の自立へ：グラミンと…",
+            "link": "https://www.alterna.co.jp/176769/",
+            "detail": "■オルタナ86号（2026年9月発売号）特集「アウトサイド・イン」掲載 記事のポイント グラミン・ダノン・フー。"
+          },
+          {
+            "title": "日本語対応の美容皮膚科「ベンスクリニック釜山…",
+            "link": "https://prtimes.jp/main/html/rd/p/000000042.000154880.html",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-22",
     "heading": "9月22日（火曜日）",
     "sections": [
