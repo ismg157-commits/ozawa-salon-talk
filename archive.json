@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-25",
+    "heading": "9月25日（金曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日はくもり",
+            "detail": "最高26℃／最低22℃、降水確率87%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高23℃／最低19℃、降水確率98%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（9/27（日））は雨",
+            "detail": "最高20℃／最低19℃、降水確率53%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "死者１０人、不明４人に 台風２５号…",
+            "link": "https://www.jiji.com/jc/article?k=2026092300327&g=soc",
+            "detail": "自衛隊と両県警、消防が捜索を続けている。"
+          },
+          {
+            "title": "で記録的大雨 三浦・横須賀で被害…",
+            "link": "https://news.yahoo.co.jp/articles/32f2f342251925378a74c55410213539f4751bac",
+            "detail": "シルバーウィークを直撃した台風25号。"
+          },
+          {
+            "title": "横浜が桐光学園下し４強、県内４２連勝…",
+            "link": "https://news.yahoo.co.jp/articles/6be7b2fbd073f1f42300a9886aa0a1c6a20e01fe",
+            "detail": "◆秋季高校野球神奈川県大会▽準々決勝 横浜７―０桐光学園＝８回コールド＝（２４日・横浜スタジアム）…"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "台風26号 強い勢力で沖縄に接近へ",
+            "link": "https://news.yahoo.co.jp/pickup/6596432?source=rss",
+            "detail": "その後は動きが遅くなるため、沖縄や奄美では風や波、雨の影響が長引きそうです。"
+          },
+          {
+            "title": "政府 米中首脳会談の動向を注視",
+            "link": "https://news.yahoo.co.jp/pickup/6596412?source=rss",
+            "detail": "トランプ氏は米中が世界を主導するというニュアンスがある「G2」に。"
+          },
+          {
+            "title": "新党・民主改革の会 18人が入党へ",
+            "link": "https://news.yahoo.co.jp/pickup/6596393?source=rss",
+            "detail": "した立憲民主党出身議員20人のうち、泉健太衆院議員と大島敦衆院議員以外の18。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "習氏 米に台湾独立への反対求める",
+            "link": "https://news.yahoo.co.jp/pickup/6596431?source=rss",
+            "detail": "米国のトランプ大統領と中国の習近平（シーチンピン）国家主席が24日午前（日本時間25日未明）、米ホワイトハウスで会談した。"
+          },
+          {
+            "title": "米中の貿易休戦 2カ月延長で合意",
+            "link": "https://news.yahoo.co.jp/pickup/6596332?source=rss",
+            "detail": "中国の習近平国家主席は、11年ぶりとなる米国への公式訪問のため到着した。"
+          },
+          {
+            "title": "パンダ2頭近く米へ到着 習氏発表",
+            "link": "https://news.yahoo.co.jp/pickup/6596428?source=rss",
+            "detail": "米中関係の安定化を示す新たな兆候だ。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "幼少期の栄養が寿命を左右する仕組み",
+            "link": "https://www.riken.jp/press/2026/20260924_1/index.html",
+            "detail": ""
+          },
+          {
+            "title": "LE SSERAFIMから学ぶ美容哲学",
+            "link": "https://tver.jp/episodes/ep3pe8vcmj",
+            "detail": ""
+          },
+          {
+            "title": "“美容男子”43歳・青木源太アナ&26歳・秦…",
+            "link": "https://www.oricon.co.jp/news/2482274/photo/17/?anc=309",
+            "detail": "�摜�E�ʐ^�b���ʊ��u�،����̃L���������u���v���iC�j�J���e�� 17���� �^…"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-24",
     "heading": "9月24日（木曜日）",
     "sections": [
