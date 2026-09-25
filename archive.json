@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-26",
+    "heading": "9月26日（土曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高23℃／最低18℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日はくもり",
+            "detail": "最高24℃／最低18℃、降水確率75%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（9/28（月））は雨",
+            "detail": "最高25℃／最低21℃、降水確率88%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "2次予選があすスタート",
+            "link": "https://news.yahoo.co.jp/articles/42b1ed4bf8cb8a552856d2a09746b3eaeae083ae",
+            "detail": "大会初日は1回戦1日目が横山公園などで行われる。"
+          },
+          {
+            "title": "10/3(土)「ウエインズトヨタ…",
+            "link": "https://b-corsairs.com/news/event_20260925_2/",
+            "detail": "いつも熱いご声援をいただきありがとうございます。"
+          },
+          {
+            "title": "横浜が県内42連勝！慶応は4年ぶり…",
+            "link": "https://www.hb-nippon.com/articles/17622",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "関東 昼頃にかけ激しい雨降る所も",
+            "link": "https://news.yahoo.co.jp/pickup/6596566?source=rss",
+            "detail": "台風25号の影響で記録的な大雨となった千葉県や神奈川県東部では、土砂災害に注意・警戒が必要です。"
+          },
+          {
+            "title": "墜落の無人機か 一部を海中で発見",
+            "link": "https://news.yahoo.co.jp/pickup/6596548?source=rss",
+            "detail": "民間のサルベージ会社と契約を結び、引き揚げに向けた準。"
+          },
+          {
+            "title": "台風25号 激甚災害に指定の見通し",
+            "link": "https://news.yahoo.co.jp/pickup/6596487?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米中首脳 年内あと2回会談に意欲",
+            "link": "https://news.yahoo.co.jp/pickup/6596562?source=rss",
+            "detail": "国家主席は２５日、ホワイトハウスで茶会に臨んだ後、米国立公文書館。"
+          },
+          {
+            "title": "習氏 米に台湾独立への反対求める",
+            "link": "https://news.yahoo.co.jp/pickup/6596431?source=rss",
+            "detail": "米国のトランプ大統領と中国の習近平（シーチンピン）国家主席が24日午前（日本時間25日未明）、米ホワイトハウスで会談した。"
+          },
+          {
+            "title": "米大統領 第2次大戦絡め異例発言",
+            "link": "https://news.yahoo.co.jp/pickup/6596484?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "幼少期の栄養が寿命を左右する仕組み",
+            "link": "https://www.riken.jp/press/2026/20260924_1/index.html",
+            "detail": ""
+          },
+          {
+            "title": "志摩市公式YouTubeチャンネル「…",
+            "link": "https://www.city.shima.mie.jp/kakuka/kenkofukushibu/kenkosuishinka/kenkoiryo/syokunojouho/9218.html",
+            "detail": ""
+          },
+          {
+            "title": "ホシケミカルズ、環境ストレス対応の夜用美容液…",
+            "link": "https://www.syogyo.jp/news/2026/09/post_044758",
+            "detail": "2020年から提案を続けている「夜用アンチポリューションＷマスク美容液」は、スキンケアの最終工程で使用する美容液であり…"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-25",
     "heading": "9月25日（金曜日）",
     "sections": [
