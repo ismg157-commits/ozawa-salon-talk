@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-27",
+    "heading": "9月27日（日曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高22℃／最低19℃、降水確率82%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高26℃／最低22℃、降水確率84%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/3（土））は霧雨",
+            "detail": "最高21℃／最低17℃、降水確率22%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "町田の立ちんぼ〉「なぜか側にしかいない？」東…",
+            "link": "https://news.yahoo.co.jp/articles/287418e4b12268b1ae48ffa61c9553bbd98d1ff1",
+            "detail": "住所を見ると、そこは東京都ではなく神奈川県相模原市だ。"
+          },
+          {
+            "title": "〈町田の立ちんぼ〉「なぜか側にしかいない？」…",
+            "link": "https://topics.smt.docomo.ne.jp/article/shueisha/trend/shueisha-258736?page=3",
+            "detail": "住所を見ると、そこは東京都ではなく神奈川県相模原市だ。"
+          },
+          {
+            "title": "町田駅南口のラブホ街はなぜ側に集中しているの…",
+            "link": "https://news.livedoor.com/topics/detail/32418379/",
+            "detail": "住所を見ると、そこは東京都ではなく神奈川県相模原市だ。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "九州4県に「線状降水帯」直前予測",
+            "link": "https://news.yahoo.co.jp/pickup/6596674?source=rss",
+            "detail": "27日朝、九州北部を中心に大気の状態が非常に不安定となり、局地的に猛烈な雨が降っています。"
+          },
+          {
+            "title": "関東 10月はじめにかけ雨多い予想",
+            "link": "https://news.yahoo.co.jp/pickup/6596625?source=rss",
+            "detail": "台風26号は沖縄に接近したあと、本州の南を進む予想です。"
+          },
+          {
+            "title": "「名代」茂木氏 首脳外交を補完",
+            "link": "https://news.yahoo.co.jp/pickup/6596590?source=rss",
+            "detail": "【ニューヨーク＝深沢亮爾】茂木外相は２５日、米ニューヨークで開かれた国連関連会合への出席など一連の外交日程を終えた。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米大統領 海峡巡るイラン提案拒否",
+            "link": "https://news.yahoo.co.jp/pickup/6596675?source=rss",
+            "detail": "アメリカのトランプ大統領はホルムズ海峡の開放を巡るイランの新たな提案について拒否する考えを示しました。"
+          },
+          {
+            "title": "中国 尖閣沖EEZで3",
+            "link": "https://news.yahoo.co.jp/pickup/6596658?source=rss",
+            "detail": "中国政府の海洋調査船が3～7月、沖縄県・尖閣諸島西側の日本の排他的経済水域（EEZ）内で、南北約66キロ…"
+          },
+          {
+            "title": "米中300億ドル規模関税引き下げへ",
+            "link": "https://news.yahoo.co.jp/pickup/6596642?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "幼少期の栄養が寿命を左右する仕組み",
+            "link": "https://www.riken.jp/press/2026/20260924_1/index.html",
+            "detail": ""
+          },
+          {
+            "title": "美容医療市場、5年で1.6倍に…",
+            "link": "https://www.nikkei.com/article/DGXZQOUC250UU0V20C26A9000000/",
+            "detail": "美しくなりたい、若々しくありたいと願う気持ちは今や年齢、性別を問わない。"
+          },
+          {
+            "title": "『髪カリスマたち～日本が誇る美容師のワザ～』",
+            "link": "https://www.bsfuji.tv/kamicharisma5/pub/260.html",
+            "detail": "選び抜かれたトップスタイリストたちが追い求めるスタイルをひもといていく。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-26",
     "heading": "9月26日（土曜日）",
     "sections": [
