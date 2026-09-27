@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-28",
+    "heading": "9月28日（月曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高25℃／最低22℃、降水確率76%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高22℃／最低20℃、降水確率100%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/3（土））はくもり",
+            "detail": "最高22℃／最低16℃、降水確率7%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "「入門！立歴史博物館―県博の守り伝えていくコ…",
+            "link": "https://artexhibition.jp/topics/news/20260910-AEJ2992307/",
+            "detail": "同館は、設備等改修工事のため、2025年1月以来約1年9カ月ぶりの再開館とな。"
+          },
+          {
+            "title": "秋の大会決勝 前年王者・横浜と4年ぶり進出の…",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrYmhDYnB4cmVwVVBOUTI0endpMUdYeHpIRVZRSjRjdUpUeVVGbWZYUnVLSU5VX01lUE1MbUdXRm03d0VFZkZoalV3d2l4MlFDVlA2M3Q5N2d3bXFLMU1HQXNQMUd1VmFBUTRtZ052OXRKYnFTZUE?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "台風２５号で安否不明…",
+            "link": "https://www.yomiuri.co.jp/national/20260927-GYT1T00100/",
+            "detail": "県警が身元の確認などを進めるという。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "台風接近 沖縄奄美は高波強風続く",
+            "link": "https://news.yahoo.co.jp/pickup/6596789?source=rss",
+            "detail": "台風26号の接近に伴い、沖縄と奄美では波の高い状態が続き、風の強まる所があります。"
+          },
+          {
+            "title": "裏金議員を要職「問題」61% 毎日",
+            "link": "https://news.yahoo.co.jp/pickup/6596797?source=rss",
+            "detail": "毎日新聞は26、27の両日、全国世論調査を実施した。"
+          },
+          {
+            "title": "原発事故時の拠点病院BCP策定4割",
+            "link": "https://news.yahoo.co.jp/pickup/6596768?source=rss",
+            "detail": "率が4割にとどまることが27日、原子力規制庁への取材で分かった。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "スイス中立厳格化 国民投票で否決",
+            "link": "https://news.yahoo.co.jp/pickup/6596771?source=rss",
+            "detail": "即日開票され、政府によると反対多数で否決さ。"
+          },
+          {
+            "title": "露外相 日本の常任理入りに反対",
+            "link": "https://news.yahoo.co.jp/pickup/6596678?source=rss",
+            "detail": "【ニューヨーク共同】ロシアのラブロフ外相は26日、国連総会一般討論で演説した。"
+          },
+          {
+            "title": "米大統領 海峡巡るイラン提案拒否",
+            "link": "https://news.yahoo.co.jp/pickup/6596675?source=rss",
+            "detail": "アメリカのトランプ大統領はホルムズ海峡の開放を巡るイランの新たな提案について拒否する考えを示しました。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "2026年クリスマスコフレ【スキンケア編】狙…",
+            "link": "https://www.fashion-press.net/news/149892",
+            "detail": "化粧水や美容液、洗顔の現品などを詰め込んだおすすめセットをどこよりも早く紹...。"
+          },
+          {
+            "title": "だから手塚治虫は60歳で早逝､水木しげるは9…",
+            "link": "https://president.jp/articles/-/118961?page=1",
+            "detail": "健康に生きるうえで、睡眠は欠かすことはできない。"
+          },
+          {
+            "title": "幼少期の栄養が寿命を左右する仕組み",
+            "link": "https://www.riken.jp/press/2026/20260924_1/index.html",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-27",
     "heading": "9月27日（日曜日）",
     "sections": [
