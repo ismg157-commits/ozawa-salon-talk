@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-29",
+    "heading": "9月29日（火曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高23℃／最低19℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高22℃／最低19℃、降水確率100%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/3（土））はくもり",
+            "detail": "最高22℃／最低18℃、降水確率18%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "「入門！立歴史博物館―県博の守り伝えていくコ…",
+            "link": "https://artexhibition.jp/topics/news/20260910-AEJ2992307/",
+            "detail": "同館は、設備等改修工事のため、2025年1月以来約1年9カ月ぶりの再開館とな。"
+          },
+          {
+            "title": "土砂に巻き込まれ安否不明だった最愛の妻…",
+            "link": "https://www.yomiuri.co.jp/national/20260928-GYT1T00045/",
+            "detail": "２７日には神奈川県三浦市で新たに１人の遺体が見つかり、千葉、神奈川両県での死者は１３人となった。"
+          },
+          {
+            "title": "維新総支部、原沢氏を推薦 公明市議団は支持…",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FaHBJTklCLW5zam5ZMHpGd3hwNlBMNmEtdzdCV1piaFZWMTdYUGhueUROQkYzUmIxSDRHWDhsTjNFVzdmRnVWb1psdEV0SDBSZzZ6RE1qX1dwSDJCcEFqTzlNNGtrbDhN?oc=5",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "台風26号接近へ 関東への影響注意",
+            "link": "https://news.yahoo.co.jp/pickup/6596912?source=rss",
+            "detail": "今日29日(火)の関東は広く雨が降り、気温が急降下。"
+          },
+          {
+            "title": "衆院選制度見直し 10月末めど結論",
+            "link": "https://news.yahoo.co.jp/pickup/6596884?source=rss",
+            "detail": "与野党は28日、「衆院選挙制度に関する協議会」の幹事会を開き、衆院の選挙制度の在り方についてまとめた報告書について大筋で合意しました。"
+          },
+          {
+            "title": "立憲代表 民主改革の会と合流視野",
+            "link": "https://news.yahoo.co.jp/pickup/6596856?source=rss",
+            "detail": "立憲民主党の水岡俊一代表は28日の記者会見で、中道改革連合から分かれた新党「民主改革の会」（民改）について、個別議員の受け入れだけでなく…"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "イラン 間接協議で米側へ要求伝達",
+            "link": "https://news.yahoo.co.jp/pickup/6596919?source=rss",
+            "detail": "トランプ氏は「我々が勝利する」と述べ。"
+          },
+          {
+            "title": "米中関税 対象品で大幅引き下げへ",
+            "link": "https://news.yahoo.co.jp/pickup/6596855?source=rss",
+            "detail": "（ブルームバーグ）： 米国は、トランプ大統領と中国の習近平国家主席による首脳会談を受け…"
+          },
+          {
+            "title": "ウ侵攻「黒海海運」の麻痺深刻化",
+            "link": "https://news.yahoo.co.jp/pickup/6596826?source=rss",
+            "detail": "ロシア・ウクライナ戦争は、戦線自体は膠着し、お互いに後方への空爆を激化させるという展開となっている。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "幼少期の栄養が寿命を左右する仕組み",
+            "link": "https://www.riken.jp/press/2026/20260924_1/index.html",
+            "detail": ""
+          },
+          {
+            "title": "NONFスキンケアより『リシャインクリーム』…",
+            "link": "https://www.yakuji.co.jp/entry139779.html",
+            "detail": "ミネラルが導くノンフィクション。"
+          },
+          {
+            "title": "栄養バランスに特化…",
+            "link": "https://www.ncctv.co.jp/news/article/16920453",
+            "detail": "「スマートランチ」は、主食・主菜・副菜をそろえ、野菜を１００グラム以上使うほか、エネルギーを５００キロカロリーから７０…"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-28",
     "heading": "9月28日（月曜日）",
     "sections": [
