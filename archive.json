@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-09-30",
+    "heading": "9月30日（水曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高21℃／最低18℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は霧雨",
+            "detail": "最高27℃／最低19℃、降水確率22%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/3（土））はくもり",
+            "detail": "最高21℃／最低16℃、降水確率10%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "「治安最強で道にゴミ一つ落ちて無い」“で幸福…",
+            "link": "https://nlab.itmedia.co.jp/research/articles/4033738/",
+            "detail": "大東建託は、神奈川県居住の20歳以上の男女を対象に、「街の幸福度」に関する調査を実施。"
+          },
+          {
+            "title": "台風26号あす関東に最接近へ…",
+            "link": "https://news.yahoo.co.jp/articles/4011405679b76ed5eec8c07581d7fbccdddeb510",
+            "detail": "台風26号は現在本州の南にあって、30日午後に八丈島の南へ進み、10月1日朝には関東に最も接近する予想です。"
+          },
+          {
+            "title": "連合 初の自主投票 横浜市長選…",
+            "link": "https://www.tokyo-np.co.jp/article/518595",
+            "detail": "いずれかの候補者を支援するか...。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "台風 あす八丈島など直撃見込み",
+            "link": "https://news.yahoo.co.jp/pickup/6597015?source=rss",
+            "detail": "先月から大雨被害の相次ぐ千葉県にも台風の北側の雨雲がかかる恐れがあり、新たな災害に。"
+          },
+          {
+            "title": "修繕談合で再発防止を要請 国交省",
+            "link": "https://news.yahoo.co.jp/pickup/6597000?source=rss",
+            "detail": "住人らでつくる管理組合による適正な発注を。"
+          },
+          {
+            "title": "日本の総人口2.5%減 1億2297万人",
+            "link": "https://news.yahoo.co.jp/pickup/6596981?source=rss",
+            "detail": "総務省が29日発表した2025年10月実施の国勢調査の確定値によると、外国人を含。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "海峡再開巡るイラン案 米拒否なぜ",
+            "link": "https://news.yahoo.co.jp/pickup/6596945?source=rss",
+            "detail": "米トランプ大統領は9月26日、ホルムズ開放と米軍の海上封鎖解除などをセットにしたイランの提案を拒否すると明らかにした。"
+          },
+          {
+            "title": "イラン 間接協議で米側へ要求伝達",
+            "link": "https://news.yahoo.co.jp/pickup/6596919?source=rss",
+            "detail": "トランプ氏は「我々が勝利する」と述べ。"
+          },
+          {
+            "title": "トランプ氏 AI監督委設置を検討",
+            "link": "https://news.yahoo.co.jp/pickup/6597010?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "アスリートへの栄養教育は何のため？…",
+            "link": "https://sndj-web.jp/news/004125.php",
+            "detail": "この疑問の答えをシステマティックレビューにより探った研究結果が、「BMC Sports Science, Medicine and Rehabi。"
+          },
+          {
+            "title": "子どもの肌の悩みに対応…",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Yb2dHdEV6eUFIRXliS2JqYTVZTUZweHRwaXFNTGNKNFRodVJCRWNRX2oxUmJtTkxJaGRtRGtlbjlUNW5OM2h0TWwxbHRFdw?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "幼少期の栄養が寿命を左右する仕組み",
+            "link": "https://www.riken.jp/press/2026/20260924_1/index.html",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-29",
     "heading": "9月29日（火曜日）",
     "sections": [
