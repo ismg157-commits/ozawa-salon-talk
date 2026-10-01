@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-01",
+    "heading": "10月1日（木曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は霧雨",
+            "detail": "最高27℃／最低19℃、降水確率43%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ時々くもり",
+            "detail": "最高24℃／最低20℃、降水確率82%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/3（土））は晴れ時々くもり",
+            "detail": "最高23℃／最低18℃、降水確率18%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "横浜市長選挙、連合が初の「自主投票」…",
+            "link": "https://www.kanaloco.jp/news/government/electiondata/article-1308337.html",
+            "detail": "自主投票とした横浜地域連合の上申を受けて同日の執行委員会で確認。"
+          },
+          {
+            "title": "土砂に巻き込まれ安否不明だった最愛の妻…",
+            "link": "https://www.yomiuri.co.jp/national/20260928-GYT1T00045/",
+            "detail": "２７日には神奈川県三浦市で新たに１人の遺体が見つかり、千葉、神奈川両県での死者は１３人となった。"
+          },
+          {
+            "title": "の全33市町村、事業所の災害の想定を“まちご…",
+            "link": "https://prtimes.jp/main/html/rd/p/000000006.000181585.html",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "農相 地元自治体の予算カット発言",
+            "link": "https://news.yahoo.co.jp/pickup/6597135?source=rss",
+            "detail": "9月の内閣改造で、農林水産大臣に起用された簗（やな）和生氏（47）が、今年5月に開かれた非公開の会合で…"
+          },
+          {
+            "title": "台風が関東接近へ 千葉は大雨恐れ",
+            "link": "https://news.yahoo.co.jp/pickup/6597124?source=rss",
+            "detail": "伊豆諸島に最も接近している台風26号は、1日昼ごろに関東に接近する見込みです。"
+          },
+          {
+            "title": "麻生氏 土地3カ所の資産報告せず",
+            "link": "https://news.yahoo.co.jp/pickup/6597105?source=rss",
+            "detail": "自民党副総裁の麻生太郎衆院議員（86）が、国会に提出している「資産等報告書」に含まれない不動産を所有していることが「 週刊文春…"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "テルアビブ便 副操縦士が機長刺す",
+            "link": "https://news.yahoo.co.jp/pickup/6597126?source=rss",
+            "detail": "０日、アラブ首長国連邦（ＵＡＥ）のドバイからイスラエ。"
+          },
+          {
+            "title": "米軍 IS巡るイラクでの任務を終了",
+            "link": "https://news.yahoo.co.jp/pickup/6597112?source=rss",
+            "detail": "アメリカの国防総省は30日、過激派組織「イスラム国」の掃討作戦として201。"
+          },
+          {
+            "title": "ウ侵攻 通信インフラの防御策焦点",
+            "link": "https://news.yahoo.co.jp/pickup/6597051?source=rss",
+            "detail": "ウクライナでの戦闘は日々、21世紀の戦争の実態を映し出しています。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "昼寝か短時間の運動か？…",
+            "link": "https://www.cnn.co.jp/fringe/35253040.html",
+            "detail": "睡眠を取らずにいると、集中したり新しい情報を学んだりすることが難しくなる。"
+          },
+          {
+            "title": "乳幼児スキンケア動画",
+            "link": "https://www.erca.go.jp/yobou/event/r02remote03/index.html?fbclid=IwAR2JtarbJ9-Vr1TRHWhqDo2nWTex_V0l3Tb9x8pt6nqruuz8ZQcJSUlxYncpage%2525252F16%2525252Fpage%2525252F2%2525252Fpage%2525252F2%2525252Fpage%2525252F2%2525252Fpage%2525252F3%2525252Fpage%2525252F5%2525252Fpage%2525252F2%2525252Fpage%2525252F3%2525252Fpage%2525252F8%2525252Fpage%2525252F2%2525252Fpage%2525252F27%2525252Fpage%2525252F2%2525252Fpage%2525252F8%2525252Fpage%2525252F8%2525252Fpage%2525252F2%2525252F",
+            "detail": "大気環境・ぜん息などの情報を発信し、患者やその家族の方のサポートを致します。"
+          },
+          {
+            "title": "防災×栄養 ～栄養を考えた備蓄をしましょう～",
+            "link": "https://www.y-koseiren.jp/special/food_nutrition/6471",
+            "detail": "みなさんは、いざという時のために備えをしていますか？"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-30",
     "heading": "9月30日（水曜日）",
     "sections": [
