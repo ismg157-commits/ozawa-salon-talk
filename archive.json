@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-02",
+    "heading": "10月2日（金曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は霧雨",
+            "detail": "最高23℃／最低19℃、降水確率98%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ時々くもり",
+            "detail": "最高23℃／最低17℃、降水確率22%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/4（日））はくもり",
+            "detail": "最高22℃／最低16℃、降水確率18%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "横浜市長選挙、連合が初の「自主投票」…",
+            "link": "https://www.kanaloco.jp/news/government/electiondata/article-1308337.html",
+            "detail": "自主投票とした横浜地域連合の上申を受けて同日の執行委員会で確認。"
+          },
+          {
+            "title": "令和８年度安全・安心まちづくり旬間出陣式を開…",
+            "link": "https://prtimes.jp/main/html/rd/p/000001755.000108051.html",
+            "detail": ""
+          },
+          {
+            "title": "千葉北東部が震源、Ｍ５・１…",
+            "link": "https://news.yahoo.co.jp/articles/e89cd50e677817ddad08d4ffd05bdb43b90633df",
+            "detail": "震源の深さは約５０キロ、地震の規模はマグニチュード（Ｍ）５・１と推定。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "台風27号 4日～小笠原近海北上か",
+            "link": "https://news.yahoo.co.jp/pickup/6597225?source=rss",
+            "detail": "小笠原諸島では次第に波が高くなり、4日(日)から6日(火)は大しけとなる所があるでしょう。"
+          },
+          {
+            "title": "食料品の消費減税法案 概要判明",
+            "link": "https://news.yahoo.co.jp/pickup/6597165?source=rss",
+            "detail": "来年4月から2年間、税率を1%に引き下げるほか、所得に連動した給付をおこなうため、政府内に制度を担当す。"
+          },
+          {
+            "title": "政府 ロシアへの追加制裁を検討",
+            "link": "https://news.yahoo.co.jp/pickup/6597229?source=rss",
+            "detail": "欧州諸国が対露制裁を強めるなか、日本も足並みをそろえる。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "トランプ氏 習氏へ日中対話促す",
+            "link": "https://news.yahoo.co.jp/pickup/6597227?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "テルアビブ便 乗客らが襲撃者制圧",
+            "link": "https://news.yahoo.co.jp/pickup/6597138?source=rss",
+            "detail": "イスラエルのネタニヤフ首相は、フライドバイ機の副操縦士が機長を刺した後、機体を墜落させようとしたが、乗客が制止したと明らかにした。"
+          },
+          {
+            "title": "G20貿易相 過剰生産巡り意見対立",
+            "link": "https://news.yahoo.co.jp/pickup/6597234?source=rss",
+            "detail": "議長を務めた米通商代表部（USTR）のグリア代表は記者会見で、主要テ。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "ノーベル賞の有力候補、柳沢正史氏…",
+            "link": "https://www.nikkei.com/article/DGXZQOSG247L80U6A920C2000000/",
+            "detail": "成果は新しい仕組みの睡眠薬や過眠症の一種「ナルコレプシー」の原因に対応した世界初の治療薬につながった。"
+          },
+          {
+            "title": "うるおい、めぐる…",
+            "link": "https://prtimes.jp/main/html/rd/p/000000727.000007954.html",
+            "detail": ""
+          },
+          {
+            "title": "特集は「今知りたい 低栄養のこと」",
+            "link": "https://medical.nikkeibp.co.jp/leaf/all/di/column/premium/202610/594755.html",
+            "detail": "月刊誌「日経ドラッグインフォメーションプレミアム版」（日経DIプレミアム版）10月号が発売となりました。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-01",
     "heading": "10月1日（木曜日）",
     "sections": [
