@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-03",
+    "heading": "10月3日（土曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ時々くもり",
+            "detail": "最高23℃／最低18℃、降水確率4%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日はくもり",
+            "detail": "最高23℃／最低16℃、降水確率31%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/5（月））は晴れ時々くもり",
+            "detail": "最高22℃／最低18℃、降水確率28%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "復興再生土の活用「現時点で未定」…",
+            "link": "https://www.kanaloco.jp/news/government/article-1309354.html",
+            "detail": "「国が責任を持って対応すべき話」…"
+          },
+          {
+            "title": "内の有効求人０・８３倍 ８月…",
+            "link": "https://www.kanaloco.jp/news/economy/article-1309325.html",
+            "detail": "有効求人倍率は、県内のハローワークに登録する求職…"
+          },
+          {
+            "title": "（）川崎市高津区二子で不審な行動 ９月３０日",
+            "link": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1478673357381550330?fm=latestnews",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "副首都となる要件 4道府県満たす",
+            "link": "https://news.yahoo.co.jp/pickup/6597340?source=rss",
+            "detail": "北海道、愛知県、大阪府、福岡県、4つの道府県が指定される可能性があります。"
+          },
+          {
+            "title": "予算削減発言 簗農相は辞任否定",
+            "link": "https://news.yahoo.co.jp/pickup/6597346?source=rss",
+            "detail": "衆院栃木3区を地盤とする簗和生（やなかずお）農相（比例代表北関東ブロック、6期）が就任前の5月、地元での自民党関係者らとの懇親会で…"
+          },
+          {
+            "title": "紀州ドンファンの遺言有効 最高裁",
+            "link": "https://news.yahoo.co.jp/pickup/6597303?source=rss",
+            "detail": "ドン・ファン」と呼ばれ、2018年に死亡した和歌山県田辺市の資産家、野崎幸助さん（。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "露の新型ドローン イラン製を改良",
+            "link": "https://news.yahoo.co.jp/pickup/6597343?source=rss",
+            "detail": "イランが開発した「シャヘド」をモデルに、プロペラ推進式からジェット推進式に発展。"
+          },
+          {
+            "title": "G7 石油備蓄1億バレル協調放出へ",
+            "link": "https://news.yahoo.co.jp/pickup/6597336?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "露大統領「日本の軍備増強懸念」",
+            "link": "https://news.yahoo.co.jp/pickup/6597272?source=rss",
+            "detail": "ロシアのプーチン大統領は1日、モスクワで開かれた国際有識者会議「バルダイ・クラブ討論会」で…"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "Yunthの生美容液3種類に…",
+            "link": "https://www.pokemon.co.jp/goods/2026/10/261002_da01.html",
+            "detail": "お気に入りのポケモンを選んだり、肌悩みやなりたい肌に合わせて選んだり、自分にぴったりの美容液を選ぶ楽しさをお届け！"
+          },
+          {
+            "title": "ノーベル賞週間、注目は睡眠障害治療薬やペロブ…",
+            "link": "https://www.nikkei.com/prime/veritas/article/DGXZQOUB3082A0Q6A930C2000000",
+            "detail": "受賞分野によっては関連銘柄に波及効果があり、株式市場でも注目されている。"
+          },
+          {
+            "title": "愛知川図書館「「睡眠」と「健康」…",
+            "link": "https://www.town.aisho.shiga.jp/toshokan/gyoji/15466.html",
+            "detail": "講座のあとには血管年齢測定 も受け ることができます。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-02",
     "heading": "10月2日（金曜日）",
     "sections": [
