@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-04",
+    "heading": "10月4日（日曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日はくもり",
+            "detail": "最高22℃／最低16℃、降水確率43%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日はくもり",
+            "detail": "最高23℃／最低17℃、降水確率39%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/10（土））はくもり",
+            "detail": "最高23℃／最低16℃、降水確率4%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "台風 千葉・で死者計15人に",
+            "link": "https://news.yahoo.co.jp/pickup/6597425",
+            "detail": "千葉県長柄町で台風25号による土砂崩れに巻き込まれたとみられる性別・年齢不明の遺体が新たにみつかりました。"
+          },
+          {
+            "title": "の「危ない交差点」を発表 ２５年事故データ…",
+            "link": "https://www.kanaloco.jp/news/social/article-1309261.html",
+            "detail": "川崎市川崎区の「日進町交差点」が１０件で続き、同区の「元木交差点」、同市多摩区の「多摩警察署前交差点」…"
+          },
+          {
+            "title": "学園高生、男女平等の課題描く…",
+            "link": "https://www.kanaloco.jp/news/social/article-1309527.html",
+            "detail": "投票も受け付け、得票の多かった作品はランチョンマットのデザインに採用し、市内の…"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "高市早苗氏 自民総裁選出から1年",
+            "link": "https://news.yahoo.co.jp/pickup/6597465?source=rss",
+            "detail": "初の女性首相に就任すると6割以上の高支持率を背景に、2月の衆院選で大勝。"
+          },
+          {
+            "title": "台風27号 小笠原諸島の近海へ北上",
+            "link": "https://news.yahoo.co.jp/pickup/6597463?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "副首都となる要件 4道府県満たす",
+            "link": "https://news.yahoo.co.jp/pickup/6597340?source=rss",
+            "detail": "北海道、愛知県、大阪府、福岡県、4つの道府県が指定される可能性があります。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "機長刺した副操縦士 過去乗務禁止",
+            "link": "https://news.yahoo.co.jp/pickup/6597344?source=rss",
+            "detail": "【カイロ時事】イスラエルに向かっていたアラブ首長国連邦（UAE）の旅客機がサウジアラビアに緊急着陸した事件で…"
+          },
+          {
+            "title": "ハワイ島名所の海食アーチ 崩落",
+            "link": "https://news.yahoo.co.jp/pickup/6597423?source=rss",
+            "detail": "アーチが自然に形成されてから500年あまりの時が。"
+          },
+          {
+            "title": "スシロー1000店舗突破…",
+            "link": "https://news.yahoo.co.jp/articles/1e4d60b1c9dcbdc8451cca910aca6145bdd5730f",
+            "detail": "運営会社FOOD ＆ LIFE COMPANIES(F＆LC)の2025年9月期の売上高は、日本マクドナルドホールディングスの202。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "睡眠学者・柳沢正史が断言「90分の倍数で起き…",
+            "link": "https://diamond.jp/articles/-/400095",
+            "detail": "ノーベル賞の登竜門・ラスカー賞受賞で話題！"
+          },
+          {
+            "title": "「必要な睡眠時間」は生まれつき決まっている？…",
+            "link": "https://dot.asahi.com/books/articles/-/292988",
+            "detail": "そんな議論がたびたび話題になります。"
+          },
+          {
+            "title": "『髪カリスマたち～日本が誇る美容師のワザ～』",
+            "link": "https://www.bsfuji.tv/kamicharisma5/pub/261.html",
+            "detail": "選び抜かれたトップスタイリストたちが追い求めるスタイルをひもといていく。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-03",
     "heading": "10月3日（土曜日）",
     "sections": [
