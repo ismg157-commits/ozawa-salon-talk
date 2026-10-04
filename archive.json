@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-05",
+    "heading": "10月5日（月曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日はくもり",
+            "detail": "最高23℃／最低18℃、降水確率51%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ時々くもり",
+            "detail": "最高27℃／最低21℃、降水確率6%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/10（土））はくもり",
+            "detail": "最高24℃／最低15℃、降水確率2%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "の「危ない交差点」を発表 ２５年事故データ…",
+            "link": "https://www.kanaloco.jp/news/social/article-1309261.html",
+            "detail": "川崎市川崎区の「日進町交差点」が１０件で続き、同区の「元木交差点」、同市多摩区の「多摩警察署前交差点」…"
+          },
+          {
+            "title": "駐車場で車が10歳と2歳を含む親子3人に衝突…",
+            "link": "https://news.tv-asahi.co.jp/news_society/articles/000537881.html",
+            "detail": "いずれもけがをしていて、父親が重傷です。"
+          },
+          {
+            "title": "内外から１０５大学集まる…",
+            "link": "https://news.yahoo.co.jp/articles/9d86df54d4ed45bf9feae68d8b35732068d117ad",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "AI自動運航船 自衛隊に導入へ",
+            "link": "https://news.yahoo.co.jp/pickup/6597567?source=rss",
+            "detail": "年内に改定する安全保障３文書に導入方針を明記し、来年度に調査研究に着手する。"
+          },
+          {
+            "title": "個人情報提供 事前報告を義務化へ",
+            "link": "https://news.yahoo.co.jp/pickup/6597566?source=rss",
+            "detail": "大量のデータを保有する事業者を対象とし、病院や銀行。"
+          },
+          {
+            "title": "DV被害者らの情報漏洩 5年で68件",
+            "link": "https://news.yahoo.co.jp/pickup/6597568?source=rss",
+            "detail": "付による情報漏えいが過去5年間で計68件発生していることが、総務省への取材で。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "ブラジル大統領選 決選投票の公算",
+            "link": "https://news.yahoo.co.jp/pickup/6597553?source=rss",
+            "detail": "【サンパウロ時事】ブラジルで4日、左派のルラ大統領（80）の任期満了に伴う大統領選の投票が行われた。"
+          },
+          {
+            "title": "AI政策司令塔SIフォース 米が創設",
+            "link": "https://news.yahoo.co.jp/pickup/6597563?source=rss",
+            "detail": "自身が名称変更を推進する「スーパーインテリジェンス」（超知能、SI）に。"
+          },
+          {
+            "title": "独 ウに2400億円相当を追加支援へ",
+            "link": "https://news.yahoo.co.jp/pickup/6597536?source=rss",
+            "detail": "【ベルリン時事】ドイツのメルツ首相は4日、ウクライナの首都キーウを訪問した。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "「シスレー」からアイコン美容液と人気のスキン…",
+            "link": "https://www.wwdjapan.com/articles/2513521",
+            "detail": "ト コフレ”（限定、2万3100円）を発売した。"
+          },
+          {
+            "title": "ノーベル賞の有力候補、柳沢正史氏…",
+            "link": "https://www.nikkei.com/article/DGXZQOSG247L80U6A920C2000000/",
+            "detail": "成果は新しい仕組みの睡眠薬や過眠症の一種「ナルコレプシー」の原因に対応した世界初の治療薬につながった。"
+          },
+          {
+            "title": "［スキャナー］「眠気」による経済損失は推計１…",
+            "link": "https://www.yomiuri.co.jp/medical/20261004-GYT1T00246/",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-04",
     "heading": "10月4日（日曜日）",
     "sections": [
