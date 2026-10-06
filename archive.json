@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-06",
+    "heading": "10月6日（火曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日はくもり",
+            "detail": "最高26℃／最低20℃、降水確率31%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ時々くもり",
+            "detail": "最高25℃／最低18℃、降水確率37%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/10（土））はくもり",
+            "detail": "最高23℃／最低15℃、降水確率0%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "国交省のＴＥＣ─ＦＯＲＣＥ…",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zaWR3NDVfdGRxaG1JZVY5aWh4a3N1QjRpZ0RMczdDa3VFLWdteDd1QWItM21kVnNMRUZHSmFEQ3pqN0h6UTB5X1FCeXBxNzZLaDhacGo5Wm1Vc1RsbXBrMlhoU3RLNEUtNGlsTg?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "駐車場へバックが……",
+            "link": "https://news.yahoo.co.jp/articles/f360e340eb2d612862810c43b0b450464f37bc11",
+            "detail": "神奈川県警によりますと、事故があったのは大和市渋谷の駐車場で、4日午後6時半頃、バックして入ろ。"
+          },
+          {
+            "title": "横浜・崎陽軒が期間限定でコラボシウマイ…",
+            "link": "https://www.asahi.com/articles/ASVB511GMVB5ULOB015M.html",
+            "detail": "パッケージで訴える詐欺被害防止の合言葉は「シ・ウ・マ・イの約束」――。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "予算カット発言 農相が撤回し謝罪",
+            "link": "https://news.yahoo.co.jp/pickup/6597627?source=rss",
+            "detail": "簗農林水産大臣が「自民党を支持しなかった自治体の予算をカットした」と発言した問題で発言について撤回し、謝罪しました。"
+          },
+          {
+            "title": "関東など暑さ戻る 気温変化大きく",
+            "link": "https://news.yahoo.co.jp/pickup/6597698?source=rss",
+            "detail": "きょうは天気が回復に向かい、晴れ間の戻る所が多いでしょう。"
+          },
+          {
+            "title": "強殺事件 在沖米軍トップ謝罪せず",
+            "link": "https://news.yahoo.co.jp/pickup/6597631?source=rss",
+            "detail": "ジャミン・ワトソン中将は5日午後、古謝玄太知事からの抗議を受け、「深刻な事態。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "日本の制裁受け 露が対抗措置表明",
+            "link": "https://news.yahoo.co.jp/pickup/6597713?source=rss",
+            "detail": "日本によるロシアへの追加制裁を受け、ロシア外務省は「日本にとって関心のある分野を対象に」対抗措置を取ると表明しました。"
+          },
+          {
+            "title": "NY州で緊急事態宣言 はしか増加",
+            "link": "https://news.yahoo.co.jp/pickup/6597694?source=rss",
+            "detail": "全米ではしかの感染者が急増している。"
+          },
+          {
+            "title": "サウジ 集団防衛態勢へ直ちに移行",
+            "link": "https://news.yahoo.co.jp/pickup/6597702?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "美容液レベルの成分を手肌にも…",
+            "link": "https://www.yakuji.co.jp/entry140108.html",
+            "detail": ""
+          },
+          {
+            "title": "夏が終わっても紫外線に注意…",
+            "link": "https://www.wwdjapan.com/articles/2515747",
+            "detail": "機能性表示食品から栄養機能食品、サプリメント、医薬品などさまざまな商品があるが、区分によって表示できる機能や特徴は異なる。"
+          },
+          {
+            "title": "ノーベル賞の有力候補、柳沢正史氏…",
+            "link": "https://www.nikkei.com/article/DGXZQOSG247L80U6A920C2000000/",
+            "detail": "成果は新しい仕組みの睡眠薬や過眠症の一種「ナルコレプシー」の原因に対応した世界初の治療薬につながった。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-05",
     "heading": "10月5日（月曜日）",
     "sections": [
