@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-07",
+    "heading": "10月7日（水曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日はくもり",
+            "detail": "最高23℃／最低18℃、降水確率61%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ",
+            "detail": "最高23℃／最低16℃、降水確率0%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/10（土））はくもり",
+            "detail": "最高24℃／最低15℃、降水確率0%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "「食事が部屋で準備されるのがぜいたく」…",
+            "link": "https://nlab.itmedia.co.jp/research/articles/4043301/",
+            "detail": "旬の食材を生かした料理や、地元ならではの味覚を堪能できる宿なら、旅の満足度もより高まりそうですよね。"
+          },
+          {
+            "title": "「高等学校教育改革実行計画（仮称）」骨子案に…",
+            "link": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-855075",
+            "detail": ""
+          },
+          {
+            "title": "藤沢の踏切で人身事故…",
+            "link": "https://www.kanaloco.jp/news/social/case/article-1310198.html",
+            "detail": "６日午後１時３５分ごろ、藤沢市本鵠沼５丁目のＪＲ東海道線の学校前踏切（遮断機、警報機付き）で人身事故が発生した。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "自衛隊に原潜導入 検討案が浮上",
+            "link": "https://news.yahoo.co.jp/pickup/6597813?source=rss",
+            "detail": "中国が太平洋などへの海洋進出を強める中、長。"
+          },
+          {
+            "title": "沖縄の米軍関係者 48時間活動停止",
+            "link": "https://news.yahoo.co.jp/pickup/6597806?source=rss",
+            "detail": "沖縄県那覇市のホテルで、米軍普天間基地に所属する米海兵隊上等兵デビン・バラード容疑者（20）が39歳の女性を殺害し財布などを奪った強盗殺人…"
+          },
+          {
+            "title": "簗氏から減額圧力なかった 国交省",
+            "link": "https://news.yahoo.co.jp/pickup/6597776?source=rss",
+            "detail": "簗農林水産大臣が「自民党を支持しなかった自治体の道路予算を大幅にカットした」などと発言した問題について…"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "日本の制裁受け 露が対抗措置表明",
+            "link": "https://news.yahoo.co.jp/pickup/6597713?source=rss",
+            "detail": "日本によるロシアへの追加制裁を受け、ロシア外務省は「日本にとって関心のある分野を対象に」対抗措置を取ると表明しました。"
+          },
+          {
+            "title": "北が声明 地雷は韓国側の自作自演",
+            "link": "https://news.yahoo.co.jp/pickup/6597795?source=rss",
+            "detail": "【北京共同】北朝鮮外務省は6日、韓国軍幹部3人が軍事境界線付近で北朝鮮の地雷爆発によって負傷したとする韓国軍の最終調査結果に対し…"
+          },
+          {
+            "title": "元軍医に銃殺刑 トランプ氏が承認",
+            "link": "https://news.yahoo.co.jp/pickup/6597779?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "ハローキティと初コラボ！…",
+            "link": "https://www.asahi.com/and/w/article/16941785",
+            "detail": "ブースターセラム（4,180円）、Cショットデイリーマスク（3,190円）、VCショットバケツ缶（4,968円）の成分や特長…"
+          },
+          {
+            "title": "「休日に長く眠れる」は寝不足の証拠！…",
+            "link": "https://diamond.jp/articles/-/400099",
+            "detail": "ノーベル賞の登竜門・ラスカー賞受賞で話題！"
+          },
+          {
+            "title": "準備、用意、睡眠：日本で睡眠不足者たちが誰が…",
+            "link": "https://www.arabnews.jp/features/%E6%BA%96%E5%82%99%E7%94%A8%E6%84%8F%E7%9D%A1%E7%9C%A0%E6%97%A5%E6%9C%AC%E3%81%A7%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3%E8%80%85%E3%81%9F%E3%81%A1%E3%81%8C%E8%AA%B0%E3%81%8C%E6%9C%80%E3%82%82%E8%89%AF%E3%81%8F%E5%AF%9D%E3%82%8B%E3%81%8B%E3%82%92%E7%AB%B6%E3%81%86-3000621",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-06",
     "heading": "10月6日（火曜日）",
     "sections": [
