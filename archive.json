@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-08",
+    "heading": "10月8日（木曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ",
+            "detail": "最高23℃／最低16℃、降水確率0%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は快晴",
+            "detail": "最高24℃／最低16℃、降水確率0%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/10（土））は快晴",
+            "detail": "最高24℃／最低16℃、降水確率0%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "特別市とは… 内で自治体を二分する議論に",
+            "link": "https://news.web.nhk/newsweb/na/nd-20261001de53692",
+            "detail": "【NHK】今、身近な地方政治に注目が集まっています。"
+          },
+          {
+            "title": "台風遠いのに“で冠水”…",
+            "link": "https://news.tv-asahi.co.jp/news_society/articles/000538538.html",
+            "detail": "台風が遠く離れているのに神奈川県で冠水被害が発生しました。"
+          },
+          {
+            "title": "天皇、皇后両陛下が台風２５号で被害を受けた千…",
+            "link": "https://www.yomiuri.co.jp/koushitsu/20261007-GYT1T00214/",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "立憲 食料品消費税ゼロから転換",
+            "link": "https://news.yahoo.co.jp/pickup/6597930?source=rss",
+            "detail": "徳永エリ政調会長は記者会見で、経済。"
+          },
+          {
+            "title": "簗農相 衆院選巡り公選法違反疑い",
+            "link": "https://news.yahoo.co.jp/pickup/6597934?source=rss",
+            "detail": "〈《国土交通省が「問い合わせ」認める》簗和生新農相の予算カット“問題発言”とは? 地元会合で“トンデモ発言”【音声入手】〉 から続く。"
+          },
+          {
+            "title": "簗氏が別会合でも同様の発言 証言",
+            "link": "https://news.yahoo.co.jp/pickup/6597882?source=rss",
+            "detail": "道路予算を“報復”で削減した――。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "愛知・大村知事の発言 タイで波紋",
+            "link": "https://news.yahoo.co.jp/pickup/6597927?source=rss",
+            "detail": "愛知・名古屋アジア大会で実施された新競技「テックボール」のタイ代表関係者が食事メニューが少なかったとSNS（交流サイト）に投稿したことに対…"
+          },
+          {
+            "title": "ガザ戦闘から3年 死者は7万4000人",
+            "link": "https://news.yahoo.co.jp/pickup/6597866?source=rss",
+            "detail": "イスラエルとイスラム組織ハマスとの戦闘が始まってから、きょうで3年となります。"
+          },
+          {
+            "title": "意識回復の米死刑囚に重い症状",
+            "link": "https://news.yahoo.co.jp/pickup/6597956?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "最新の睡眠学が導く…",
+            "link": "https://diamond.jp/articles/-/400526",
+            "detail": "今月、ダイヤモンド社書籍編集局から刊行される書籍をご紹介します。"
+          },
+          {
+            "title": "美容液仕立ての粉感レスパウダーで…",
+            "link": "https://corp.shiseido.com/jp/news/detail.html?n=00000000004229",
+            "detail": ""
+          },
+          {
+            "title": "matsukiyo…",
+            "link": "https://www.yakuji.co.jp/entry140227.html",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-07",
     "heading": "10月7日（水曜日）",
     "sections": [
