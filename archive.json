@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-09",
+    "heading": "10月9日（金曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は快晴",
+            "detail": "最高24℃／最低16℃、降水確率0%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は快晴",
+            "detail": "最高24℃／最低16℃、降水確率0%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/11（日））は快晴",
+            "detail": "最高25℃／最低17℃、降水確率0%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "県警巡査長、免許証を不正持ち出し…",
+            "link": "https://news.yahoo.co.jp/articles/4b7d6f4ab8ca341c9788ea3c66f180f3f71ad342",
+            "detail": "県警は、入手した目的や経緯を調べる。"
+          },
+          {
+            "title": "県警の警察官が失効免許証を無断で持ち出し…",
+            "link": "https://www.asahi.com/articles/ASVB825C6VB8ULOB00BM.html",
+            "detail": "警備部門の監視対象者の個人情報を確認するために使われていた…"
+          },
+          {
+            "title": "県警の警察官が回収した失効免許証を無断持ち出…",
+            "link": "https://news.yahoo.co.jp/articles/96f3b4925706c8f07c8f4a3f3a1b513d36c791ad",
+            "detail": "神奈川県警保土ケ谷警察署の警備課に所属する20代の男性巡査長は、運転免許の更新の際に…"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "参院幹事長の交代 自民議員が批判",
+            "link": "https://news.yahoo.co.jp/pickup/6598060?source=rss",
+            "detail": "自民党参院幹事長だった石井準一氏を9月の党役員人事で交代させたことを巡って、8日の党参院議員総会で批判が上がった。"
+          },
+          {
+            "title": "参院農水委の開催に応じず 立憲",
+            "link": "https://news.yahoo.co.jp/pickup/6598036?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "医療業界 精神障害の労災3倍に",
+            "link": "https://news.yahoo.co.jp/pickup/6598086?source=rss",
+            "detail": "政府はきょう、過労死の現状や国の対策をまとめた今年の「過労死白書」を閣議決定しました。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "ロシア ICC所長らの引き渡し要求",
+            "link": "https://news.yahoo.co.jp/pickup/6598055?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "米国防総省 銃殺刑を生配信へ",
+            "link": "https://news.yahoo.co.jp/pickup/6598082?source=rss",
+            "detail": "基地で銃を乱射して13人を殺害し、殺人罪などで死刑判決を受けた元軍医ニダ。"
+          },
+          {
+            "title": "韓国とウクライナ 対立深まる背景",
+            "link": "https://news.yahoo.co.jp/pickup/6598034?source=rss",
+            "detail": "発端はロシアに派兵された北朝鮮軍の捕虜をめぐる問題だが、今度は韓国からロシアへの石油製品輸出疑惑に飛び火した。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "宝石のように肌を磨き上げる「スキンケア」コフ…",
+            "link": "https://www.kateigaho.com/migaku/biyou/183036",
+            "detail": ""
+          },
+          {
+            "title": "北山宏光、難役続きに感謝…",
+            "link": "https://www.tv-tokyo.co.jp/plus/drama/entry/202610/20131.html",
+            "detail": "10月7日（水）にスタートした水ドラ25「私があなたといる理由２～グアムを訪れた８人の男女の10日間～」（毎週水曜深夜1時）。"
+          },
+          {
+            "title": "「beyond NORMAL.…",
+            "link": "https://prtimes.jp/main/html/rd/p/000000039.000127340.html",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-08",
     "heading": "10月8日（木曜日）",
     "sections": [
