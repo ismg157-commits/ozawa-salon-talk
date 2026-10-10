@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-10",
+    "heading": "10月10日（土曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は快晴",
+            "detail": "最高24℃／最低16℃、降水確率0%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は快晴",
+            "detail": "最高25℃／最低17℃、降水確率0%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/12（月））は晴れ",
+            "detail": "最高25℃／最低18℃、降水確率0%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "英語学習にAIアプリ…",
+            "link": "https://news.yahoo.co.jp/articles/f990ec9aad83ff99cb3f14c1645cceb6c73c5f77",
+            "detail": "ＡＩキャラクターを相手にした英会話のトレーニングや英作文の自動添削などが可能で、自分のペースで主体。"
+          },
+          {
+            "title": "県警の警察官が回収した運転免許証を無断持ち出…",
+            "link": "https://news.tv-asahi.co.jp/news_society/articles/000538904.html",
+            "detail": "捜査関係者によりますと、神奈川県警保土ケ谷警察。"
+          },
+          {
+            "title": "県警の警察官のリュックから期限切れ免許証約3…",
+            "link": "https://newsdig.tbs.co.jp/articles/-/3000477",
+            "detail": "捜査関係者によりますと、外部に持ち出された運転免許証は更新で訪れた市民から回収した…"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "簗大臣お支えチーム 農水省新設",
+            "link": "https://news.yahoo.co.jp/pickup/6598189?source=rss",
+            "detail": "簗氏をめぐっては当該発言とは別に、公職選挙法違反の疑いがあ。"
+          },
+          {
+            "title": "簗氏「国交省にやらせる」 24年に",
+            "link": "https://news.yahoo.co.jp/pickup/6598180?source=rss",
+            "detail": "国からの道路予算を「カットした」と発言したと報道され、その後に予算削減の働きかけは否定した簗（やな）和生農林水産相が…"
+          },
+          {
+            "title": "文科相 議員会館内でパーティーか",
+            "link": "https://news.yahoo.co.jp/pickup/6598193?source=rss",
+            "detail": "ていたとみられることが9日、判明した。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米 ICC本体を制裁対象⁠に指定",
+            "link": "https://news.yahoo.co.jp/pickup/6598196?source=rss",
+            "detail": "ＩＣＣにサービスを提供する企業も制裁対象となる‌。"
+          },
+          {
+            "title": "制裁対象指定 ICC赤根所長が声明",
+            "link": "https://news.yahoo.co.jp/pickup/6598208?source=rss",
+            "detail": "アメリカのトランプ政権がICC（国際刑事裁判所）の「本体」を制裁対象としたことに対し…"
+          },
+          {
+            "title": "露 米や世界向けの軽油供給開始へ",
+            "link": "https://news.yahoo.co.jp/pickup/6598216?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "最も栄養豊富なのは？…",
+            "link": "https://weathernews.jp/news/202610/040231/",
+            "detail": "低カロリーなだけでなく、美容や健康に嬉しい栄養が含まれています。"
+          },
+          {
+            "title": "「お酒はやめなくていい」睡眠学者・柳沢正史が…",
+            "link": "https://diamond.jp/articles/-/400292",
+            "detail": "ノーベル賞の登竜門・ラスカー賞受賞で話題！"
+          },
+          {
+            "title": "栄養もエネルギーも自分でつくらない微生物「ス…",
+            "link": "https://www.tsukuba.ac.jp/journal/biology-environment/20261010000000.html",
+            "detail": "生物がどこまで単純になれるのかを考える上で、重要な手がかりとなる発見です。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-09",
     "heading": "10月9日（金曜日）",
     "sections": [
