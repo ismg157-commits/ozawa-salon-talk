@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-11",
+    "heading": "10月11日（日曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ",
+            "detail": "最高25℃／最低17℃、降水確率0%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ時々くもり",
+            "detail": "最高24℃／最低18℃、降水確率0%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/17（土））はくもり",
+            "detail": "最高22℃／最低18℃、降水確率12%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "[国スポ少年男子]登録メンバー",
+            "link": "https://web.gekisaka.jp/news/kokutai/detail/?460612-460612-fl",
+            "detail": ""
+          },
+          {
+            "title": "地域展開で部員が費用負担も 内の３市で該当…",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zQzdsc3k2djVNRjlKSG9zcElHM2Q3NzBHUWRjUTJaM3B0Z0pyWUlPMTd4Qjl0clBOTGktbU5NRWhKUjdkZVgweFUydWNfZDR6YmlWcEtWNHFVbl8xQUxRRFc5eVJXclE?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "県警の警察官が回収した運転免許証を無断持ち出…",
+            "link": "https://news.tv-asahi.co.jp/news_society/articles/000538904.html",
+            "detail": "捜査関係者によりますと、神奈川県警保土ケ谷警察。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "外相 赤根・ルビオ両氏と電話協議",
+            "link": "https://news.yahoo.co.jp/pickup/6598307?source=rss",
+            "detail": "茂木敏充外相は10日夜、米政府が国際刑事裁判所（ICC、本部＝オランダ・ハーグ）を制裁対象にしたことを受け、ICCの赤根智子所長…"
+          },
+          {
+            "title": "西山白玲 棋士になる権利行使保留",
+            "link": "https://news.yahoo.co.jp/pickup/6598284?source=rss",
+            "detail": "将棋の西山朋佳白玲＝清麗、女流名人、女流王将＝に福間香奈女流四冠＝女王、女流王座、女流王位…"
+          },
+          {
+            "title": "いい迷惑 農相に地元から苦言続出",
+            "link": "https://news.yahoo.co.jp/pickup/6598280?source=rss",
+            "detail": "簗（やな）和生農林水産相の「予算カット」発言をめぐり、簗氏の地元の栃木県で10日、自民党県連の政治資金パーティーがあった。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米大統領 製油所攻撃巡りウに警告",
+            "link": "https://news.yahoo.co.jp/pickup/6598320?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "米がICC制裁 日本など8カ国反対",
+            "link": "https://news.yahoo.co.jp/pickup/6598255?source=rss",
+            "detail": "外務省は10日未明、米国が国際刑事裁判所（ICC）への制裁を決定したことを受けて、英仏などの7カ国と、ICCの支持を訴える外相共同声明を出した。"
+          },
+          {
+            "title": "米長官 ICCの「資金源断ちきる」",
+            "link": "https://news.yahoo.co.jp/pickup/6598289?source=rss",
+            "detail": "ルビオ国務長官は声明で「資金源を断ちきる」と表明した。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "最も栄養豊富なのは？…",
+            "link": "https://weathernews.jp/news/202610/040231/",
+            "detail": "低カロリーなだけでなく、美容や健康に嬉しい栄養が含まれています。"
+          },
+          {
+            "title": "美容医療発想の【新作スキンケア】IC.U・エ…",
+            "link": "https://lee.hpplus.jp/column/3759076/",
+            "detail": ""
+          },
+          {
+            "title": "ジェトロ、「バンコク日本博」で日本の化粧品・…",
+            "link": "https://www.jetro.go.jp/biznews/2026/10/101e166e185f04c7.html",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-10",
     "heading": "10月10日（土曜日）",
     "sections": [
