@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-12",
+    "heading": "10月12日（月曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ",
+            "detail": "最高25℃／最低17℃、降水確率4%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ",
+            "detail": "最高25℃／最低18℃、降水確率4%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/17（土））はくもり",
+            "detail": "最高23℃／最低18℃、降水確率21%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "字面がかっこいい「の私立大学」ランキングTO…",
+            "link": "https://nlab.itmedia.co.jp/research/articles/4049090/",
+            "detail": "東京都に隣接し、横浜や湘南など特色の異なる地域を持つ神奈川県。"
+          },
+          {
+            "title": "県警の警察官が期限切れの運転免許証…",
+            "link": "https://newsdig.tbs.co.jp/articles/-/3000697",
+            "detail": "捜査関係者によりますと、神奈川県警保土ケ谷警察署・警備課の男性巡査長（20代）は今年…"
+          },
+          {
+            "title": "県警の警察官が回収した運転免許証を無断持ち出…",
+            "link": "https://news.tv-asahi.co.jp/news_society/articles/000538904.html",
+            "detail": "捜査関係者によりますと、神奈川県警保土ケ谷警察。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "台風29号で高波 海のレジャー注意",
+            "link": "https://news.yahoo.co.jp/pickup/6598458?source=rss",
+            "detail": "今日12日(月・スポーツの日)午前3時現在、非常に強い台風29号は小笠原近海を北上しています。"
+          },
+          {
+            "title": "定数削減 自民幹事長の腹案に波紋",
+            "link": "https://news.yahoo.co.jp/pickup/6598430?source=rss",
+            "detail": "従来は衆院定数（465）の1割程度に当たる「45減」の是非が議論の中心だったが、5日の記者会見で自民党の鈴木俊一幹事長。"
+          },
+          {
+            "title": "防衛関連経費で鉄道整備検討 政府",
+            "link": "https://news.yahoo.co.jp/pickup/6598427?source=rss",
+            "detail": "年末に改定する安全保障関連3文書に鉄道整備の重要性を明記する方向だ。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "エネルギー停戦発表 ウは「初耳」",
+            "link": "https://news.yahoo.co.jp/pickup/6598444?source=rss",
+            "detail": "【キーウ共同】ウクライナのゼレンスキー大統領は11日、トランプ米大統領の一方的な停戦発表に関し「初耳だった。"
+          },
+          {
+            "title": "ウ軍「露のGoogle」を相次ぎ攻撃",
+            "link": "https://news.yahoo.co.jp/pickup/6598438?source=rss",
+            "detail": "【モスクワ共同】ロシアIT大手ヤンデックスは11日…"
+          },
+          {
+            "title": "米ウ首脳 露軽油の制裁緩和で応酬",
+            "link": "https://news.yahoo.co.jp/pickup/6598451?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "心不全患者における栄養と食事の注意点",
+            "link": "https://medical.nikkeibp.co.jp/leaf/mem/pub/series/academy_ohnishi/202610/594474.html",
+            "detail": "心不全の定義や分類、病態をはじめ、治療のポイント、合併症管理のtipsなど…"
+          },
+          {
+            "title": "最も栄養豊富なのは？…",
+            "link": "https://weathernews.jp/news/202610/040231/",
+            "detail": "低カロリーなだけでなく、美容や健康に嬉しい栄養が含まれています。"
+          },
+          {
+            "title": "「バンコク日本博」で日本の化粧品・美容関連商…",
+            "link": "https://www.jetro.go.jp/biznews/2026/10/101e166e185f04c7.html",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-11",
     "heading": "10月11日（日曜日）",
     "sections": [
