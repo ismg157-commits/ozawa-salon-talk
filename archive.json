@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-13",
+    "heading": "10月13日（火曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ時々くもり",
+            "detail": "最高23℃／最低17℃、降水確率4%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高25℃／最低20℃、降水確率40%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/17（土））はくもり",
+            "detail": "最高23℃／最低18℃、降水確率21%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "（）横浜市中区根岸町３丁目でつきまとい…",
+            "link": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1482549901088129858",
+            "detail": ""
+          },
+          {
+            "title": "[国スポ少年男子]今大会屈指のタレント力誇る…",
+            "link": "https://news.yahoo.co.jp/articles/3fb04a6a6d8a1996233d2d8c8da60474d920cb7c",
+            "detail": ""
+          },
+          {
+            "title": "薪能で幽玄の世界堪能 伊勢原市",
+            "link": "https://sp.m.jiji.com/article/show/3887908",
+            "detail": "大山火祭薪能は、約３００年前の元禄時代に始まったとされる「大山能」を受け継ぐ神事芸能。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "議員会館でパーティー 文科相謝罪",
+            "link": "https://news.yahoo.co.jp/pickup/6598592?source=rss",
+            "detail": "衆院は会館内でのパーティー開催を禁止しているが。"
+          },
+          {
+            "title": "予算委 野党は簗氏の発言を追及へ",
+            "link": "https://news.yahoo.co.jp/pickup/6598573?source=rss",
+            "detail": "野党は簗農林水産大臣の「予算カット」発言などを問題視していて、厳しく追及します。"
+          },
+          {
+            "title": "中露朝が連動し日本批判 政府警戒",
+            "link": "https://news.yahoo.co.jp/pickup/6598555?source=rss",
+            "detail": "高市首相は国連総会で、国連憲章の「旧敵国条項」の削除を求めたが、３か国は足並みをそろえ、。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "ICC制裁 赤根智子所長がコメント",
+            "link": "https://news.yahoo.co.jp/pickup/6598542?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "平和賞のピレイ氏 ICC職員を激励",
+            "link": "https://news.yahoo.co.jp/pickup/6598576?source=rss",
+            "detail": "今年のノーベル平和賞受賞が決まったインド系南アフリカ人の法律家ナビ・ピレイ氏（85）が12日…"
+          },
+          {
+            "title": "英基地事件はイラン関与 共同声明",
+            "link": "https://news.yahoo.co.jp/pickup/6598574?source=rss",
+            "detail": "で、テロを準備した疑いで7人の男が逮捕された事件で、イギリスやアメリカなど2。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "食べる前のひと手間でキノコの栄養価はさらに高…",
+            "link": "https://natgeo.nikkeibp.co.jp/atcl/news/26/100900557/",
+            "detail": "また、あるひと工夫で増やせる栄養もある。"
+          },
+          {
+            "title": "栄養もエネルギーも自分でつくらない微生物「ス…",
+            "link": "https://www.kyoto-u.ac.jp/ja/research-news/2026-10-13-1",
+            "detail": ""
+          },
+          {
+            "title": "国内に実店舗を持たない日本発スキンケア「20…",
+            "link": "https://prtimes.jp/main/html/rd/p/000000252.000019564.html",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-12",
     "heading": "10月12日（月曜日）",
     "sections": [
