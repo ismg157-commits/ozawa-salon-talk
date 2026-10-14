@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-15",
+    "heading": "10月15日（木曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ時々くもり",
+            "detail": "最高21℃／最低17℃、降水確率6%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日はくもり",
+            "detail": "最高24℃／最低17℃、降水確率8%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/17（土））は晴れ",
+            "detail": "最高23℃／最低18℃、降水確率0%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "藤沢、綾瀬、横須賀……",
+            "link": "https://news.yahoo.co.jp/articles/59e27d606263edce6135a651121112fbcbe34955",
+            "detail": "藤沢市は14日、市民に防災情報や健康に関する情報を伝えるメールマガジンに不正アクセスがあり、登録した市民の個人情報が漏えい。"
+          },
+          {
+            "title": "内自治体 委託会社に不正アクセス…",
+            "link": "https://www.tokyo-np.co.jp/article/521670",
+            "detail": "自治体の防災情報などを配信するサービスを手がけるアルカディア（大阪府箕面市）が不正アクセスを受けた影響で、同社と契約する神奈川県内自治...。"
+          },
+          {
+            "title": "「安全・安心メール」の個人情報漏えいの可能性…",
+            "link": "https://news.tv-asahi.co.jp/news_society/articles/000539842.html",
+            "detail": "正アクセスがあり、約1万1000人の個人情報などが漏洩（ろうえい）した可能性がある。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "簗農相が辞表提出 事実上の更迭か",
+            "link": "https://news.yahoo.co.jp/pickup/6598765?source=rss",
+            "detail": "簗農林水産大臣は、選挙期間中に無料でシャトルバスで支持者を送迎した問題などをめぐり、高市総理大臣に辞表を提出しました。"
+          },
+          {
+            "title": "簗農相の辞任 なぜこのタイミング",
+            "link": "https://news.yahoo.co.jp/pickup/6598808?source=rss",
+            "detail": "14日午後、簗農水大臣が高市総理との面会を終え、辞表を提出した。"
+          },
+          {
+            "title": "農相辞任「当然」地元有権者怒り",
+            "link": "https://news.yahoo.co.jp/pickup/6598798?source=rss",
+            "detail": "辞任した簗和生農林水産相（47）の地元、衆院栃木3区の有権者からは「姑息（こそく）な発言」「辞めて当然」など厳しい声が相次いだ。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "ウのEU加盟 ハンガリー反対撤回",
+            "link": "https://news.yahoo.co.jp/pickup/6598724?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "銃殺刑の配信 米大統領が中止検討",
+            "link": "https://news.yahoo.co.jp/pickup/6598700?source=rss",
+            "detail": "（CNN） 米テキサス州の陸軍基地で起きた銃撃事件に関連して…"
+          },
+          {
+            "title": "海峡で機雷接触の貨物船沈没 報道",
+            "link": "https://news.yahoo.co.jp/pickup/6598794?source=rss",
+            "detail": "APは、2月末に始まった米国との戦闘でイラン側が船舶沈没を明らかにしたのは。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "ボトックス、ヒアルロン酸のリスク",
+            "link": "https://www.smartnews.com/news/article/5001284986750378990-%E3%80%90%E3%82%84%E3%81%A3%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84%E7%BE%8E%E5%AE%B9%E5%8C%BB%E7%99%82%E3%80%91%E3%83%9C%E3%83%88%E3%83%83%E3%82%AF%E3%82%B9%E3%80%81%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%B3%E9%85%B8%E3%81%AE%E3%83%AA%E3%82%B9%E3%82%AF",
+            "detail": "「あの人、整形しているんだって」と噂話になるのも今や昔。"
+          },
+          {
+            "title": "Sleep Health Seminar…",
+            "link": "https://okayamas.johas.go.jp/2026-1214s/",
+            "detail": "産業保健職に必要な睡眠の基礎知識から、職域における睡眠時無呼 …"
+          },
+          {
+            "title": "戸田恵梨香さん、通常版とSpecial…",
+            "link": "https://prtimes.jp/main/html/rd/p/000009052.000001719.html",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-14",
     "heading": "10月14日（水曜日）",
     "sections": [
