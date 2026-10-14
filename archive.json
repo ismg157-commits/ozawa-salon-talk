@@ -1,5 +1,106 @@
 [
   {
+    "id": "2026-10-14",
+    "heading": "10月14日（水曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "天気の話題を取得できませんでした",
+            "detail": "",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "[国スポ少年女子]が初出場初優勝の偉業達成!…",
+            "link": "https://news.yahoo.co.jp/articles/19803d5b5759f2395b628a83ec6934505e03b994",
+            "detail": ""
+          },
+          {
+            "title": "秦野市の緊急情報メールに不正アクセス…",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OOU1lMVNtR0Jnb1Z4WjNwNGhMQnd3UkRsRThhWk1kYTdTOFp0SUdORDU4dVJyY293TlRXRzhBVk5YQmtrY0dPaC1tdncxTjJGQVA4dVlLZVFTNE42N242REN1dk9XUjFtc19IdA?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "横須賀市「防災情報メール」などの個人情報漏洩…",
+            "link": "https://news.tv-asahi.co.jp/news_society/articles/000539887.html",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "簗氏答弁受け 選管「あり得ない」",
+            "link": "https://news.yahoo.co.jp/pickup/6598637?source=rss",
+            "detail": "げについて説明した10月13日午前の国会答弁について、地元の栃木県選挙管理委員。"
+          },
+          {
+            "title": "食事券発行の需要喚起策 見送りへ",
+            "link": "https://news.yahoo.co.jp/pickup/6598655?source=rss",
+            "detail": "恩恵が大規模事業者に偏る可能性があり、支援の実効。"
+          },
+          {
+            "title": "東大学長選 教職員有志が説明要望",
+            "link": "https://news.yahoo.co.jp/pickup/6598647?source=rss",
+            "detail": "東京大が次期学長に学内投票で2位だった大学院総合文化研究科の藤垣裕子教授を選出したことを巡り、東京大の教職員有志が選考会議のメンバーらに…"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "道新記者をサハリンで拘束 露当局",
+            "link": "https://news.yahoo.co.jp/pickup/6598670?source=rss",
+            "detail": "ロシアの防衛能力に関する情報を収集したと主張し、記者を。"
+          },
+          {
+            "title": "韓国で切り付け事件 1人心肺停止",
+            "link": "https://news.yahoo.co.jp/pickup/6598625?source=rss",
+            "detail": "韓国のソウル近郊・仁川の商業施設で13日午後、切りつけ事件があり、8人がケガをし、このうち1人が心肺停止だということです。"
+          },
+          {
+            "title": "写真大手ゲッティ 米破産法申請へ",
+            "link": "https://news.yahoo.co.jp/pickup/6598683?source=rss",
+            "detail": "スポーツを含めた主要国際ニュースの。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "池上彰のSTEAM教育革新…",
+            "link": "https://www.nikkei.com/article/DGXZQOCD072JK0X01C26A0000000/",
+            "detail": "今回は「『睡眠』で学びを呼び覚ませ！"
+          },
+          {
+            "title": "美容エディターが選ぶ…",
+            "link": "https://www.kateigaho.com/migaku/biyou/183146",
+            "detail": ""
+          },
+          {
+            "title": "公開講座「低栄養up",
+            "link": "https://www.sagami-wu.ac.jp/info/20261013_10/",
+            "detail": "相模女子大学は、創立120年になる幼稚部から大学院までの総合学園として、「高潔善美」を建学の精神に、発想力を養い…"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-13",
     "heading": "10月13日（火曜日）",
     "sections": [
