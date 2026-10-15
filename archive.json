@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-16",
+    "heading": "10月16日（金曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日はくもり",
+            "detail": "最高24℃／最低17℃、降水確率21%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ",
+            "detail": "最高23℃／最低18℃、降水確率0%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/18（日））は晴れ",
+            "detail": "最高22℃／最低14℃、降水確率0%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "「これだけで不審者扱い？」Suicaが使える…",
+            "link": "https://news.yahoo.co.jp/articles/8c570aaa8a3bc1d709376395939cd76fc1093bcf",
+            "detail": "全国の不審者情報を発信するXアカウントが7日、神奈川県相模原市で発生したという不審者情報を投稿した。"
+          },
+          {
+            "title": "（）茅ケ崎市東海岸南で下半身露出…",
+            "link": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1483488082941411515",
+            "detail": ""
+          },
+          {
+            "title": "10月15日11時半現在（tvkニュース（テ…",
+            "link": "https://news.yahoo.co.jp/articles/5158a3f5275e53e8de0f70edc83bd3ea04d627b6",
+            "detail": "神奈川県警によりますとこれまでに横浜市金沢区能見台、神奈川区三枚町、青葉区あざみ野、川崎市中原区下小田中で詐欺の電話がかかってきています。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "防衛費 米要求の3.5%明示見送りへ",
+            "link": "https://news.yahoo.co.jp/pickup/6598944?source=rss",
+            "detail": "権が同盟国に求める「3.5%」の目標の明示を見送る方向で検討していることがわ。"
+          },
+          {
+            "title": "金融所得を医療費に反映 29年8月",
+            "link": "https://news.yahoo.co.jp/pickup/6598942?source=rss",
+            "detail": "株式の配当や譲渡益などを把握し、支払い能力に応じ。"
+          },
+          {
+            "title": "木原官房長官 拉致未解決を陳謝",
+            "link": "https://news.yahoo.co.jp/pickup/6598929?source=rss",
+            "detail": "木原稔官房長官は15日の記者会見で、北朝鮮による日本人拉致被害者5人の帰国から24年が経過したことへの見解を問われ…"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "邦人記者拘束 露の狙いを識者指摘",
+            "link": "https://news.yahoo.co.jp/pickup/6598834?source=rss",
+            "detail": "ロシア当局によって日本人記者が拘束されました。"
+          },
+          {
+            "title": "米大統領 機密情報漏れ説明し不満",
+            "link": "https://news.yahoo.co.jp/pickup/6598822?source=rss",
+            "detail": "米憲法で定められた報道の自由に後ろ向。"
+          },
+          {
+            "title": "トランプ氏 銃殺刑の配信計画中止",
+            "link": "https://news.yahoo.co.jp/pickup/6598936?source=rss",
+            "detail": "共同】トランプ米大統領は15日、殺人罪などで死刑判決を受けた米軍の元少佐の男の。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "オルビス、泡美容液発想の「オルビスユー…",
+            "link": "https://netkeizai.com/articles/detail/20219",
+            "detail": "冬の乾燥でくすみやすい肌を、湯上がりのようなうるおいとツヤのある肌へ導くとしている。"
+          },
+          {
+            "title": "高齢者向け完全栄養アイス「Me…",
+            "link": "https://prtimes.jp/main/html/rd/p/000000015.000138949.html",
+            "detail": ""
+          },
+          {
+            "title": "「月収140万円」美容医療に流れる医師…",
+            "link": "https://www.nikkei.com/article/DGXZQOUA295ZT0Z20C26A6000000/",
+            "detail": "都市部を中心に求人はコロナ禍以前の6倍超に急増し、厚待遇もあって若手や地方の人材の転職が相次ぐ。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-15",
     "heading": "10月15日（木曜日）",
     "sections": [
