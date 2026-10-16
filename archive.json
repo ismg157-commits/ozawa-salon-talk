@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-17",
+    "heading": "10月17日（土曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ時々くもり",
+            "detail": "最高22℃／最低17℃、降水確率0%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は快晴",
+            "detail": "最高22℃／最低13℃、降水確率0%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/19（月））はくもり",
+            "detail": "最高25℃／最低18℃、降水確率22%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "（）横浜市緑区白山１丁目で声かけ…",
+            "link": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1483753836265406468",
+            "detail": ""
+          },
+          {
+            "title": "（）横浜市保土ケ谷区法泉１丁目でつきまとい…",
+            "link": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1483807186739806469",
+            "detail": ""
+          },
+          {
+            "title": "ＤｅＮＡ、日本シリーズ進出へ王手…",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LRmFVdTgtMnRMZEkza2NkeGVUdVN5endkUFZ5RWZFN1hRVE1WMFNwTzdVSDZLVjhPN1l3Q2N5bjNaZGdiRjVGZktNb1luZGsyMHJYZERwTW16SEdRR2JnVDBKYkllTjhJQnlGY3A0bEdpeWxMTzJuRQ?oc=5",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "自公再連立巡り 斉藤元代表が含み",
+            "link": "https://news.yahoo.co.jp/pickup/6599028?source=rss",
+            "detail": "公明党の斉藤鉄夫元代表は16日、自民党との連立政権離脱表明から1年を過ぎたのを受け、共同通信のインタビューに応じた。"
+          },
+          {
+            "title": "簗前農相 運動員への支払い指示か",
+            "link": "https://news.yahoo.co.jp/pickup/6599011?source=rss",
+            "detail": "簗和生前農相（47）の陣営が、過去の衆院選で報酬を支払った選挙事務員に投票依頼の電話をさせていたとする問題を巡り…"
+          },
+          {
+            "title": "生活文化分野で人間国宝 初認定へ",
+            "link": "https://news.yahoo.co.jp/pickup/6599014?source=rss",
+            "detail": "文化審議会は１６日、「立花（りっか）」「吟醸造り」「京料理（会席）」を新たに重要無形文化財に指定し、その保持者（人間国宝）に…"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "露拘束の記者と領事面会できず",
+            "link": "https://news.yahoo.co.jp/pickup/6599059?source=rss",
+            "detail": "ロシア当局にスパイ容疑で拘束された北海道新聞の日本人記者をめぐり、日本大使館の関係者が16日、領事面会のために拘置所を訪れるも…"
+          },
+          {
+            "title": "記者拘束 露国民との交換狙いか",
+            "link": "https://news.yahoo.co.jp/pickup/6599046?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "記者拘束で日本抗議 露大使館拒否",
+            "link": "https://news.yahoo.co.jp/pickup/6598955?source=rss",
+            "detail": "在日ロシア大使館は北海道新聞の日本人記者がスパイ容疑で拘束された問題をめぐり、日本政府から受けた抗議を「断固として拒否した」と発表しました。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "Z世代に広がる睡眠キャンセル界隈…",
+            "link": "https://forbesjapan.com/articles/detail/106353",
+            "detail": ""
+          },
+          {
+            "title": "国連、商業供給停止でガザの栄養不良改善が脆弱…",
+            "link": "https://www.arabnews.jp/middle-east/%E5%9B%BD%E9%80%A3%E5%95%86%E6%A5%AD%E4%BE%9B%E7%B5%A6%E5%81%9C%E6%AD%A2%E3%81%A7%E3%82%AC%E3%82%B6%E3%81%AE%E6%A0%84%E9%A4%8A%E4%B8%8D%E8%89%AF%E6%94%B9%E5%96%84%E3%81%8C%E8%84%86%E5%BC%B1%E3%81%A7%E3%81%82%E3%82%8B%E3%81%A8%E8%AD%A6%E5%91%8A-3000852",
+            "detail": ""
+          },
+          {
+            "title": "自称ショートスリーパーは「悲しい人生」を送っ…",
+            "link": "https://diamond.jp/articles/-/400356",
+            "detail": "ノーベル賞の登竜門・ラスカー賞受賞で話題！"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-16",
     "heading": "10月16日（金曜日）",
     "sections": [
