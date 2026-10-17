@@ -1,5 +1,100 @@
 [
   {
+    "id": "2026-10-18",
+    "heading": "10月18日（日曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ",
+            "detail": "最高22℃／最低13℃、降水確率2%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は霧雨",
+            "detail": "最高25℃／最低18℃、降水確率29%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/24（土））は雨",
+            "detail": "最高23℃／最低17℃、降水確率55%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": []
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "新たな教科書は「紙中心」素案",
+            "link": "https://news.yahoo.co.jp/pickup/6599189?source=rss",
+            "detail": "２０３０年度以降に小中高で導入されるデジタル教科書のあり方を示す文部科学省の「大臣指針」素案が１７日、判明した。"
+          },
+          {
+            "title": "墜落の無人機胴体一部か 空自回収",
+            "link": "https://news.yahoo.co.jp/pickup/6599163?source=rss",
+            "detail": "大型の無人偵察機「グローバルホーク」1機が墜落した事故で、航空自衛隊はきょう（17日）、機体の胴体の一部と思われる物体を回収したと発表しました。"
+          },
+          {
+            "title": "「簗前農相の圧力」の検証 困難に",
+            "link": "https://news.yahoo.co.jp/pickup/6599160?source=rss",
+            "detail": "簗氏の問い合わせに対応した国土交通省が照会記録を残していないとしているためだ。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米大統領 対露制裁関税適用を免除",
+            "link": "https://news.yahoo.co.jp/pickup/6599098?source=rss",
+            "detail": "する主要国に課す100％の関税の適用を免除する大統領令に署名した。"
+          },
+          {
+            "title": "中国車 ノルウェー軍情報を記録",
+            "link": "https://news.yahoo.co.jp/pickup/6599145?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "ロシア 最激戦地「制圧」と主張",
+            "link": "https://news.yahoo.co.jp/pickup/6599083?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "BMWは2027年3月…",
+            "link": "https://news.yahoo.co.jp/articles/757205c20c8297ed415eafdc9da2e3524a4dbb23?source=rss",
+            "detail": "発売当初は2つの4WDモデルがラインナップされ、その後まもなく、最大612馬力を誇る最上位。"
+          },
+          {
+            "title": "「スマホ、本、財布は余裕で入る」…",
+            "link": "https://news.yahoo.co.jp/articles/cbf4feda23e6926b6c5c7047a4e3fd00ac54c189?source=rss",
+            "detail": "年齢や性別を問わず使えるシンプルなバッグは、普段のコーディネートに取り入れやすく、長く愛用しやすいのが魅力。"
+          },
+          {
+            "title": "「3つのファスナーで分けて収納」郵便局限定ス…",
+            "link": "https://news.yahoo.co.jp/articles/46a99ef87c70fd73a030166555d8dba6dc1b1a32?source=rss",
+            "detail": "すっかり秋めいてきて、寒い地域ではすでに紅葉狩りのシーズンが到来しているところもありますね。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-17",
     "heading": "10月17日（土曜日）",
     "sections": [
