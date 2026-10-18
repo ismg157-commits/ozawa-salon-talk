@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-19",
+    "heading": "10月19日（月曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高25℃／最低19℃、降水確率5%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高24℃／最低22℃、降水確率42%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/24（土））はにわか雨",
+            "detail": "最高19℃／最低17℃、降水確率84%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "駅前から「改憲反対」…",
+            "link": "https://www.tokyo-np.co.jp/article/521904",
+            "detail": "高市早苗首相が憲法改正に強い意欲を見せる中、神奈川県内の街中でも、改憲や戦争への反対を訴えるスタンディングデモが広がっている。"
+          },
+          {
+            "title": "厚木に「4車線の環状ルート」11月に開通…",
+            "link": "https://carview.yahoo.co.jp/news/detail/b0298d58e7486454fd2d9ddb4480725453efdd49/",
+            "detail": "厚木環状3号線は、厚木市長谷から棚沢までをつ...。"
+          },
+          {
+            "title": "（）川崎市高津区溝口４丁目でつきまとい…",
+            "link": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1484405125616206371",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "消費減税法案 自民が譲歩に含み",
+            "link": "https://news.yahoo.co.jp/pickup/6599227?source=rss",
+            "detail": "与野党幹部は18日のNHK番組で、飲食料品の消費税減税関連法案を巡り討論した。"
+          },
+          {
+            "title": "高度外国人材 年収要件上げる方針",
+            "link": "https://news.yahoo.co.jp/pickup/6599245?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "不動産取引のマネロン点検強化へ",
+            "link": "https://news.yahoo.co.jp/pickup/6599259?source=rss",
+            "detail": "不審点がある海外法人や、暗号資産（仮想通貨）での取引などを点検項目。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "フランス各地 デモ乗じ破壊や略奪",
+            "link": "https://news.yahoo.co.jp/pickup/6599281?source=rss",
+            "detail": "これまで教育環境の改善を求めてきた高校生たちも加わり、近年では最大規模の。"
+          },
+          {
+            "title": "対露制裁見送り 米ウの亀裂深刻",
+            "link": "https://news.yahoo.co.jp/pickup/6599247?source=rss",
+            "detail": "ゼレンスキー大統領は17日「（米国の）制裁解除は続く。"
+          },
+          {
+            "title": "米与野党 対露制裁巡り批判が噴出",
+            "link": "https://news.yahoo.co.jp/pickup/6599212?source=rss",
+            "detail": "共同】トランプ米大統領が16日夜、ウクライナ侵攻を続けるロシアへの制裁法実施見。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "高機能美容液を発売‐「ユリアージュ」から…",
+            "link": "https://www.yakuji.co.jp/entry140613.html",
+            "detail": ""
+          },
+          {
+            "title": "パラパワーリフティング選手の競技成績に「安定…",
+            "link": "https://sndj-web.jp/news/004209.php",
+            "detail": "ブラジルのナショナルチームの選手を対象とする研究であり、唯一の有意な関連因子として、睡眠の重要性が特定されたとい。"
+          },
+          {
+            "title": "Z世代に広がる睡眠キャンセル界隈…",
+            "link": "https://forbesjapan.com/articles/detail/106353",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-18",
     "heading": "10月18日（日曜日）",
     "sections": [
