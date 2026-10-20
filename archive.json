@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-21",
+    "heading": "10月21日（水曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日はくもり",
+            "detail": "最高27℃／最低19℃、降水確率22%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ時々くもり",
+            "detail": "最高24℃／最低16℃、降水確率4%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/24（土））は雨",
+            "detail": "最高18℃／最低17℃、降水確率95%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "生涯学習施設の整備めぐり現職・新顔が一騎打ち…",
+            "link": "https://news.yahoo.co.jp/articles/602e231a52a0157e46d3cf050d9056e7f7cba58a",
+            "detail": "神奈川県中井町の町長選が20日告示され、現職の戸村裕司氏（58）と新顔で前町議の関野達夫氏（66）が、共に無所属で立候補を届け出た。"
+          },
+          {
+            "title": "藤沢14人死傷事故…",
+            "link": "https://news.web.nhk/newsweb/na/nd-20261020de62515",
+            "detail": "【NHK】19日、神奈川県藤沢市で乗用車が観光バスなどに次々と衝。"
+          },
+          {
+            "title": "福岡・鹿児島で県警職員の個人情報流出か…",
+            "link": "https://news.yahoo.co.jp/articles/9cb5b7cf595605ccbc2c67ff705b54ff4a0df89e",
+            "detail": "自治体向けの防災アプリなどを手がける「アルカディア」（大阪府）のサービスが不正アクセスを受けた問題を受け…"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "大阪・名古屋・東京 30℃以上予想",
+            "link": "https://news.yahoo.co.jp/pickup/6599539?source=rss",
+            "detail": "今日21日は暖かい南よりの風で気温が上がるでしょう。"
+          },
+          {
+            "title": "高市政権1年 高支持率維持の背景",
+            "link": "https://news.yahoo.co.jp/pickup/6599527?source=rss",
+            "detail": "10月21日で、就任から1年を迎える高市総理。"
+          },
+          {
+            "title": "22府県の警察 個人情報流出の恐れ",
+            "link": "https://news.yahoo.co.jp/pickup/6599535?source=rss",
+            "detail": "不正アクセスにより、全国の警察官らの個人情報12万5000件が流出した恐れがあることが分かりました。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "露の道新記者拘束 米国務省が非難",
+            "link": "https://news.yahoo.co.jp/pickup/6599468?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "トランプ氏支持率31% ロイター",
+            "link": "https://news.yahoo.co.jp/pickup/6599430?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "トランプ氏 米露中会談に前向き",
+            "link": "https://news.yahoo.co.jp/pickup/6599417?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "健康寿命延伸推進イベントに参加しました…",
+            "link": "https://www.beppu-u.ac.jp/8584/",
+            "detail": "別府大学・別府大学短期大学部の公式サイトです。"
+          },
+          {
+            "title": "美容手当に年20万円・社食3食無料…",
+            "link": "https://www.nikkei.com/article/DGXZQOUA054S20V00C26A8000000/",
+            "detail": "「LINEマンガ」を運営するLINE Digital Frontier（ライン・デジタル・フロンティア…"
+          },
+          {
+            "title": "6時間睡眠が2週間続くと「2日徹夜と同じくら…",
+            "link": "https://www.nbs-tv.co.jp/news/articles/?cid=30604",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-20",
     "heading": "10月20日（火曜日）",
     "sections": [
