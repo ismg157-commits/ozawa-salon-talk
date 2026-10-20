@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-20",
+    "heading": "10月20日（火曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高25℃／最低19℃、降水確率65%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は霧雨",
+            "detail": "最高27℃／最低19℃、降水確率24%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/24（土））は雨",
+            "detail": "最高19℃／最低15℃、降水確率92%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "バスと乗用車など4台事故 14人搬送…",
+            "link": "https://news.tv-asahi.co.jp/news_society/articles/000541222.html",
+            "detail": "19日午前9時ごろ、藤沢市本町の交差点で「タクシーとバスの交通事故」と。"
+          },
+          {
+            "title": "秦野の弘法山公園付近でクマ目撃…",
+            "link": "https://news.yahoo.co.jp/articles/cdb90563d158da69eacf7499deab6e3e85fe9ba5",
+            "detail": "ただ、禁止区域に立ち入る人物も確認されており、市は注意を呼びかけている。"
+          },
+          {
+            "title": "弘法山公園のクマ出没続く…",
+            "link": "https://news.yahoo.co.jp/articles/c185d3d4bf26dab32dbe2862f1657e4139721954",
+            "detail": "展望台がある権現山山頂付近の立ち入り禁止区域内に入らないよ。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "台風30号が猛烈な勢力に 進路は",
+            "link": "https://news.yahoo.co.jp/pickup/6599370?source=rss",
+            "detail": "明日20日(火)から21日(水)にかけて、中心気圧910hPaまで発達する予想です。"
+          },
+          {
+            "title": "上皇后さま92歳に 穏やかな日々",
+            "link": "https://news.yahoo.co.jp/pickup/6599423?source=rss",
+            "detail": "宮内庁はきょう（20日）、上皇ご夫妻がお住まいの仙洞御所内にある談話室で和やかに会話される写真などを公開しました（今月6日撮影）。"
+          },
+          {
+            "title": "海自の中東派遣 1年間延長の方針",
+            "link": "https://news.yahoo.co.jp/pickup/6599376?source=rss",
+            "detail": "海賊事案が増加傾向にあることや、中東情勢の緊迫化を踏まえ、日本関係船舶の安全確保に向。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "トランプ氏 米露中会談に前向き",
+            "link": "https://news.yahoo.co.jp/pickup/6599417?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "ウ軍 ドローンで空から負傷兵救出",
+            "link": "https://news.yahoo.co.jp/pickup/6599410?source=rss",
+            "detail": "こうした救出方法は、「世界初」だとしています。"
+          },
+          {
+            "title": "仏で抗議デモ 欧州各地に広がり",
+            "link": "https://news.yahoo.co.jp/pickup/6599367?source=rss",
+            "detail": "一部が暴徒化し、市庁舎へ放火するなど混乱が広がっている。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "美容手当に年20万円・社食3食無料…",
+            "link": "https://www.nikkei.com/article/DGXZQOUA054S20V00C26A8000000/",
+            "detail": "「LINEマンガ」を運営するLINE Digital Frontier（ライン・デジタル・フロンティア…"
+          },
+          {
+            "title": "Genrêver…",
+            "link": "https://prtimes.jp/main/html/rd/p/000000047.000127077.html",
+            "detail": ""
+          },
+          {
+            "title": "Z世代に広がる睡眠キャンセル界隈…",
+            "link": "https://forbesjapan.com/articles/detail/106353",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-19",
     "heading": "10月19日（月曜日）",
     "sections": [
