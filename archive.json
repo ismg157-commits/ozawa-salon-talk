@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-22",
+    "heading": "10月22日（木曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は霧雨",
+            "detail": "最高24℃／最低15℃、降水確率4%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日はくもり",
+            "detail": "最高19℃／最低13℃、降水確率3%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/24（土））は雨",
+            "detail": "最高17℃／最低14℃、降水確率98%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "藤沢市の14人死傷事故…",
+            "link": "https://news.yahoo.co.jp/articles/8ca526765492c2336451f3fe224075d42b7b9fa8",
+            "detail": "神奈川県藤沢市で乗用車がバスやタクシーなど衝突して1人が死亡した事故で…"
+          },
+          {
+            "title": "藤沢14人死傷事故…",
+            "link": "https://news.web.nhk/newsweb/na/nd-20261020de62515",
+            "detail": "【NHK】19日、神奈川県藤沢市で乗用車が観光バスなどに次々と衝。"
+          },
+          {
+            "title": "フィルの首席ホルン坂東裕香さん急逝…",
+            "link": "https://www.zakzak.co.jp/article/20261019-LXNPHAZD3NAILEHA3GP4LNYCT4/",
+            "detail": "同楽団が19日に公式サイトを通じて発表した。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "武部農相 献金巡り公選法違反疑い",
+            "link": "https://news.yahoo.co.jp/pickup/6599528?source=rss",
+            "detail": "武部新農水大臣が衆院選の際、公共事業を受注している企業から献金を受け取っていたことが「週刊文春」の取材で分かった。"
+          },
+          {
+            "title": "復興相の事務所数 公選法違反疑い",
+            "link": "https://news.yahoo.co.jp/pickup/6599609?source=rss",
+            "detail": "細野氏は選挙運動費用収支報告書を。"
+          },
+          {
+            "title": "自民 衆院定数の削減幅を31で調整",
+            "link": "https://news.yahoo.co.jp/pickup/6599633?source=rss",
+            "detail": "早ければ22日に予定される政党間協議で各党へ提示する。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米大統領 ウに露との和平合意促す",
+            "link": "https://news.yahoo.co.jp/pickup/6599544?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "露の道新記者拘束 米国務省が非難",
+            "link": "https://news.yahoo.co.jp/pickup/6599468?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "PHPに欠陥 欧州各国でサイト遮断",
+            "link": "https://news.yahoo.co.jp/pickup/6599650?source=rss",
+            "detail": "世界中で広く使われているプログラミング言語「PHP」に重大な欠陥が見つかったことを受けて…"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "今回の主役プロダクト：TimelessOne…",
+            "link": "https://www.atpress.ne.jp/news/639394",
+            "detail": "美容皮膚科に通う人が選んでいるJMEC beから2026年4月に発売したブラ...。"
+          },
+          {
+            "title": "未来につなごう！おおいた乾しいたけ「親子でつ…",
+            "link": "http://www.beppu-u.ac.jp/event/%E3%80%90%E9%A3%9F%E7%89%A9%E6%A0%84%E9%A4%8A%E7%A7%91%E3%80%91%E6%9C%AA%E6%9D%A5%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%94%E3%81%86%EF%BC%81%E3%81%8A%E3%81%8A%E3%81%84%E3%81%9F%E4%B9%BE%E3%81%97%E3%81%84/",
+            "detail": "別府大学・別府大学短期大学部の公式サイトです。"
+          },
+          {
+            "title": "美容賢者が「これぞ“大人肌のヒーローファンデ…",
+            "link": "https://precious.jp/articles/-/63314",
+            "detail": "雑誌「Precious」連載「賢者のコスメ」11月号では、【潤うのに崩れない！"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-21",
     "heading": "10月21日（水曜日）",
     "sections": [
