@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-23",
+    "heading": "10月23日（金曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日はくもり",
+            "detail": "最高19℃／最低14℃、降水確率1%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高17℃／最低15℃、降水確率96%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/25（日））は雨",
+            "detail": "最高20℃／最低16℃、降水確率53%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "黒澤フィルムスタジオの倉庫とみられる建物で火…",
+            "link": "https://news.yahoo.co.jp/articles/a02708c1db12a5c10f697273ce94028921b6ef8c",
+            "detail": "【画像】住宅火災“コンロ最多”どう注意？"
+          },
+          {
+            "title": "失効免許証を捜査流用 県警",
+            "link": "https://news.yahoo.co.jp/pickup/6599671",
+            "detail": "警察庁は22日、免許行政のために保有した情報の目的外利用にあたり、。"
+          },
+          {
+            "title": "県警、古い免許証を不正流用…",
+            "link": "https://www.nikkei.com/article/DGXZQOUD216KS0R21C26A0000000/",
+            "detail": "警察庁は県警に実態解明を指示し、他の都道府県警で同様の事例がないか全国調査を始めた。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "台風30号が先島諸島接近へ 警戒を",
+            "link": "https://news.yahoo.co.jp/pickup/6599757?source=rss",
+            "detail": "石垣島や宮古島など先島諸島では猛烈な風が吹き、海上では猛烈なしけとなる見込みです。"
+          },
+          {
+            "title": "発足1年の高市政権 麻生氏が評価",
+            "link": "https://news.yahoo.co.jp/pickup/6599724?source=rss",
+            "detail": "自民党の麻生太郎副総裁は22日、自身が率いる麻生派会合で、発足から1年を迎えた高市早苗政権に関し「この1年…"
+          },
+          {
+            "title": "PHP問題 政府機関の被害報告なし",
+            "link": "https://news.yahoo.co.jp/pickup/6599683?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "初の核最終処分場の操業決定 北欧",
+            "link": "https://news.yahoo.co.jp/pickup/6599748?source=rss",
+            "detail": "【ロンドン共同】フィンランド政府は22日、原発から出る高レベル放射性廃棄物（核のごみ）を処分するため同国で整備が進む最終処分場「オンカロ」…"
+          },
+          {
+            "title": "米大統領 レブロン「無礼」と批判",
+            "link": "https://news.yahoo.co.jp/pickup/6599769?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "米 サウジの大使館員らに退避命令",
+            "link": "https://news.yahoo.co.jp/pickup/6599688?source=rss",
+            "detail": "イエメンの親イラン武装組織フーシ派がサウ。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "美容・ダイエット目的で「マンジャロ」使用…",
+            "link": "https://www.jiji.com/jc/article?k=2026102200685&g=soc",
+            "detail": "厚生労働省はホームページで健康被害につながる恐れがあると注意を呼び掛けており、専門医は「安易に手を出すべきではない」と強調した。"
+          },
+          {
+            "title": "「ReFa」のMTG、1年で株価2倍…",
+            "link": "https://www.nikkei.com/prime/veritas/article/DGXZQOUB221RU0S6A021C2000000",
+            "detail": "主力のリファブランドで多様な商品を展開して売り上げを伸ばしているほか、昨年発売したリカバリーウエア「ReD（レッド）」も販売が好調だ。"
+          },
+          {
+            "title": "茅ヶ崎市役所で睡眠の健康講座開催…",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ub3FVX25YRzBrMlNyWGZpYXRSSjMtZzBGWUJnYm83SmtYdkcyVDVEMnM1ajZFcmZINEtST1A1aXZzY2pmRXNZV0lsVXJSb2xvalEzSUNPenFuYnAwaDFJMFpnNEMzandtNnFVYVh3?oc=5",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-22",
     "heading": "10月22日（木曜日）",
     "sections": [
