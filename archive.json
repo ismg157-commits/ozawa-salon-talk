@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-24",
+    "heading": "10月24日（土曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高17℃／最低15℃、降水確率86%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高27℃／最低16℃、降水確率82%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/26（月））は強い雨",
+            "detail": "最高20℃／最低17℃、降水確率87%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "藤沢14人死傷事故…",
+            "link": "https://news.web.nhk/newsweb/na/nd-20261020de62515",
+            "detail": "【NHK】19日、神奈川県藤沢市で乗用車が観光バスなどに次々と衝。"
+          },
+          {
+            "title": "三崎港のマグロ、王道も新機軸も…",
+            "link": "https://www.nikkei.com/article/DGXZQOCC182EN0Y6A011C2000000/",
+            "detail": "三浦市低温卸売市場では1日に数百本の冷凍マグロが取引され、首都圏などに出荷される。"
+          },
+          {
+            "title": "県警港北署：期限切れ免許証を警備課が受け取る…",
+            "link": "https://www.yomiuri.co.jp/national/20261022-GYT1T00118/",
+            "detail": "【読売新聞】 神奈川県警の２０歳代の男性巡査長が有効期限切れの運転免許証を不正に持ち出した問題で、警察庁は２２日…"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "皇族数確保へ 改正皇室典範が施行",
+            "link": "https://news.yahoo.co.jp/pickup/6599886?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "強い台風30号は九州へ 警報級大雨",
+            "link": "https://news.yahoo.co.jp/pickup/6599881?source=rss",
+            "detail": "土砂災害、低い土地の浸水、河川の増水や氾濫。"
+          },
+          {
+            "title": "生活保護訴訟 利用者側の勝訴確定",
+            "link": "https://news.yahoo.co.jp/pickup/6599859?source=rss",
+            "detail": "国が2013～15年の生活保護費を大幅に引き下げたのは違法だとして、利用者らが減額決定の取り消しを求めた4件の訴訟で…"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "ウ南部停戦へ トランプ氏夫人仲介",
+            "link": "https://news.yahoo.co.jp/pickup/6599882?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "露 ウ南部で一時停戦合意と米発表",
+            "link": "https://news.yahoo.co.jp/pickup/6599879?source=rss",
+            "detail": "アメリカのホワイトハウスは23日、ロシアとウクライナがウクライナ南部の都市で一時的に停戦することで合意したと発表しました。"
+          },
+          {
+            "title": "ソウル市長 政治資金巡り逆転無罪",
+            "link": "https://news.yahoo.co.jp/pickup/6599814?source=rss",
+            "detail": "一審は罰金1000万ウォン（約118万円）の有罪だった。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "学生のアイデアが商品に…",
+            "link": "https://www.sagami-wu.ac.jp/info/20261023_10/",
+            "detail": "相模女子大学は、創立120年になる幼稚部から大学院までの総合学園として、「高潔善美」を建学の精神に、発想力を養い…"
+          },
+          {
+            "title": "ロレアル、第3四半期売上高が予想上回る…",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxQ1lXZWt0YWs2TTZWbFBxUExZSEptWG53WHhHWm53N3lpUzY5aVV1RzdoWl9Ea1VuMXZBWEJVRFRROVdNek5kSEVnMW5aaHd1RUNZX29PcHJQQkw1VXItQVdORTBIQ3JBZVdpeE0ySks4dkJQUjZPS3NPbXlCdw?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "睡眠不足、2泊3日18万円の合宿で改善…",
+            "link": "https://www.nikkei.com/article/DGXZQOUC161360W6A011C2000000/",
+            "detail": "企業や自治体による睡眠関連事業への参入を、コンサルティングや事業者間のマッチングを通じて支援する。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-23",
     "heading": "10月23日（金曜日）",
     "sections": [
