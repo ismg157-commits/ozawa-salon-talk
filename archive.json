@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-25",
+    "heading": "10月25日（日曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高25℃／最低17℃、降水確率94%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高20℃／最低16℃、降水確率98%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/31（土））は霧雨",
+            "detail": "最高22℃／最低11℃、降水確率8%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "リニアの駅「想像以上に広くて驚き」…",
+            "link": "https://www.sankei.com/article/20261025-HBU26IM4JNJ6ZCYU3EMC7WU4PM/",
+            "detail": ""
+          },
+          {
+            "title": "リニアのホーム工事初公開 駅",
+            "link": "https://www.47news.jp/15131855.html",
+            "detail": "神奈川県や相模原市などが共催したイベントの一環。"
+          },
+          {
+            "title": "「早く駅ができてほしい」 リニア駅…",
+            "link": "https://news.yahoo.co.jp/articles/312c0dee34c2283e78afdd5c550d55949b8fe7be",
+            "detail": "相模原市緑区で建設中のリニア中央新幹線神奈川県駅（仮称）で24日、市民参加イベント「さがみはらリニアフェスタ2026」（県、相模原市…"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "台風 26日にかけ警報級の大雨恐れ",
+            "link": "https://news.yahoo.co.jp/pickup/6599995?source=rss",
+            "detail": "台風30号は26日、九州に接近する見通しです。"
+          },
+          {
+            "title": "皇室典範「安定継承」議論乏しく",
+            "link": "https://news.yahoo.co.jp/pickup/6599923?source=rss",
+            "detail": "改正典範の付帯決議には検討の継続が明記され、野党は有識者会議の設置などを主張するが、政府・与党は女性宮家。"
+          },
+          {
+            "title": "皇族数確保へ 改正皇室典範が施行",
+            "link": "https://news.yahoo.co.jp/pickup/6599886?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "露は「人質外交」解放の米紙記者",
+            "link": "https://news.yahoo.co.jp/pickup/6599926?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "ウ側 スターシールド接続復旧発表",
+            "link": "https://news.yahoo.co.jp/pickup/6599978?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "劣勢トランプ氏 露骨なバラマキ策",
+            "link": "https://news.yahoo.co.jp/pickup/6599901?source=rss",
+            "detail": "なりふり構わぬ姿勢は与党・共和党の劣勢に対する焦りの表れと。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "美容エディターが本気で狙う激推しスキンケアコ…",
+            "link": "https://i-voce.jp/feed/5204201/",
+            "detail": "今年も可愛い＆お得なセットが続々登場するクリスマスコフレ＆ホリデー限定コスメ。"
+          },
+          {
+            "title": "睡眠不足、2泊3日18万円の合宿で改善…",
+            "link": "https://www.nikkei.com/article/DGXZQOUC161360W6A011C2000000/",
+            "detail": "企業や自治体による睡眠関連事業への参入を、コンサルティングや事業者間のマッチングを通じて支援する。"
+          },
+          {
+            "title": "「護身・美容・健康に効果的」…",
+            "link": "https://www.asahi.com/video/articles/ASVBS334SVBSUTIL00MM.html",
+            "detail": "師範や指導者らの模範演武もあり、会場を沸かせ...。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-24",
     "heading": "10月24日（土曜日）",
     "sections": [
