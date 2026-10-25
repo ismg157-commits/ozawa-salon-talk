@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-26",
+    "heading": "10月26日（月曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高20℃／最低15℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は強い雨",
+            "detail": "最高23℃／最低15℃、降水確率94%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/31（土））はくもり",
+            "detail": "最高22℃／最低11℃、降水確率27%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "内、２５日夕方から激しい雨の恐れ…",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yOG1aRjlaX21MaHhsTTlGTUFFSkVraEh4Z3ppTlZJOXEybVd2NlhteG5UYWxXeW1VTFBBckMwYUQzTmdrcUFYdlBqcXVjT3VSNnpCV0pjSHpzY2tIX2h1VElyNHctUU0?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "内、２６日から２７日に激しい雨の恐れ 浸水…",
+            "link": "https://news.yahoo.co.jp/articles/117454f94200bf6de7fb46b6f79b85660af1dd78",
+            "detail": "横浜地方気象台は２４日、大雨に関する気象解説情報を発表した。"
+          },
+          {
+            "title": "はきょう夕方から激しい雨…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/2730723",
+            "detail": "いつ雨が強まり、どの程度の降水量が予想されているのか、横浜地方気象台の最新情報をまとめた。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "チャイルドシートの義務拡大 検討",
+            "link": "https://news.yahoo.co.jp/pickup/6600127?source=rss",
+            "detail": "道路交通法で６歳未満の「幼児」としている着用義務の範囲を広げ、。"
+          },
+          {
+            "title": "不正アクセス 官邸主導で対策急ぐ",
+            "link": "https://news.yahoo.co.jp/pickup/6600103?source=rss",
+            "detail": "企業活動や国民生活への影響が拡大しかねないた。"
+          },
+          {
+            "title": "衆院議席減案 国民民主の賛否焦点",
+            "link": "https://news.yahoo.co.jp/pickup/6600059?source=rss",
+            "detail": "自民、日本維新の会の与党は参院で過半数に届かず、国民民主の動向が法案成立の鍵を握る。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "オバマ氏 トランプ政権を痛烈批判",
+            "link": "https://news.yahoo.co.jp/pickup/6600025?source=rss",
+            "detail": "【AFP＝時事】バラク・オバマ米元大統領（65）は24日…"
+          },
+          {
+            "title": "フランス全土でデモ再び 厳戒態勢",
+            "link": "https://news.yahoo.co.jp/pickup/6600002?source=rss",
+            "detail": "17日のデモには事前予測を上回る計55万人（内務省発表）が参加し、一部で暴動や略奪も発生したことから、当局は全国。"
+          },
+          {
+            "title": "ブラジル大統領選の決選 接戦予想",
+            "link": "https://news.yahoo.co.jp/pickup/6600005?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "世界が認める、日本の美容の価値とは…",
+            "link": "https://www.fujingaho.jp/lifestyle/beauty-health/a74151973/jbeauty-value-261025/",
+            "detail": "これまで数々の名品を生み出してきた「資生堂」「センサイ」「アルビオン」とともに、日本が誇る化粧品の真価を繙きます。"
+          },
+          {
+            "title": "睡眠不足、2泊3日18万円の合宿で改善…",
+            "link": "https://www.nikkei.com/article/DGXZQOUC161360W6A011C2000000/",
+            "detail": "企業や自治体による睡眠関連事業への参入を、コンサルティングや事業者間のマッチングを通じて支援する。"
+          },
+          {
+            "title": "2024年パリ五輪における日本人エリートアス…",
+            "link": "https://sndj-web.jp/news/004219.php",
+            "detail": "全体で9割以上のアスリートが利用していたこと、栄養サポートを受けたことのあるアスリートの利用率が有意に高いこと、。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-25",
     "heading": "10月25日（日曜日）",
     "sections": [
