@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-27",
+    "heading": "10月27日（火曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は霧雨",
+            "detail": "最高21℃／最低17℃、降水確率69%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ",
+            "detail": "最高18℃／最低12℃、降水確率20%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/31（土））は快晴",
+            "detail": "最高22℃／最低11℃、降水確率37%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "内、２７日朝にかけ大雨の恐れ…",
+            "link": "https://news.yahoo.co.jp/articles/d9e679f91121eaade4565db82e719d03d02ee03b",
+            "detail": "県内は２６日、停滞する前線などの影響で、県西部を中心に雨が断続的に降った。"
+          },
+          {
+            "title": "大雨時の冠水事故防止へ…",
+            "link": "https://news.yahoo.co.jp/articles/9af8d35eb0be865ff2b3cea557432320f4de496c",
+            "detail": "記者「車が冠水したアンダーパスに進入してしまう、その前に危険を知らせようと新たな看板の設置を県が進め。"
+          },
+          {
+            "title": "10月26日11時半現在（tvkニュース（テ…",
+            "link": "https://news.yahoo.co.jp/articles/909b2f1ed3baf50c777cdaca54e4c732306d4b9e",
+            "detail": "神奈川県警によりますとこれまでに横浜市中区弁天通、南区睦町、川崎市川崎区鋼管通、幸区堀川町で詐欺の電話がかかってきています。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "露拘束の記者 大使館員が領事面会",
+            "link": "https://news.yahoo.co.jp/pickup/6600239?source=rss",
+            "detail": "外務省は２６日夜、ロシアの情報・治安機関「連邦保安局（ＦＳＢ）。"
+          },
+          {
+            "title": "スパイ防止へ登録制度案 政府提示",
+            "link": "https://news.yahoo.co.jp/pickup/6600226?source=rss",
+            "detail": "政府は26日、インテリジェンス（情報活動）機能の強化に向けた有識者会議を首相官邸で開いた。"
+          },
+          {
+            "title": "ガソリン補助の段階縮小 自民提言",
+            "link": "https://news.yahoo.co.jp/pickup/6600211?source=rss",
+            "detail": "12月から春先にかけ、1リットルあたり約170円の目標価格を毎月5円程度ずつ段階。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米大統領 ブラジル大統領選は不正",
+            "link": "https://news.yahoo.co.jp/pickup/6600251?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "中国が福田氏評価 高市政権は批判",
+            "link": "https://news.yahoo.co.jp/pickup/6600236?source=rss",
+            "detail": "中国外務省は、10月22日に亡くなった福田元首相について、「日中関係の改善と発展に積極的な貢献を果たした」と評価し、哀悼の意を表明しました。"
+          },
+          {
+            "title": "中国媒体の「VIVANT」批判 背景",
+            "link": "https://news.yahoo.co.jp/pickup/6600218?source=rss",
+            "detail": "アカウント「央視新聞」が25日、論評で「剧情极其离谱（筋書きが極めて荒唐無稽）。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "綺麗になるために病院へ。みんな…",
+            "link": "https://ananweb.jp/categories/lifestyle/112951",
+            "detail": "anan読者200人超で作る「anan総研」の意識＆行動リサーチ。"
+          },
+          {
+            "title": "睡眠不足、2泊3日18万円の合宿で改善…",
+            "link": "https://www.nikkei.com/article/DGXZQOUC161360W6A011C2000000/",
+            "detail": "企業や自治体による睡眠関連事業への参入を、コンサルティングや事業者間のマッチングを通じて支援する。"
+          },
+          {
+            "title": "PDRN、NMDとは一体何？",
+            "link": "https://i-voce.jp/feed/5223932/",
+            "detail": "インスタグラムで爆発的な人気を誇る、クリエイター・パントビスコ。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-26",
     "heading": "10月26日（月曜日）",
     "sections": [
