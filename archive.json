@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-28",
+    "heading": "10月28日（水曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ",
+            "detail": "最高19℃／最低12℃、降水確率27%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高18℃／最低11℃、降水確率32%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/31（土））は晴れ",
+            "detail": "最高21℃／最低11℃、降水確率37%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "知事、任期満了まで半年も去就明言せず…",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xay02d0w4VThRU2wwZFdKRDdKcUpKbkR0dnpEQ3Y1Qll5NHQyUHZDUmdUM3hQbDZUdlE1NG9nbmtRX3hrclhyN2pKZWoyLXpkS0RNV21kY0F3ck95ZlI2cUphaElscE9lSXM5Ug?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "黒岩知事、４期目の任期満了まで半年も去就明言…",
+            "link": "https://www.47news.jp/15142744.html",
+            "detail": "来年春の知事選への去就についていまだ明らかにせず、任期末まで全力疾走する姿勢を示している。"
+          },
+          {
+            "title": "県警の失効免許証流用…",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hNXcwSU5SUVc5YkRVeUZhalJLSlAyRENwWlVOWDRaYkowaEFwTklwQ3JYYzg0bUFSSXNiWGg2WGxxNkpTLWdtLVo4N2w0Z1pxa1RyclpTcXJnV01pYVpGVnE3UVlzdW9yNGZqdg?oc=5",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "安保3文書で「拒否力」防衛の柱に",
+            "link": "https://news.yahoo.co.jp/pickup/6600361?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "自民 衆院比例で「統一名簿」提案",
+            "link": "https://news.yahoo.co.jp/pickup/6600379?source=rss",
+            "detail": "自民はこの案をもとに、28日に意見集約を。"
+          },
+          {
+            "title": "農相の関連団体 計85万円の不記載",
+            "link": "https://news.yahoo.co.jp/pickup/6600346?source=rss",
+            "detail": "政治資金規正法違反の虚偽記載に当たる疑いがある。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "ボルソナロ氏亡命か 米認める方針",
+            "link": "https://news.yahoo.co.jp/pickup/6600370?source=rss",
+            "detail": "複数のブラジルメディアが伝えた。"
+          },
+          {
+            "title": "習近平氏 福田康夫氏の遺族に弔電",
+            "link": "https://news.yahoo.co.jp/pickup/6600336?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "米大統領「AI」名称禁止する方針",
+            "link": "https://news.yahoo.co.jp/pickup/6600376?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "スマートフォンの利用状況から睡眠の質を推定可…",
+            "link": "https://www.docomo.ne.jp/info/news_release/2026/10/27_03.html",
+            "detail": "基盤」の新たな機能として2026年10月1日（木曜）から提供を開始しました。"
+          },
+          {
+            "title": "韓国化粧品のアモーレパシフィック株が回復基調…",
+            "link": "https://www.nikkei.com/prime/veritas/article/DGXZQOGM2265Z0S6A021C2000000",
+            "detail": "政府が基幹産業として化粧品の輸出支援に乗り出すなか、米国や欧州で売り上げが伸びていることが買い材料となっている。"
+          },
+          {
+            "title": "公民館貫井南分館主催…",
+            "link": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kominkan/kouzaannai/kouminkannukuiminami/20261216suimin.html",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-27",
     "heading": "10月27日（火曜日）",
     "sections": [
