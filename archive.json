@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-29",
+    "heading": "10月29日（木曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ時々くもり",
+            "detail": "最高18℃／最低11℃、降水確率12%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は霧雨",
+            "detail": "最高22℃／最低14℃、降水確率29%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（10/31（土））は晴れ",
+            "detail": "最高22℃／最低14℃、降水確率27%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "職員が障害者頭にバケツかぶせる…",
+            "link": "https://www.hokkaido-np.co.jp/article/1398231/",
+            "detail": "職員は、男性が大きな声を出していたため「自分の声...。"
+          },
+          {
+            "title": "「法抵触の可能性高い」免許不正流用…",
+            "link": "https://news.infoseek.co.jp/article/mainichi_20261028k0000m040249000c/",
+            "detail": "神奈川県警の警察署で、失効した運転免許証が公安捜査を担当する警備部門に不正流用されていた問題を巡り、県警の今村剛本。"
+          },
+          {
+            "title": "県警の不正取締り…",
+            "link": "https://news.yahoo.co.jp/articles/ae721de965e825c7c36ae02a552ee2ed7b4e3c2f?source=rss",
+            "detail": "起訴状などによりますと神奈川県警の元。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "教員「特別免許」の基準明確化へ",
+            "link": "https://news.yahoo.co.jp/pickup/6600506?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "多くで今季一冷え込み 東京10℃台",
+            "link": "https://news.yahoo.co.jp/pickup/6600505?source=rss",
+            "detail": "きょう(木)は日差しの届くところが多いですが、天気は下り坂でしょう。"
+          },
+          {
+            "title": "日独首脳会談 経済安保で共同宣言",
+            "link": "https://news.yahoo.co.jp/pickup/6600479?source=rss",
+            "detail": "高市早苗首相は28日、ドイツのメルツ首相と首相官邸で会談した。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "プーチン氏 マスク氏は本物の天才",
+            "link": "https://news.yahoo.co.jp/pickup/6600507?source=rss",
+            "detail": "（ブルームバーグ）:ロシアのプーチン大統領は、米ロ間の政治的緊張が続くなかでも、低軌道衛星ネットワークを巡り…"
+          },
+          {
+            "title": "スペイン 衝突列車に誤った指示か",
+            "link": "https://news.yahoo.co.jp/pickup/6600500?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "ボルソナロ氏の入国 米が許可",
+            "link": "https://news.yahoo.co.jp/pickup/6600410?source=rss",
+            "detail": "大統領顧問がCNNに明らかにした。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "5時間睡眠で快調な人も…",
+            "link": "https://natgeo.nikkeibp.co.jp/atcl/news/26/102800591/",
+            "detail": "目覚ましもカフェインも使わず、4～6時間の睡眠で自然に目覚め、快調に過ごせる「ショートスリーパー」。"
+          },
+          {
+            "title": "スマートフォンの利用状況から睡眠の質を推定可…",
+            "link": "https://www.docomo.ne.jp/info/news_release/2026/10/27_03.html",
+            "detail": "基盤」の新たな機能として2026年10月1日（木曜）から提供を開始しました。"
+          },
+          {
+            "title": "「仕事の失敗」が頭から離れない人が見直したい…",
+            "link": "https://diamond.jp/articles/-/401095",
+            "detail": "睡眠は単に体の疲れを取るだけでなく、脳や心の健康を保つうえでも重要な役割を果たしている。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-28",
     "heading": "10月28日（水曜日）",
     "sections": [
