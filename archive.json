@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-30",
+    "heading": "10月30日（金曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は霧雨",
+            "detail": "最高22℃／最低12℃、降水確率28%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日はくもり",
+            "detail": "最高22℃／最低14℃、降水確率49%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/1（日））はくもり",
+            "detail": "最高19℃／最低13℃、降水確率2%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "公立高、全日制3万8,558人募集…前年度比…",
+            "link": "https://resemom.jp/article/2026/10/28/88075.html",
+            "detail": "神奈川県教育委員会は2026年10月27日、2027年度（令和9年度）神奈川県公立高等学校生徒募集定員について公表した。"
+          },
+          {
+            "title": "２７年度公立高入試、全日制４万人を割り込む…",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HdVlrb2hHaFdxYVVRS3hsWDNPclMzME9oZ1BiSVZWOEdidWJhVHhTZHMzamhYbFNLWGVrYk1fNzdNaUFaSWp1Rk1tSGNyeklvLXRLQTBJa2VmWl80Qmp4YVlQMl9MUWFmNEZNbg?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "鎌倉市がライドシェア実証実験中止へ…",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KYnRNZy1QZ0lUbk9fRk0ySEJqbE5pRG0ySzllLXUtejdMb3NXYVhaSUQwbE1ZcDZoOVNlY0dKYUhhSllieXVOM0xOcXhiWHE2d085U1drMFp4dEdCOVQyZGVucUxyN2lCRFFUbA?oc=5",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "ガソリン補助金 12月から段階縮小",
+            "link": "https://news.yahoo.co.jp/pickup/6600631?source=rss",
+            "detail": "高市早苗首相は29日、ガソリンなど燃料油価格の急騰を抑える補助金につ。"
+          },
+          {
+            "title": "電気ガス代補助 12月",
+            "link": "https://news.yahoo.co.jp/pickup/6600608?source=rss",
+            "detail": "標準的な家庭で計７０００円程度の負担減が見込めるとした。"
+          },
+          {
+            "title": "衆院比例議席減 自維国が正式合意",
+            "link": "https://news.yahoo.co.jp/pickup/6600526?source=rss",
+            "detail": "自民、日本維新の会、国民民主の３党は２９日午前、衆院議員定数（４６５）を比例選のみで３１議席削減することで正式に合意した。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "NVIDIAトップに中国工作員接近か",
+            "link": "https://news.yahoo.co.jp/pickup/6600632?source=rss",
+            "detail": "米紙ニューヨーク・タイムズ（NYT）は29日、中国情報機関の工作員が半導体大手エヌビディアのジェンスン・フアン最高経営責任者（CEO）と親…"
+          },
+          {
+            "title": "スペインの列車事故 死者69人に",
+            "link": "https://news.yahoo.co.jp/pickup/6600595?source=rss",
+            "detail": "【パリ時事】スペイン中部トレド県で28日に高速列車同士が衝突した事故で、同国メディアは29日、死者が69人になったと伝えた。"
+          },
+          {
+            "title": "習近平総書記 4期目入りが濃厚",
+            "link": "https://news.yahoo.co.jp/pickup/6600628?source=rss",
+            "detail": "【北京＝東慶一郎】北京で開催されていた中国共産党の重要会議・第２０期中央委員会第５回総会（５中総会）が２９日、閉幕した。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "スマートフォンの利用状況から睡眠の質を推定可…",
+            "link": "https://www.docomo.ne.jp/info/news_release/2026/10/27_03.html",
+            "detail": "基盤」の新たな機能として2026年10月1日（木曜）から提供を開始しました。"
+          },
+          {
+            "title": "健康プロデュース学部健康栄養学科の学生が浜松…",
+            "link": "https://digitalpr.jp/r/147211",
+            "detail": ""
+          },
+          {
+            "title": "りくりゅうペア、金メダル獲得直前の「睡眠」は…",
+            "link": "https://www.asahi.com/and/w/article/17007826",
+            "detail": "んの「りくりゅう」ペアが29日、都内で開かれた寝具大手エアウィーヴ（東京都千代。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-29",
     "heading": "10月29日（木曜日）",
     "sections": [
