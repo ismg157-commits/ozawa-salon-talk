@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-10-31",
+    "heading": "10月31日（土曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は霧雨",
+            "detail": "最高23℃／最低15℃、降水確率71%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ",
+            "detail": "最高19℃／最低13℃、降水確率0%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/2（月））は雨",
+            "detail": "最高21℃／最低14℃、降水確率69%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "循環器呼吸器病センターでの医療提供を終了する…",
+            "link": "https://news.yahoo.co.jp/articles/53d59efe52d1d6fc3c58515d02a3426754052da5",
+            "detail": "9月に行われた神奈川県議会の厚生常任委員会で、「県立5病院の機能等。"
+          },
+          {
+            "title": "伊勢原市の県立いせはら塔の山緑地公園でツキノ…",
+            "link": "https://newsdig.tbs.co.jp/articles/-/3050018",
+            "detail": "近くでは、今月23日にも相次いでツキノワグマが目撃されています。"
+          },
+          {
+            "title": "東部、３１日未明から朝に激しい突風や強い雨に…",
+            "link": "https://www.47news.jp/15162511.html",
+            "detail": "横浜地方気象台は３０日、雷や突風、ひょうに関する気象解説情報を発表した。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "消費減税と定数削減 水面下の交渉",
+            "link": "https://news.yahoo.co.jp/pickup/6600756?source=rss",
+            "detail": "物価高対策の切り札として国会で議論が進む「消費税減税関連法案」。"
+          },
+          {
+            "title": "茂木外相 露外相に記者の解放要求",
+            "link": "https://news.yahoo.co.jp/pickup/6600743?source=rss",
+            "detail": "【アトランタ時事】茂木敏充外相は30日、米南部ジョージア州アトランタで、ロシアのラブロフ外相と会談し…"
+          },
+          {
+            "title": "ウが日本に迎撃弾の供与を要望",
+            "link": "https://news.yahoo.co.jp/pickup/6600698?source=rss",
+            "detail": "自民党の小野寺五典元防衛相が産経新聞のインタビューに応じ、ロシアによる侵略が続くウクライナを9月末から視察した際…"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "イスラエル 与野党過半数届かず",
+            "link": "https://news.yahoo.co.jp/pickup/6600659?source=rss",
+            "detail": "今後、イツハク・ヘルツォグ大統領が連立政権を樹立。"
+          },
+          {
+            "title": "露の独立系紙が活動停止 当局弾圧",
+            "link": "https://news.yahoo.co.jp/pickup/6600734?source=rss",
+            "detail": "ロシアでウクライナ侵攻に批判的立場を取る独立系紙「ノーバヤ・ガゼータ」が30日、「われわれは殺された」と題した声明を出し、活動停止を発表した。"
+          },
+          {
+            "title": "ICC所長 米圧力屈しない構え強調",
+            "link": "https://news.yahoo.co.jp/pickup/6600658?source=rss",
+            "detail": "トランプ米政権による制裁を受けている国際刑事裁判所（ICC、オランダ・ハーグ）の赤根智子所長（70）が29日…"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "日本人は睡眠不足…",
+            "link": "https://ngc.nikkei.com/hclab/article/DGXZQOLM288BW0Y6A021C2000000/",
+            "detail": "ビジネス街の書店をめぐりながら、その時々のその街の売れ筋本をウオッチし、本探し・本選びの材料を提供していくシリーズ。"
+          },
+          {
+            "title": "年度上半期の「美容室」倒産 54件の高水準…",
+            "link": "https://www.tsr-net.co.jp/data/detail/1203363_1527.html",
+            "detail": "店舗数が全国で27万店以上と言われる美容室の倒産が高止まりしている。"
+          },
+          {
+            "title": "スマートフォンの利用状況から睡眠の質を推定可…",
+            "link": "https://www.docomo.ne.jp/info/news_release/2026/10/27_03.html",
+            "detail": "基盤」の新たな機能として2026年10月1日（木曜）から提供を開始しました。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-30",
     "heading": "10月30日（金曜日）",
     "sections": [
