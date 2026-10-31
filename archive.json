@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-01",
+    "heading": "11月1日（日曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日はくもり",
+            "detail": "最高19℃／最低14℃、降水確率0%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高22℃／最低14℃、降水確率95%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/7（土））はくもり",
+            "detail": "最高19℃／最低10℃、降水確率8%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "男子は成瀬が２連覇、女子は塚越が初優勝…",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44U2tyZkhreFVwNWh3a2xiYktCRkdmQ2VMXzlkempuLXFuYmZJZ09hd05Mck1zemU0eUNqTEx2a3BHOTJET21jMjBXZy13cWRwZGE3U3VSLW5TcnM4V0R5NzJDTEFsNDA?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "循環器呼吸器病センターでの医療提供を終了する…",
+            "link": "https://news.yahoo.co.jp/articles/53d59efe52d1d6fc3c58515d02a3426754052da5",
+            "detail": "9月に行われた神奈川県議会の厚生常任委員会で、「県立5病院の機能等。"
+          },
+          {
+            "title": "秦野市のクマ 再び捕獲し「安楽殺」",
+            "link": "https://news.yahoo.co.jp/articles/4ce0f08f74db321388900d83ce9ddc9ed8e1ce14",
+            "detail": "【映像】センサーカメラで撮影された。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "政府「副首都」推進本部を設置",
+            "link": "https://news.yahoo.co.jp/pickup/6600780?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "参政・神谷氏 独AfD幹部と共鳴",
+            "link": "https://news.yahoo.co.jp/pickup/6600861?source=rss",
+            "detail": "別れ際に「いじめられている党同士、頑張ろうね」と言葉を。"
+          },
+          {
+            "title": "台風31号 11/4～小笠原諸島接近か",
+            "link": "https://news.yahoo.co.jp/pickup/6600811?source=rss",
+            "detail": "勢力や強い勢力で、11月4日(水)から5日(木)ごろにかけて父島など小笠原諸。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "日米豪印外相会談 AIなど協力確認",
+            "link": "https://news.yahoo.co.jp/pickup/6600886?source=rss",
+            "detail": "日本とアメリカ、オーストラリア、インドによる「クアッド」の外相会談がアメリカで行われ…"
+          },
+          {
+            "title": "米国版凱旋門 建設中止求め提訴",
+            "link": "https://news.yahoo.co.jp/pickup/6600891?source=rss",
+            "detail": "凱旋門の高さが法令で定められた建。"
+          },
+          {
+            "title": "スペイン運輸相 追突列車は青信号",
+            "link": "https://news.yahoo.co.jp/pickup/6600855?source=rss",
+            "detail": "【トレド共同】スペイン中部トレド県ウルダで起きた高速列車追突事故で、プエンテ運輸相は30日の記者会見で…"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "（読者と記者のｂｅ会議）普段の睡眠に満足して…",
+            "link": "https://www.asahi.com/articles/DA3S16579037.html",
+            "detail": "朝までぐっすり眠り、すっきり目覚めて一日がスタート……とは、なかなかいかないもののようです。"
+          },
+          {
+            "title": "なぜ灘・筑駒の生徒は「よく寝ている」のか？…",
+            "link": "https://diamond.jp/articles/-/401821",
+            "detail": "ノーベル賞の登竜門・ラスカー賞受賞で話題！"
+          },
+          {
+            "title": "スマートフォンの利用状況から睡眠の質を推定可…",
+            "link": "https://www.docomo.ne.jp/info/news_release/2026/10/27_03.html",
+            "detail": "基盤」の新たな機能として2026年10月1日（木曜）から提供を開始しました。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-10-31",
     "heading": "10月31日（土曜日）",
     "sections": [
