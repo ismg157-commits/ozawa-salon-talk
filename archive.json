@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-02",
+    "heading": "11月2日（月曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高23℃／最低13℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ時々くもり",
+            "detail": "最高19℃／最低13℃、降水確率8%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/7（土））はくもり",
+            "detail": "最高16℃／最低10℃、降水確率23%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "茅ケ崎市長選挙、佐藤光氏が３選…",
+            "link": "https://news.yahoo.co.jp/articles/c2c230300a8e451705d3382e69ec6eb400191329",
+            "detail": "任期満了に伴う茅ケ崎市長選は１日、投開票が行われ、無所属で現職の佐藤光氏（５７）＝自民推薦＝が、いずれも無所属の新人で…"
+          },
+          {
+            "title": "茅ヶ崎市長選挙 現職佐藤光氏が３回目の当選",
+            "link": "https://news.web.nhk/newsweb/na/nd-20261101de69308",
+            "detail": "▼佐藤光 無所属・現 当選 4万978票 ▼藤村優佳理。"
+          },
+          {
+            "title": "茅ケ崎市長選が投開票 現職含む4人が立候補…",
+            "link": "https://www.asahi.com/articles/ASVC12DRVVC1ULOB00FM.html",
+            "detail": "無所属で現職の佐藤光氏（57）が、いずれも無所属新顔で、元高校教諭の桂秀光氏（70）、投資家の小林隆義氏（64）…"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "防災庁発足 防災・災害時の司令塔",
+            "link": "https://news.yahoo.co.jp/pickup/6601011?source=rss",
+            "detail": "司令塔機能を担う防災庁が2日、発足した。"
+          },
+          {
+            "title": "農相政治団体 寄付3000万円不記載",
+            "link": "https://news.yahoo.co.jp/pickup/6601002?source=rss",
+            "detail": "政治資金規正法違反の疑いがある。"
+          },
+          {
+            "title": "私立高の学校納付金2倍 NGO調査",
+            "link": "https://news.yahoo.co.jp/pickup/6601019?source=rss",
+            "detail": "「学校納付金」の平均額が2026年度は約14万7千円で、約7万3千円だった25年度。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米大統領 接戦州集会で最後の訴え",
+            "link": "https://news.yahoo.co.jp/pickup/6601024?source=rss",
+            "detail": "トランプ氏はこの日、カンザス州でも演説し、対面集会を締めくくる。"
+          },
+          {
+            "title": "ウクライナ南部の局地停戦が終了",
+            "link": "https://news.yahoo.co.jp/pickup/6601014?source=rss",
+            "detail": "両国の連携で支援や住民の退避が成功し。"
+          },
+          {
+            "title": "北への武器 香港の密輸集団が暗躍",
+            "link": "https://news.yahoo.co.jp/pickup/6601016?source=rss",
+            "detail": "中継地の香港に送られた銃器類を北朝鮮に送。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "桃谷順天館／肌悩みの根源ケア 多機能美容液",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qbjdRbGprN0h5U0ZyTnN0TlR1bTlLVFRJQUZJczZxWTBpVkxnNEZpOGF5TERFaUU1MmlKSGI0NTM2RzBpSlI4UlRsR0p2bkVhbWFxX1ZsOTk?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "現役美容師が、女性が喜ぶゲストハウス…",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oM0ZkMzhLYzM1SlhkdzBjeUdmaDhjTEN3cmpxNTF2a0Y4aXc5WE1DN0l4OG9GN2F6NU1WcjVVb2UtVkZhQXdLUmtwdllZVVM4WHZMRFR6Xy1Yam5p?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "だから手塚治虫は60歳で早逝､水木しげるは9…",
+            "link": "https://president.jp/articles/-/120822?page=1",
+            "detail": "健康に生きるうえで、睡眠は欠かすことはできない。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-01",
     "heading": "11月1日（日曜日）",
     "sections": [
