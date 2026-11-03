@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-03",
+    "heading": "11月3日（火曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ時々くもり",
+            "detail": "最高19℃／最低13℃、降水確率12%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は霧雨",
+            "detail": "最高18℃／最低13℃、降水確率54%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/7（土））はくもり",
+            "detail": "最高17℃／最低10℃、降水確率15%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "小田原市、市長決裁経ずに賠償金支払い…",
+            "link": "https://www.47news.jp/15175659.html",
+            "detail": "２０１７年度以降７件あり、いずれも相手方には支払い済みという。"
+          },
+          {
+            "title": "逗子市、葉山町に損害賠償求め調停申し立てへ…",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZTlwWmt6OUVvTHBUWDFBbzhBVlJ1cTZINFpTenBwLWRGS2VEanp6a21GVUNrQkRLZUR3ME9Vc1lCeEtGMUp3eUJ6cUstVndEZnhfbVkycjBTa1lscXlMWWhkenhxaVROYU1KRw?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "秦野 クマ駆除受け3日から登山道再開",
+            "link": "https://news.web.nhk/newsweb/na/nd-20261102de69771",
+            "detail": "されていた登山道の利用が3日から再開されることになり、2日、市の職員が入り口。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "公布80年 初改正へ改憲派前のめり",
+            "link": "https://news.yahoo.co.jp/pickup/6601124?source=rss",
+            "detail": "日本国憲法の公布から3日で80年を迎えた。"
+          },
+          {
+            "title": "転換期の憲法論議 発議見通せず",
+            "link": "https://news.yahoo.co.jp/pickup/6601117?source=rss",
+            "detail": "日本国憲法は3日、1946年の公布から80年。"
+          },
+          {
+            "title": "トランプ政権に「共感」日本で23%",
+            "link": "https://news.yahoo.co.jp/pickup/6601133?source=rss",
+            "detail": "■「日本にもトランプ氏のような強い政治家が必要」52.6％JNNのデジタルメディア「TBS NEWS…"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "トランプ氏 演説で「口約束」連発",
+            "link": "https://news.yahoo.co.jp/pickup/6601130?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "ICC赤根所長 米政権の制裁を批判",
+            "link": "https://news.yahoo.co.jp/pickup/6601146?source=rss",
+            "detail": "国連総会で、ICC＝国際刑事裁判所の赤根智子所長がビデオ形式で年次報告を行いました。"
+          },
+          {
+            "title": "米・露・ウが10～11日に3者協議",
+            "link": "https://news.yahoo.co.jp/pickup/6601140?source=rss",
+            "detail": "特使は２日、米国とロシア、‌ウクライナの３カ国による実務者。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "令和８年度理容師・美容師養成功労者に対する厚…",
+            "link": "https://www.mhlw.go.jp/stf/newpage_77016.html",
+            "detail": ""
+          },
+          {
+            "title": "医療・美容用コラーゲン注入剤の世界市場（20…",
+            "link": "https://newscast.jp/smart/news/3420156",
+            "detail": "ニュースをメディアだけではなくSNSで拡散。"
+          },
+          {
+            "title": "手取り14万7000円の美容師を辞め､人に騙…",
+            "link": "https://toyokeizai.net/articles/-/962461",
+            "detail": "なぜマッチョと介護､一見かけ離れたものを合わせるに至ったのか。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-02",
     "heading": "11月2日（月曜日）",
     "sections": [
