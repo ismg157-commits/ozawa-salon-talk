@@ -1,5 +1,100 @@
 [
   {
+    "id": "2026-11-04",
+    "heading": "11月4日（水曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高16℃／最低12℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高17℃／最低12℃、降水確率100%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/7（土））は晴れ時々くもり",
+            "detail": "最高17℃／最低9℃、降水確率13%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": []
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "関東一部 5日朝に警報級大雨恐れ",
+            "link": "https://news.yahoo.co.jp/pickup/6601253?source=rss",
+            "detail": "関東地方は今日4日(水)の夕方から雨の降りだす所があるでしょう。"
+          },
+          {
+            "title": "トランプ政権に「共感」日本で23%",
+            "link": "https://news.yahoo.co.jp/pickup/6601133?source=rss",
+            "detail": "■「日本にもトランプ氏のような強い政治家が必要」52.6％JNNのデジタルメディア「TBS NEWS…"
+          },
+          {
+            "title": "武部農相 献金巡り新たな疑惑",
+            "link": "https://news.yahoo.co.jp/pickup/6601222?source=rss",
+            "detail": "武部新農水相（56）が、衆院選に際して公選法に抵触する違法な寄附を受け取っていた疑いがあることが「週刊文春」の取材で分かった。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米 イスラエル年40億ドル支援終了",
+            "link": "https://news.yahoo.co.jp/pickup/6601259?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "スペイン運輸相 列車事故受け辞意",
+            "link": "https://news.yahoo.co.jp/pickup/6601256?source=rss",
+            "detail": "【パリ時事】スペインのプエンテ運輸相は3日、日本人2人を含む69人が死亡した高速列車衝突事故について議会で説明し、辞意を表明した。"
+          },
+          {
+            "title": "欧州で旅客機への爆破予告相次ぐ",
+            "link": "https://news.yahoo.co.jp/pickup/6601246?source=rss",
+            "detail": "（ブルームバーグ）:欧州の航空業界ではこの2日間、異例の頻度で爆破予告が相次ぎ、航空機が戦闘機の護衛を受けながら目的地変更を余儀なくされた。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "「海を泳いで、本土に渡るんです」島民わずか4…",
+            "link": "https://news.yahoo.co.jp/articles/3b0be7c879f078773b14b58953826995a8aecdbf?source=rss",
+            "detail": "宮崎県の沖合に浮かぶ小さな島、築島。"
+          },
+          {
+            "title": "「祖母を思い出す」と読者ほっこり…",
+            "link": "https://news.yahoo.co.jp/articles/de482babab4f13f351c2ea6f41bcf1acdfb59272?source=rss",
+            "detail": "満102歳を迎えたヤス子ばあちゃん今日も元気に窓から見える雄大な山を見ながら過ごす…"
+          },
+          {
+            "title": "ついにコム デ ギャルソン・オム×ニューバラ…",
+            "link": "https://news.yahoo.co.jp/articles/c8a4bf384ff8cbb000cadc58b8ee23990ce7bfb3?source=rss",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-03",
     "heading": "11月3日（火曜日）",
     "sections": [
