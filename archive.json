@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-05",
+    "heading": "11月5日（木曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高16℃／最低12℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高23℃／最低15℃、降水確率15%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/7（土））は晴れ時々くもり",
+            "detail": "最高19℃／最低9℃、降水確率8%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "県警が川崎市役所を家宅捜索",
+            "link": "https://www.47news.jp/15183430.html",
+            "detail": "川崎市が発注した工事の価格を業界団体関係者に漏らしたとして市部長の男（59）が逮捕された事 ...。"
+          },
+          {
+            "title": "令和８年度 第２回インクルーシブ教育推進フォ…",
+            "link": "https://prtimes.jp/main/html/rd/p/000001803.000108051.html",
+            "detail": ""
+          },
+          {
+            "title": "の観光客数、過去最多2億1736万人…",
+            "link": "https://www.sankei.com/article/20261105-PR5YNTKG7JNVFOPNZLUYLRGD5U/",
+            "detail": "統計がある昭和36年以降、2年連続で過去最多を更新…"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "関東や伊豆諸島 大雨災害に警戒",
+            "link": "https://news.yahoo.co.jp/pickup/6601367?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "消費税減税 あすにも衆院通過へ",
+            "link": "https://news.yahoo.co.jp/pickup/6601376?source=rss",
+            "detail": "与党は衆院で過半数を確保しており、今国会最大の焦点と。"
+          },
+          {
+            "title": "「書道」無形文化遺産に登録へ",
+            "link": "https://news.yahoo.co.jp/pickup/6601371?source=rss",
+            "detail": "ユネスコの評価機関が登録を勧告した。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米民主党 次のリーダー不在課題",
+            "link": "https://news.yahoo.co.jp/pickup/6601386?source=rss",
+            "detail": "ただ、トランプ政権への批判票が集まった「敵失」という側面が強く、選挙戦を通じて民主党内。"
+          },
+          {
+            "title": "米民主党 トランプ政権監視強化へ",
+            "link": "https://news.yahoo.co.jp/pickup/6601374?source=rss",
+            "detail": "党は４日、共和党のトランプ大統領に対する監視を強化する方。"
+          },
+          {
+            "title": "米大統領 民主党に「おめでとう」",
+            "link": "https://news.yahoo.co.jp/pickup/6601327?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "レム睡眠行動障害で萎縮する脳幹の神経核―死後…",
+            "link": "https://www.kyoto-u.ac.jp/ja/research-news/2026-11-04-3",
+            "detail": "研究者情報研究者名花川 隆京都大学 教育研究活動データベース。"
+          },
+          {
+            "title": "美容医療機関から負担金徴収案 財制審…",
+            "link": "https://www.nikkei.com/article/DGXZQOUA045890U6A101C2000000/",
+            "detail": "2025年の改正医療法で美容など自由診療の医療機関が、都道府県知事に安全管理などを毎年報告する義務が課された。"
+          },
+          {
+            "title": "美容医療から「医師養成の負担金を」 財務省…",
+            "link": "https://www.asahi.com/articles/ASVC423M2VC4ULFA01VM.html",
+            "detail": "高額報酬をうたう美容業界に人材が偏れば、地域医療を支える医師の確保に…"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-04",
     "heading": "11月4日（水曜日）",
     "sections": [
