@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-06",
+    "heading": "11月6日（金曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は霧雨",
+            "detail": "最高22℃／最低15℃、降水確率16%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ",
+            "detail": "最高18℃／最低12℃、降水確率6%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/8（日））は晴れ時々くもり",
+            "detail": "最高17℃／最低10℃、降水確率16%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "（）横浜市磯子区洋光台２丁目で下半身露出…",
+            "link": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1491232613342380825",
+            "detail": ""
+          },
+          {
+            "title": "台風25号の河川被災・復旧状況",
+            "link": "https://www.pref.kanagawa.jp/docs/wk7/taihu25hisai_kasen.html",
+            "detail": ""
+          },
+          {
+            "title": "の１０町使用のシステムで不正アクセス…",
+            "link": "https://news.yahoo.co.jp/articles/201db132e1d62817aeef8b9bb25119f7b18b6276",
+            "detail": "自治体のオンラインシステムを運営する「アララ」（東京都港区）が不正アクセスを受けた問題で、県町村情報システム共同事業組合は５日…"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "6日 全国的に気温高く夏日予想も",
+            "link": "https://news.yahoo.co.jp/pickup/6601453?source=rss",
+            "detail": "関東や東海などで25℃以上になる所があり、袖をまくりたくなる陽気となるでしょう。"
+          },
+          {
+            "title": "サイバー攻撃で強制遮断検討 政府",
+            "link": "https://news.yahoo.co.jp/pickup/6601490?source=rss",
+            "detail": "政府が近くまとめるサイバーセキュリティー緊急対策パッケージに、二次被害の防止対策として…"
+          },
+          {
+            "title": "取り調べ拒否24年以降158件 調査",
+            "link": "https://news.yahoo.co.jp/pickup/6601499?source=rss",
+            "detail": "が6日、弁護士団体への取材で分かった。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "ルビオ長官 辞任検討の報道否定",
+            "link": "https://news.yahoo.co.jp/pickup/6601491?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "露 JT資産を同国企業の管理下に",
+            "link": "https://news.yahoo.co.jp/pickup/6601467?source=rss",
+            "detail": "ロシアのプーチン大統領は5日、日本たばこ産業（JT）がロシアに保有する資産を。"
+          },
+          {
+            "title": "歴史的勝利 喜び広がるテキサス州",
+            "link": "https://news.yahoo.co.jp/pickup/6601472?source=rss",
+            "detail": "州の上院選を民主党候補が38年ぶりに制し、現地では歴史的な勝利に喜びが広がって。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "レム睡眠行動障害で萎縮する脳幹の神経核―死後…",
+            "link": "https://www.kyoto-u.ac.jp/ja/research-news/2026-11-04-3",
+            "detail": "研究者情報研究者名花川 隆京都大学 教育研究活動データベース。"
+          },
+          {
+            "title": "美容医療から「医師養成の負担金を」 財務省…",
+            "link": "https://www.asahi.com/articles/ASVC423M2VC4ULFA01VM.html",
+            "detail": "高額報酬をうたう美容業界に人材が偏れば、地域医療を支える医師の確保に…"
+          },
+          {
+            "title": "ハンコ大手「シヤチハタ」が化粧品事業…",
+            "link": "https://www.yomiuri.co.jp/economy/20261105-GYT1T00357/",
+            "detail": "同社は朱肉が不要な浸透印に強みを持っており、知見を生かして美容成分を効率的に肌に届けられる化粧品の開発を進める。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-05",
     "heading": "11月5日（木曜日）",
     "sections": [
