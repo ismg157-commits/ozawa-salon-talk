@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-07",
+    "heading": "11月7日（土曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ時々くもり",
+            "detail": "最高19℃／最低11℃、降水確率22%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ",
+            "detail": "最高17℃／最低10℃、降水確率7%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/9（月））は雨",
+            "detail": "最高13℃／最低9℃、降水確率87%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "大、公式戦１１連勝で４強入り ７回に２ラン…",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aTnFfNFdremdlaW9YME9KSDVzM0VxZjZyX0FIbzFKSUVKRmxaSVgybXhzMDRJSEhCR3dNb0pIYlFJUFV3Z21BaGlnckpWQ1Y2SlpEQ0pEcDlTYnVRaGxJUGh0Sjdzb2d0Sm5JcDUwaEU4Zw?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "巨人ドラ６の大・松平快聖が８回２失点の好投「…",
+            "link": "https://www.nikkansports.com/baseball/news/202611060001408.html",
+            "detail": "神奈川大・松平が、負ければ大学野球引退… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。"
+          },
+          {
+            "title": "大のサブマリン巨人ドラ6松平…",
+            "link": "https://www.sponichi.co.jp/baseball/news/2026/11/07/kiji/20261106s00001089389000c.html",
+            "detail": "関東地区大学野球選手権は6日、バッティングパレス相石ひらつかなどで準々決勝4試合が行われた。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "岸田氏 国債NISAは慎重な検討必要",
+            "link": "https://news.yahoo.co.jp/pickup/6601610?source=rss",
+            "detail": "岸田文雄元首相は6日、朝日新聞の単独インタビューに応じ…"
+          },
+          {
+            "title": "中学生4割が外国人増否定的 調査",
+            "link": "https://news.yahoo.co.jp/pickup/6601609?source=rss",
+            "detail": "外国人の増加を「社会にとって良いことが多いと思わない」と考える中学生が、2025年の調査で4割を超え…"
+          },
+          {
+            "title": "全国に広がる「被害者手帳」とは",
+            "link": "https://news.yahoo.co.jp/pickup/6601573?source=rss",
+            "detail": "11月1日〜12月1日までは「犯罪被害者月間」です。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米大統領首席補佐官 ミラー氏昇格",
+            "link": "https://news.yahoo.co.jp/pickup/6601592?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "MAGA連合に亀裂生じる CNN調査",
+            "link": "https://news.yahoo.co.jp/pickup/6601569?source=rss",
+            "detail": "3日の中間選挙では、従来の共和党王国。"
+          },
+          {
+            "title": "米民主党 AI規制法案を多数提出へ",
+            "link": "https://news.yahoo.co.jp/pickup/6601606?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "レム睡眠行動障害で萎縮する脳幹の神経核―死後…",
+            "link": "https://www.kyoto-u.ac.jp/ja/research-news/2026-11-04-3",
+            "detail": "研究者情報研究者名花川 隆京都大学 教育研究活動データベース。"
+          },
+          {
+            "title": "美容医療から「医師養成の負担金を」 財務省…",
+            "link": "https://www.asahi.com/articles/ASVC423M2VC4ULFA01VM.html",
+            "detail": "高額報酬をうたう美容業界に人材が偏れば、地域医療を支える医師の確保に…"
+          },
+          {
+            "title": "美容医療機関から負担金徴収案 財制審…",
+            "link": "https://www.nikkei.com/article/DGXZQOUA045890U6A101C2000000/",
+            "detail": "2025年の改正医療法で美容など自由診療の医療機関が、都道府県知事に安全管理などを毎年報告する義務が課された。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-06",
     "heading": "11月6日（金曜日）",
     "sections": [
