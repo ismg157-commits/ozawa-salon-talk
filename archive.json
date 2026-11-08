@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-08",
+    "heading": "11月8日（日曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ",
+            "detail": "最高17℃／最低10℃、降水確率5%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は雨",
+            "detail": "最高12℃／最低9℃、降水確率100%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/14（土））は晴れ時々くもり",
+            "detail": "最高18℃／最低10℃、降水確率4%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "とグロービス経営大学院が「ベンチャー企業支援…",
+            "link": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-860466",
+            "detail": ""
+          },
+          {
+            "title": "11度目の挑戦でつかんだ初勝利…",
+            "link": "https://news.yahoo.co.jp/expert/articles/534876855e5dbe74ee84bad4082b7fbf2b63faf9",
+            "detail": "南里杏が決勝ゴール】 何度も跳ね返されてきた壁を、ついに打ち破った。"
+          },
+          {
+            "title": "慶応、黒見が７０メートル独走トライ…",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MX2xvVVJRdDluc2RBams4VHBOTnFQTHpWaGYweWk5cTlGaUlLY2F6UUJnUVVOd05WUUlXRGlHeEdjN1JyVWpoTEhoZ3p6U0p4TFh2bDBCV2JUUzlXdlpaTXVUc3Q0TVk?oc=5",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "あす都心11℃予想 12月下旬並み",
+            "link": "https://news.yahoo.co.jp/pickup/6601737?source=rss",
+            "detail": "北日本を中心に強い寒気の流れ込みが続いています。"
+          },
+          {
+            "title": "互いに譲らず 冷え切った日中関係",
+            "link": "https://news.yahoo.co.jp/pickup/6601734?source=rss",
+            "detail": "［きしむ日中］＜上＞ 高市首相の台湾有事を巡る国会答弁から７日で１年。"
+          },
+          {
+            "title": "「継戦能力」強化を明記 政府検討",
+            "link": "https://news.yahoo.co.jp/pickup/6601705?source=rss",
+            "detail": "複数の関係者が7日、明らかにした。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米首席補佐官交代 強硬路線進むか",
+            "link": "https://news.yahoo.co.jp/pickup/6601647?source=rss",
+            "detail": "アメリカのトランプ大統領はワイルズ大統領首席補佐官を交代させ、保守強硬派のミラー次席補佐官を後任にすることを決めました。"
+          },
+          {
+            "title": "露 ウのエネ施設に大規模攻撃",
+            "link": "https://news.yahoo.co.jp/pickup/6601740?source=rss",
+            "detail": "ロシア軍がウクライナのエネルギー施設を狙った大規模な攻撃を行い…"
+          },
+          {
+            "title": "露 JT法人3社を一時管理下に追加",
+            "link": "https://news.yahoo.co.jp/pickup/6601707?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "社説：睡眠と健康 受診しやすい体制を整えたい",
+            "link": "https://www.yomiuri.co.jp/editorial/20261107-GYT1T00299/",
+            "detail": "【読売新聞】 国内では、成人の１０％が慢性的な不眠を抱えていると言われる。"
+          },
+          {
+            "title": "『ポケモンスリープ』で判明！…",
+            "link": "https://diamond.jp/articles/-/402052",
+            "detail": "ノーベル賞の登竜門・ラスカー賞受賞で話題！"
+          },
+          {
+            "title": "レム睡眠行動障害で萎縮する脳幹の神経核―死後…",
+            "link": "https://www.kyoto-u.ac.jp/ja/research-news/2026-11-04-3",
+            "detail": "研究者情報研究者名花川 隆京都大学 教育研究活動データベース。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-07",
     "heading": "11月7日（土曜日）",
     "sections": [
