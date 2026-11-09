@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-09",
+    "heading": "11月9日（月曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高12℃／最低9℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日はくもり",
+            "detail": "最高14℃／最低8℃、降水確率73%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/14（土））はくもり",
+            "detail": "最高20℃／最低9℃、降水確率9%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "日大藤沢が２年連続９度目の優勝…",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yQWRzSjBwajl2MlZwR05QOWtSNFAyb2JDVkpad2JTc2ZIUzBHWjFKcXRQcU5UWVBxVG96RXFWV1JjWjZKaUhnb0VnWlRxRS03RVh1NjMxRm5IZ3dvT0ZYYk5aNHhaOVpzSUE?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "大会決勝 桐光学園VS日大藤沢",
+            "link": "https://tver.jp/episodes/epjx0q1fx5",
+            "detail": ""
+          },
+          {
+            "title": "ＤｅＮＡ戸柱恭孝、海外ＦＡ権を行使…",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HVkdzTDA5cFdtZkx1OXRocDcycUVETFpsMVIyQ0U3TjVieUNVVGRyNjRoZldzTEhucnI1VFN2YlR2UDBrbHIwdUtpcm1JTkQ0Y2hXRU1YS1BtSkkzYjBJYlF0TEV5bjdUdlJwcGljdWVaV1JncWh6MQ?oc=5",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "中国を「脅威」見送りへ 政府方針",
+            "link": "https://news.yahoo.co.jp/pickup/6601872?source=rss",
+            "detail": "「脅威」との表現は見送る方針だ。"
+          },
+          {
+            "title": "自民 消費減税採決棄権で処分検討",
+            "link": "https://news.yahoo.co.jp/pickup/6601782?source=rss",
+            "detail": "自民党は消費減税関連法案の採決を棄権した石破前総理大臣らに対し、一定の処分を検討していることが分かりました。"
+          },
+          {
+            "title": "清貧であるべき? 議員語る違和感",
+            "link": "https://news.yahoo.co.jp/pickup/6601819?source=rss",
+            "detail": "東京・新宿区議の渡辺やすし氏が、自身のXに高級寿司店での食事について投稿し、SNS上で物議を醸している。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "トランプ氏 UFC代表に報道官打診",
+            "link": "https://news.yahoo.co.jp/pickup/6601757?source=rss",
+            "detail": "共同】トランプ米大統領は7日、総合格闘技団体UFCのダナ・ホワイト最高経営責。"
+          },
+          {
+            "title": "露衛星の軍事利用開始か ウ警戒",
+            "link": "https://news.yahoo.co.jp/pickup/6601779?source=rss",
+            "detail": "【キーウ共同】ウクライナ国防省情報総局の関係者は7日…"
+          },
+          {
+            "title": "イスラエル 野党党首に組閣指示",
+            "link": "https://news.yahoo.co.jp/pickup/6601869?source=rss",
+            "detail": "エルのヘルツォグ大統領は8日、国会（定数120）総選挙の結果を受け、反ネタニ。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "レム睡眠行動障害で萎縮する脳幹の神経核―死後…",
+            "link": "https://www.kyoto-u.ac.jp/ja/research-news/2026-11-04-3",
+            "detail": "研究者情報研究者名花川 隆京都大学 教育研究活動データベース。"
+          },
+          {
+            "title": "睡眠学者・柳沢正史が問う「世界的CEOはみん…",
+            "link": "https://finance.yahoo.co.jp/news/detail/1064cff5ff1a078c4525b7fb126bf0a8f71d10f7",
+            "detail": "ノーベル賞の登竜門・ラスカー賞受賞で話題！"
+          },
+          {
+            "title": "乾燥さんの新作「オイル美容液」を…",
+            "link": "https://www.roomie.jp/2026/11/1917369/",
+            "detail": "ベタつきにくい使用感で、乾燥が気になる季節のプラスワンアイテムですよ。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-08",
     "heading": "11月8日（日曜日）",
     "sections": [
