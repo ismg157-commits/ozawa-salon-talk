@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-11",
+    "heading": "11月11日（水曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ",
+            "detail": "最高14℃／最低8℃、降水確率0%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ",
+            "detail": "最高17℃／最低9℃、降水確率0%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/14（土））はにわか雨",
+            "detail": "最高16℃／最低10℃、降水確率23%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "や相模原市職員などが参加…",
+            "link": "https://article.auone.jp/3bfa22af-5ea2-459d-9e72-340ba9c2baae",
+            "detail": "災害により市内で大規模な断水が発生した際に速やかに水を提供しようと相模原市や神奈川県などが応急給水活…"
+          },
+          {
+            "title": "11月10日11時半現在（tvkニュース（テ…",
+            "link": "https://news.yahoo.co.jp/articles/a5723de6e7e611abad3b969c3fde736335acec03",
+            "detail": "神奈川県警によりますとこれまでに横浜市鶴見区東寺尾東台、都筑区北山田、横須賀市長坂、鎌倉市津、綾瀬市。"
+          },
+          {
+            "title": "横浜・前市長パワハラ問題…",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ScnhLdkVSUGl5Q1BnT2J4cE9peml2Unl5V05wZmk5NkJfSFM4d3NEZnlZaVR3VnVDR1V6anBUSlcwNkc4c3Q3Z3BPSE9pNjZfZDZ5VGZ5dHBsNi1fZkM0NVRvV09Yb0VlRlNSVg?oc=5",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "国際情勢は歴史的変革期 政府方針",
+            "link": "https://news.yahoo.co.jp/pickup/6602125?source=rss",
+            "detail": "安保環境では「六つの変容」が起きているとして、具体的には法の支配に。"
+          },
+          {
+            "title": "日中首脳会談 実現への調整不調",
+            "link": "https://news.yahoo.co.jp/pickup/6602093?source=rss",
+            "detail": "同】中国・深センで18～19日に開かれるアジア太平洋経済協力会議（APEC）首。"
+          },
+          {
+            "title": "自民・小渕氏ら 税調副会長を辞任",
+            "link": "https://news.yahoo.co.jp/pickup/6602083?source=rss",
+            "detail": "党幹部からは、石破茂前首相ら自民議員4人への戒告処分に。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "日本のエンタメを排除 きしむ日中",
+            "link": "https://news.yahoo.co.jp/pickup/6602115?source=rss",
+            "detail": "９月以降、北京や広東省で公式ショップがオープンし、週末はぬいぐるみなどを買い求める行列。"
+          },
+          {
+            "title": "米・露・ウの協議 9カ月ぶり再開",
+            "link": "https://news.yahoo.co.jp/pickup/6602085?source=rss",
+            "detail": "米国は協議の焦点を両国間の停戦から欧州全体の安全保障に広げ、交渉を動かそうとしているが、。"
+          },
+          {
+            "title": "G7外相会合 ウ支援で声明公表へ",
+            "link": "https://news.yahoo.co.jp/pickup/6602111?source=rss",
+            "detail": "ロシアの侵略を受けるウクライナ支援について協議し、冬季を乗り越えるために必要なエネルギ。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "睡眠改善で何を解決するのか 24",
+            "link": "https://www.projectdesign.jp/articles/news/907eca3a-74e9-4983-9d54-8e86f5e2b84a",
+            "detail": "（※本記事はNTTデータ経営研究所ウェブサイト内の「経営研レポート」に2026年10月14日付で掲載された記事を…"
+          },
+          {
+            "title": "睡眠不足かも？ 「どこでもすぐ眠れる人」は要…",
+            "link": "https://dot.asahi.com/articles/-/297281?page=1",
+            "detail": "スマホや寝酒、カフェインを見直し、眠りを整える手がかりを…"
+          },
+          {
+            "title": "高機能美容液「エンハンスドセラム」誕生‐マツ…",
+            "link": "https://www.yakuji.co.jp/entry141575.html",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-10",
     "heading": "11月10日（火曜日）",
     "sections": [
@@ -6501,117 +6612,6 @@
             "title": "「ゲラン」最高峰ライン『オーキデ…",
             "link": "https://precious.jp/articles/-/62739",
             "detail": "第6世代へと進化を遂げた、濃密な潤いで大人の肌にハリと弾力感を与えてくれる逸品を詳しくご紹介します。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-09-12",
-    "heading": "9月12日（土曜日）",
-    "sections": [
-      {
-        "label": "天気",
-        "tone": "weather",
-        "items": [
-          {
-            "title": "今日は雨",
-            "detail": "最高25℃／最低20℃、降水確率83%。神奈川（横浜）の目安です。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "明日は晴れ時々くもり",
-            "detail": "最高26℃／最低22℃、降水確率12%。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "週末（9/14（月））はくもり",
-            "detail": "最高30℃／最低24℃、降水確率7%。お出かけの話のきっかけに。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          }
-        ]
-      },
-      {
-        "label": "神奈川",
-        "tone": "kanagawa",
-        "items": [
-          {
-            "title": "高校野球秋季大会 １２日に３回戦１５試合…",
-            "link": "https://www.kanaloco.jp/sports/baseball/hsbaseball/article-1303782.html",
-            "detail": "【下に３回戦以降の組み合わせ】桐光学園－法政二、横浜清陵－平塚学園、慶応－相洋、藤嶺藤沢－横浜隼人、日大藤沢－向上など強豪校の好カードが…"
-          },
-          {
-            "title": "12日の3回戦は「激アツ対決」目白押し…",
-            "link": "https://news.yahoo.co.jp/articles/e308f8c833d1b0e2c6b21cc296b450cd914993f9/images/000",
-            "detail": ""
-          },
-          {
-            "title": "競泳の代表・少年男子主将として国民スポーツ大…",
-            "link": "https://www.townnews.co.jp/0203/2026/09/11/852257.html",
-            "detail": "「最初は驚いたが、練習から率先して声をか...。"
-          }
-        ]
-      },
-      {
-        "label": "全般・国内",
-        "tone": "domestic",
-        "items": [
-          {
-            "title": "木原氏 岸田氏アンケ巡る発言謝罪",
-            "link": "https://news.yahoo.co.jp/pickup/6594991?source=rss",
-            "detail": "木原稔官房長官は11日、内閣改造・自民党役員人事を巡り、10日の東京都内での講演で…"
-          },
-          {
-            "title": "未婚者の3割超が子を望まず 調査",
-            "link": "https://news.yahoo.co.jp/pickup/6594969?source=rss",
-            "detail": "比較可能な2002年調査以降、30％を上回ったのは初めて。"
-          },
-          {
-            "title": "地獄だった 北へ渡った在日韓国人",
-            "link": "https://news.yahoo.co.jp/pickup/6594971?source=rss",
-            "detail": "その裏に、弟が書いた小さな字が残っている。"
-          }
-        ]
-      },
-      {
-        "label": "全般・海外",
-        "tone": "world",
-        "items": [
-          {
-            "title": "フーシ派が海峡周辺掌握 原油急騰",
-            "link": "https://news.yahoo.co.jp/pickup/6594994?source=rss",
-            "detail": "【カイロ共同】イエメンの親イラン武装組織フーシ派は11日、イエメン沖バベルマンデブ海峡にある要衝の島を掌握した。"
-          },
-          {
-            "title": "「トランプ配当金」共和党内賛否",
-            "link": "https://news.yahoo.co.jp/pickup/6594966?source=rss",
-            "detail": ""
-          },
-          {
-            "title": "欧州中銀 0.25%の利上げ決定",
-            "link": "https://news.yahoo.co.jp/pickup/6594903?source=rss",
-            "detail": "【ロンドン時事】欧州中央銀行（ECB）は10日、ユーロ圏の金融政策を協議する定例理事会をベルリンで開き…"
-          }
-        ]
-      },
-      {
-        "label": "健康と美容",
-        "tone": "health",
-        "items": [
-          {
-            "title": "SBC湘南美容クリニック…",
-            "link": "https://prtimes.jp/main/html/rd/p/000000036.000165112.html",
-            "detail": ""
-          },
-          {
-            "title": "マツキヨココカラPBから先端美容がぎゅっと詰…",
-            "link": "https://mi-mollet.com/articles/-/61094?page=2",
-            "detail": "３つの“高”は「#高感性なお客様のために、#高プライドをもって開発した、#高センスなプロダクト」という意味。"
-          },
-          {
-            "title": "夏休み期間中の子どもを対象とした食育・食体験…",
-            "link": "https://www.nippon-foundation.or.jp/what/projects/non-cognitive/food-support",
-            "detail": "あらゆる人や組織をつなぎ「みんながみんなを支える社会」を目指します。"
           }
         ]
       }
