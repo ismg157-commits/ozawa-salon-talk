@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-12",
+    "heading": "11月12日（木曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ",
+            "detail": "最高18℃／最低9℃、降水確率0%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ",
+            "detail": "最高19℃／最低10℃、降水確率0%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/14（土））は晴れ時々くもり",
+            "detail": "最高19℃／最低11℃、降水確率2%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "トー・ラム・ベトナム共産党書記長兼国家主席の…",
+            "link": "https://prtimes.jp/main/html/rd/p/000001833.000108051.html",
+            "detail": ""
+          },
+          {
+            "title": "県警の失効免許証流用…",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVODJPU25uLXhyRWIyVU1nNWJONVk4MVJTRDlNLURVblkzX3B1dFVQRTFNbEo3OVc1SFpoVGV0ZERaSGI4VGhJRDlqWk14OUNleTh2clN0ZG1vVlhTeXUtQXJicmVSVUk?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "[高校野球]21世紀の地図・トップの大阪…",
+            "link": "https://news.yahoo.co.jp/expert/articles/306c0afa63822693fd588ae203849d93d6ed6f42",
+            "detail": "都市対抗は今年、21世紀に入って26回目の開。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "核「持ち込ませず」例外検討 政府",
+            "link": "https://news.yahoo.co.jp/pickup/6602246?source=rss",
+            "detail": "高市早苗首相は非核三原則の見直しを持論としており、日本が安保を頼る。"
+          },
+          {
+            "title": "違憲状態解決策見えず 合区に限界",
+            "link": "https://news.yahoo.co.jp/pickup/6602244?source=rss",
+            "detail": "格差是正策として導入された合区の効果も限界が見え始め、2028年夏の次期参院選に向。"
+          },
+          {
+            "title": "防衛方針の新概念「拒否力」とは",
+            "link": "https://news.yahoo.co.jp/pickup/6602224?source=rss",
+            "detail": "筆者も出演した11月10日のYouTube政治討論番組「SIGNAL」で、小泉進次郎防衛相は。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "スペイン 14年ぶりの全国ゼネスト",
+            "link": "https://news.yahoo.co.jp/pickup/6602272?source=rss",
+            "detail": "今月２９日に予定される総選挙‌を前に、住宅。"
+          },
+          {
+            "title": "露ウ 大規模な捕虜交換で合意",
+            "link": "https://news.yahoo.co.jp/pickup/6602256?source=rss",
+            "detail": "ロシアによるウクライナ侵略の終結に向けた米露ウクライナ3カ国の高官協議は11日、アラブ首長国連邦（UAE）の首都アブダビで2日間の日程を終えた。"
+          },
+          {
+            "title": "メーガン妃の父親 保釈中に再拘束",
+            "link": "https://news.yahoo.co.jp/pickup/6602226?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "学生が考えた“栄養満点ランチ”を提供…",
+            "link": "http://www.beppu-u.ac.jp/9179/",
+            "detail": "別府大学・別府大学短期大学部の公式サイトです。"
+          },
+          {
+            "title": "栄養状態に応じて振る舞いを変える菌の鍵遺伝子…",
+            "link": "https://www.jst.go.jp/pr/announce/20261112-2/index.html",
+            "detail": "東京大学 大学院総合文化研究科の晝間 敬 教授とニューフェルド・ジェイシー 大学院生（博士課程）、奈良先端科学技術大学院大学…"
+          },
+          {
+            "title": "富士フイルム、薬用美白美容液「ASTALIF…",
+            "link": "https://www.nikkei.com/article/DGXZRSP715153_S6A111C2000000/",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-11",
     "heading": "11月11日（水曜日）",
     "sections": [
@@ -6501,117 +6612,6 @@
             "title": "コスメデコルテ26年クリスマスコフレ…",
             "link": "https://www.fashion-press.net/news/150482",
             "detail": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-09-13",
-    "heading": "9月13日（日曜日）",
-    "sections": [
-      {
-        "label": "天気",
-        "tone": "weather",
-        "items": [
-          {
-            "title": "今日は霧雨",
-            "detail": "最高25℃／最低21℃、降水確率16%。神奈川（横浜）の目安です。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "明日は晴れ",
-            "detail": "最高32℃／最低25℃、降水確率33%。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "週末（9/19（土））はにわか雨",
-            "detail": "最高27℃／最低21℃、降水確率67%。お出かけの話のきっかけに。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          }
-        ]
-      },
-      {
-        "label": "神奈川",
-        "tone": "kanagawa",
-        "items": [
-          {
-            "title": "「かなトク！」商品券を９月にも追加実施…",
-            "link": "https://www.kanaloco.jp/news/government/article-1303590.html",
-            "detail": "県は１０日、物価高騰対策として本年度実施した「かながわトクトクキャンペーン！"
-          },
-          {
-            "title": "岩野喜一（三浦学苑1）10秒36＝高1歴代3…",
-            "link": "https://www.rikujyokyogi.co.jp/archives/216248",
-            "detail": ""
-          },
-          {
-            "title": "（）伊勢原市日向でクマ出没の可能性…",
-            "link": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1471803087244378141?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch2",
-            "detail": ""
-          }
-        ]
-      },
-      {
-        "label": "全般・国内",
-        "tone": "domestic",
-        "items": [
-          {
-            "title": "アンダーパス冠水恐れ 148自治体",
-            "link": "https://news.yahoo.co.jp/pickup/6595114?source=rss",
-            "detail": ""
-          },
-          {
-            "title": "総務省 開示請求後に文書削除か",
-            "link": "https://news.yahoo.co.jp/pickup/6595115?source=rss",
-            "detail": ""
-          },
-          {
-            "title": "性行為したくない 夫婦で言えぬ訳",
-            "link": "https://news.yahoo.co.jp/pickup/6595175?source=rss",
-            "detail": "どうやって互いの意思を確認すればいいのか。"
-          }
-        ]
-      },
-      {
-        "label": "全般・海外",
-        "tone": "world",
-        "items": [
-          {
-            "title": "習氏が訪印 中印関係の改善探る",
-            "link": "https://news.yahoo.co.jp/pickup/6595101?source=rss",
-            "detail": "新興国グループ「BRICS」の首脳会議が12日、インドの首都ニューデリーで開かれた。"
-          },
-          {
-            "title": "フーシ派 紅海入口要衝を「支配」",
-            "link": "https://news.yahoo.co.jp/pickup/6595152?source=rss",
-            "detail": "ーシ派のブハイティ幹部は12日、共同通信の取材に応じ、イエメンの紅海沿岸地域や。"
-          },
-          {
-            "title": "トランプ氏 フーシ派が不介入要請",
-            "link": "https://news.yahoo.co.jp/pickup/6595131?source=rss",
-            "detail": "【AFP＝時事】米国のドナルド・トランプ大統領は12日…"
-          }
-        ]
-      },
-      {
-        "label": "健康と美容",
-        "tone": "health",
-        "items": [
-          {
-            "title": "無印良品 「素材の栄養おやつ」シリーズから新…",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jbjFlVjBkNy1UMlJWRU5ISmg0UlBxRXdvMGFrQnh2NWx5d1ZZc3RiMENaX2dycnhENEtKT1JEdkJqazJ4dkNyX3lMOGZWUWFGNGpoWnRaRnluZzUxTHRiblFNWjY5bVk?oc=5",
-            "detail": ""
-          },
-          {
-            "title": "たるみケア新時代到来…",
-            "link": "https://i-voce.jp/feed/5135343/",
-            "detail": "新製品リリースが相次ぐ季節はワクワクが止まらないが、今期のスキンケアは例年以上の進化ぶり。"
-          },
-          {
-            "title": "「ゲラン」最高峰ライン『オーキデ…",
-            "link": "https://precious.jp/articles/-/62739",
-            "detail": "第6世代へと進化を遂げた、濃密な潤いで大人の肌にハリと弾力感を与えてくれる逸品を詳しくご紹介します。"
           }
         ]
       }
