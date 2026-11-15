@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-15",
+    "heading": "11月15日（日曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は雨",
+            "detail": "最高16℃／最低12℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ時々くもり",
+            "detail": "最高19℃／最低13℃、降水確率47%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/21（土））は快晴",
+            "detail": "最高13℃／最低5℃、降水確率0%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "春高バレー予選会 男子は武相が初優勝…",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nNElwa1duZWc3eTF5WHRhYzJxVUM1NFFHSVRrcHVCanVJeWQ0QU85bFd0X3FSMUVCcjVRVEVXS1dMd1FlV05qSFpDTUthd1dOQTNVdDJtYi0waVZwdmpWVFlNSlFHR1U?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "男子・武相、初優勝で憧れの春高へ…",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JeXVCQlZGZTNBZWQzQXdQTVFIWS15OTE5YTVYOTJhTThPMl9pdEprS1h2ZDNGU1Q4eFNwSFkyeHNlSDdMakJ3NkFtNFVTUUtXV19nZEFDem1jS1RManJlRl9CcmtSMnM?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "クマの目撃や出没、10月はで前年比5.4倍…",
+            "link": "https://www.asahi.com/articles/ASVCF1515VCFUTIL022M.html",
+            "detail": "環境省によると、この秋は北関東などでクマのエサとなる木の実が不作や凶作の地域があり…"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "きょう近畿や東海で激しい雨 注意",
+            "link": "https://news.yahoo.co.jp/pickup/6602621?source=rss",
+            "detail": "今日15日(日)は太平洋側を中心に発達した雨雲や雷雲がかかるでしょう。"
+          },
+          {
+            "title": "米中露の接近 日本政府は危機感",
+            "link": "https://news.yahoo.co.jp/pickup/6602584?source=rss",
+            "detail": "「わが国と築き上げてきた安全保障秩序を毀損しないよう米側に注。"
+          },
+          {
+            "title": "横田さん拉致49年 母が思い吐露",
+            "link": "https://news.yahoo.co.jp/pickup/6602620?source=rss",
+            "detail": "母・早紀江さん（90）は「一回でもいいから会いたい」とめぐみさんへの思いを吐露した。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米中露会談 3首脳の思惑が交錯",
+            "link": "https://news.yahoo.co.jp/pickup/6602626?source=rss",
+            "detail": "既存の国際秩序が揺らぐ中での開催となり、大国の勢力圏分割につながった1945年の米英ソ3首脳による「ヤルタ会談」になぞらえる。"
+          },
+          {
+            "title": "米中露会談 核兵器削減を協議へ",
+            "link": "https://news.yahoo.co.jp/pickup/6602532?source=rss",
+            "detail": "【AFP＝時事】（更新）米ホワイトハウスは13日、ドナルド・トランプ大統領と中国の習近平国家主席…"
+          },
+          {
+            "title": "米中露首脳会談 19日に中国で開催",
+            "link": "https://news.yahoo.co.jp/pickup/6602511?source=rss",
+            "detail": "米中ロ3カ国による正式な首脳会談は初めて。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "初めての美容液は￥1,000以下から！…",
+            "link": "https://www.mensnonno.jp/beauty/skincare/817005/",
+            "detail": "「化粧水だけでは物足りない」「肌印象を引き上げたい」と冬に向けて考え始めたメンズ必見！"
+          },
+          {
+            "title": "気になる肌悩みにアプローチ…",
+            "link": "https://precious.jp/articles/-/64074",
+            "detail": "一年に一度のお楽しみとなる【クリスマスコフレ】が続々と発売されるシーズンとなりました。"
+          },
+          {
+            "title": "韓国、30～40代男性の半数超が肥満…睡眠不…",
+            "link": "https://www.afpbb.com/articles/biz/3662397?ctm_campaign=biz_news",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-14",
     "heading": "11月14日（土曜日）",
     "sections": [
@@ -6501,117 +6612,6 @@
             "title": "#3：シンママ「ヨンア」(40)若さの秘密＆…",
             "link": "https://abema.tv/channels/abema-special/slots/DH8JLFbX8b342B",
             "detail": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-09-16",
-    "heading": "9月16日（水曜日）",
-    "sections": [
-      {
-        "label": "天気",
-        "tone": "weather",
-        "items": [
-          {
-            "title": "今日は強い雨",
-            "detail": "最高24℃／最低20℃、降水確率100%。神奈川（横浜）の目安です。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "明日は雨",
-            "detail": "最高22℃／最低19℃、降水確率100%。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "週末（9/19（土））はにわか雨",
-            "detail": "最高26℃／最低20℃、降水確率70%。お出かけの話のきっかけに。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          }
-        ]
-      },
-      {
-        "label": "神奈川",
-        "tone": "kanagawa",
-        "items": [
-          {
-            "title": "の基準地価、住宅地は平均３・１％上昇…",
-            "link": "https://www.kanaloco.jp/news/economy/article-1304600.html",
-            "detail": "上昇は５年連続で、比較可能な調査地点の９割超がプラスだった。"
-          },
-          {
-            "title": "の基準地価、住宅地3.1%上昇…",
-            "link": "https://www.nikkei.com/article/DGXZQOCC10AVI0Q6A910C2000000/",
-            "detail": "上昇率は前年の3.3%から縮小したものの、5年連続で上昇した。"
-          },
-          {
-            "title": "：基準地価、商業地で下落地点なし…",
-            "link": "https://www.yomiuri.co.jp/local/kanagawa/news/20260916-GYTNT00009/",
-            "detail": "地価の動きを示す全用途の平均変動率は、前年から０・１ポイント減の４・３％だった。"
-          }
-        ]
-      },
-      {
-        "label": "全般・国内",
-        "tone": "domestic",
-        "items": [
-          {
-            "title": "東海・関東甲信 警報級大雨の恐れ",
-            "link": "https://news.yahoo.co.jp/pickup/6595434?source=rss",
-            "detail": "晴れる所では気温が上がり、朝晩と日中との気温差にご注意ください。"
-          },
-          {
-            "title": "食料品消費税1% 大綱を閣議決定",
-            "link": "https://news.yahoo.co.jp/pickup/6595376?source=rss",
-            "detail": "政府は先ほど総理官邸で臨時の閣議を開き、来年4月から飲食料品の消費税を1%にすることを盛り込んだ税制改正大綱を決定しました。"
-          },
-          {
-            "title": "自民役員人事 高市氏が陣容固める",
-            "link": "https://news.yahoo.co.jp/pickup/6595392?source=rss",
-            "detail": "高市早苗首相（自民党総裁）は、16日に行う自民党の役員人事の陣容を固めました。"
-          }
-        ]
-      },
-      {
-        "label": "全般・海外",
-        "tone": "world",
-        "items": [
-          {
-            "title": "米 対イラン作戦で深刻な弾薬不足",
-            "link": "https://news.yahoo.co.jp/pickup/6595363?source=rss",
-            "detail": "不足に直面していることが14日、国防総省監察官の報告書により明らかになった。"
-          },
-          {
-            "title": "宇宙空間に兵器配備 米空軍認める",
-            "link": "https://news.yahoo.co.jp/pickup/6595333?source=rss",
-            "detail": "米軍事メディアによると、国防総省。"
-          },
-          {
-            "title": "サウジ西岸の港 原油積み込み停止",
-            "link": "https://news.yahoo.co.jp/pickup/6595428?source=rss",
-            "detail": "海運業界関係者によ⁠ると、サウジアラビアの紅海沿岸ヤンブー港で原油の積み込みが。"
-          }
-        ]
-      },
-      {
-        "label": "健康と美容",
-        "tone": "health",
-        "items": [
-          {
-            "title": "覚醒・睡眠・麻酔下の世界最大規模の神経活動デ…",
-            "link": "https://www.riken.jp/press/2026/20260915_1/index.html",
-            "detail": "理研らの共同研究チームは、マウス大脳皮質の神経細胞活動を細胞レベルで記録した大規模なデータセットを公開しました。"
-          },
-          {
-            "title": "韓国スキンケアブランドに関する調査",
-            "link": "https://prtimes.jp/main/html/rd/p/000000701.000003149.html",
-            "detail": ""
-          },
-          {
-            "title": "トウ・キユーピー、ファンコミュニティを公開…",
-            "link": "https://netkeizai.com/articles/detail/19899",
-            "detail": "「私をいたわる、ていねいな時間。"
           }
         ]
       }
