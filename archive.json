@@ -1,5 +1,106 @@
 [
   {
+    "id": "2026-11-17",
+    "heading": "11月17日（火曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "天気の話題を取得できませんでした",
+            "detail": "",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "秦野市でツキノワグマと思われる痕跡相次ぐ…",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fYmh2MkpyTUtzOElBclRlZWJnVG1rTDNZM0pKOVNiQjZIM1FNNkZ6QV93QkNWdi1qaTdmMWdadmY3YnpnRmhNd2JOVTcxdkdfQmZqRjI3dXg4dzZoN2x4VzZraWNpQmgyd0VDMTlZQ3pJN19NekV3OGlaVTBjazQ?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "で相次ぐクマ目撃…",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LUXk0OEhhQUhncFlZUU9yWXNMemN1MFVvNHVyQ1phRVVuaFNsQ3dLWWp1N045UEFMaml3Wk13WEdySl8tWjgtbzg3cFRqdHExdWN2amhNSHg1UkY1Z3NmZi11aW9DNjA?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "静岡県で最大震度1 マグニチュードは2.8…",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SdkVKSW1Hb29XMU8xdHV1bXJtaEV4QkF0OVgzOFgtUkJsdGhuaGFyV1RwcHRtSE9XUWJpMEJrNjBsWEMyVEZLWGlEaW1TdFRBT0kxMm9VU1FCMEtoc2w3RA?oc=5",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "推定ロシア機領空侵犯 福岡沖ノ島",
+            "link": "https://news.yahoo.co.jp/pickup/6602882?source=rss",
+            "detail": "防衛省は17日、ロシアのものとみられる航空機2機が、相次ぎ福岡県の北西の日本の領空を侵犯したと発表しました。"
+          },
+          {
+            "title": "「防衛産業基盤戦略」概要が判明",
+            "link": "https://news.yahoo.co.jp/pickup/6602866?source=rss",
+            "detail": "官民一体で支援する法人を新設し、防衛装備品の輸出促進に向け、企業から装備品を買い取って相手国との窓口となる役。"
+          },
+          {
+            "title": "日米豪印の共同文書案 概要が判明",
+            "link": "https://news.yahoo.co.jp/pickup/6602863?source=rss",
+            "detail": "日本主導の「自由で開かれたインド太平洋（ＦＯＩＰ）」構想。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米中露 共同コミュニケを発表へ",
+            "link": "https://news.yahoo.co.jp/pickup/6602883?source=rss",
+            "detail": "ウシャコフ大統領補佐官は16日、中国・深センで19日に開かれる史上初の米中ロ首。"
+          },
+          {
+            "title": "イラン「汚い爆弾」米高官狙いか",
+            "link": "https://news.yahoo.co.jp/pickup/6602889?source=rss",
+            "detail": "ただ、イランにそうした計画の実行を試みる能力や意思があるのか。"
+          },
+          {
+            "title": "トランプ大統領 アジア歴訪へ出発",
+            "link": "https://news.yahoo.co.jp/pickup/6602850?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "ノエビア、最高峰スキンケアシリーズ「スペチア…",
+            "link": "https://www.syogyo.jp/news/2026/11/post_045197",
+            "detail": "新たに熟成工程を導入して肌なじみを追求したほか、ナノサイズエマルジョンの処方を進化させ、プロビタミンB5やビタミンB6…"
+          },
+          {
+            "title": "■練馬区の子どもの睡眠時間…",
+            "link": "https://iwasetakeshi.net/2026/11/nerima-children-sleep-support/",
+            "detail": "放課後等デイサービス利用家庭の調査との違い、睡眠時間の目安、区内の相談先を整理し…"
+          },
+          {
+            "title": "積み重ねる全方位美白（※1）で…",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yeFlrNlc5NDgxckd1dktFY3hWbmJJRE5NMWIycmNDOHFfTEF1Wnh3U0RDdWVFSnUtLVM2bkZBaWN1a1BEcW1yT0lkc2pDMlJPVlV4TVhHbUp5UQ?oc=5",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-16",
     "heading": "11月16日（月曜日）",
     "sections": [
@@ -6485,117 +6586,6 @@
             "title": "訪問看護の処遇改善…",
             "link": "https://www.pt-ot-st.net/index.php/topics/detail/2005",
             "detail": "全日本病院協会は、訪問リハビリテーションと訪問看護ステーションから提供されるリハビリテーションについて…"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-09-18",
-    "heading": "9月18日（金曜日）",
-    "sections": [
-      {
-        "label": "天気",
-        "tone": "weather",
-        "items": [
-          {
-            "title": "今日はくもり",
-            "detail": "最高23℃／最低20℃、降水確率21%。神奈川（横浜）の目安です。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "明日は霧雨",
-            "detail": "最高24℃／最低21℃、降水確率71%。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "週末（9/20（日））は強い雨",
-            "detail": "最高25℃／最低22℃、降水確率100%。お出かけの話のきっかけに。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          }
-        ]
-      },
-      {
-        "label": "神奈川",
-        "tone": "kanagawa",
-        "items": [
-          {
-            "title": "主催「白鳥の湖」全幕バレエ公演詳細決定！",
-            "link": "https://prtimes.jp/main/html/rd/p/000001745.000108051.html",
-            "detail": ""
-          },
-          {
-            "title": "「支援」ではなく「一緒に」 工業高有志…",
-            "link": "https://topics.smt.docomo.ne.jp/article/tokyo/region/tokyo-516245?fm=latestnews",
-            "detail": "県立神奈川工業高校（横浜市神奈川区）の生徒有志が、学んだ技術を生かして県内の福祉事業所の商品の付加…"
-          },
-          {
-            "title": "台風25号(2026年)のの暴風域に入る確率",
-            "link": "https://tenki.jp/bousai/typhoon/storm/2625/3/17/",
-            "detail": "「台風の暴風域に入る確率」は、 それぞれ24・48・72時間以内に台風の暴風域に入る確率が0.5%以上である地域に対して発表します。"
-          }
-        ]
-      },
-      {
-        "label": "全般・国内",
-        "tone": "domestic",
-        "items": [
-          {
-            "title": "細野豪志氏「宿命」 復興相に就任",
-            "link": "https://news.yahoo.co.jp/pickup/6595613?source=rss",
-            "detail": ""
-          },
-          {
-            "title": "台風25号 接近前から大雨の恐れ",
-            "link": "https://news.yahoo.co.jp/pickup/6595654?source=rss",
-            "detail": "その後、21日(月・祝)には関東に接近する予想です。"
-          },
-          {
-            "title": "「隠れ教育費」が年々増 実態は",
-            "link": "https://news.yahoo.co.jp/pickup/6595575?source=rss",
-            "detail": "「うちの子は公立なのに、なんでこんなにお金がかかるの？"
-          }
-        ]
-      },
-      {
-        "label": "全般・海外",
-        "tone": "world",
-        "items": [
-          {
-            "title": "トランプ氏 FRBに迅速利下げ要求",
-            "link": "https://news.yahoo.co.jp/pickup/6595545?source=rss",
-            "detail": ""
-          },
-          {
-            "title": "豪 留学のビザで子など同伴認めず",
-            "link": "https://news.yahoo.co.jp/pickup/6595585?source=rss",
-            "detail": "７日、留学生がパートナーや子どもを連れて滞在すること。"
-          },
-          {
-            "title": "フィジー HIV拡大で非常事態宣言",
-            "link": "https://news.yahoo.co.jp/pickup/6595522?source=rss",
-            "detail": "覚醒剤メタンフェタミンのまん延も感染拡大の一因となっている。"
-          }
-        ]
-      },
-      {
-        "label": "健康と美容",
-        "tone": "health",
-        "items": [
-          {
-            "title": "わが県の栄養状態は？…",
-            "link": "https://www.asahi.com/articles/ASV9H14XSV9HUTFL002M.html",
-            "detail": "毎日何を食べているかは目に見えていても、栄養の状態は分かりにくい。"
-          },
-          {
-            "title": "ユンス生美容液がポケモンの限定パッケージで登…",
-            "link": "https://jocr.jp/raditopi/2026/09/18/706388/",
-            "detail": "9月18日（金）から全国のバラエティストアなどで順次発売される。"
-          },
-          {
-            "title": "7時間寝ても疲れる40代へ…「睡眠時間」だけ…",
-            "link": "https://finance.yahoo.co.jp/news/detail/4d6c524c433e6d2b60a2ed8ef080afe7db3018e2",
-            "detail": "十分寝ているはずなのに、朝から頭が重い。"
           }
         ]
       }
