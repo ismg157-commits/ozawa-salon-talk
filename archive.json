@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-19",
+    "heading": "11月19日（木曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は霧雨",
+            "detail": "最高19℃／最低10℃、降水確率8%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は快晴",
+            "detail": "最高15℃／最低8℃、降水確率0%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/21（土））は快晴",
+            "detail": "最高14℃／最低7℃、降水確率2%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "の「選択的週休３日制」…",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81aV80NjIwUkU1LTRiNUlsTkRocGE0QnhYbEJ6aG5JdlktWDlXUkVYZm5DSC1NV1NjZkVYcnJrcVQ0Zy1WeW5DcWZNWEl6YXVWLWlxNjZUYmU5UTVBWE1STkFsU3NKMlg1bkd6bg?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "小田原の森林サービス企業…",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KN1R0T0JhdHp4TzIxQzUtWlV5S1lFNjg3bTI4dDJXbkQtQXFfWXBCeHNlWmZfVndUcWRjazcxZzAxQ2NpNzRRZkxqd0o2SktIX2hTazE5UFZTbk8tUDcySHF4TlBDLTFY?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "（）横浜市区三枚町付近で風呂場のぞき…",
+            "link": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1495951708120892242",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "21日にかけ風強まる 暴風など警戒",
+            "link": "https://news.yahoo.co.jp/pickup/6603109?source=rss",
+            "detail": "日本海側では雪の範囲が広がり、北海道では猛吹雪になる所もありそうです。"
+          },
+          {
+            "title": "防衛費財務省案 自民内で異論噴出",
+            "link": "https://news.yahoo.co.jp/pickup/6603099?source=rss",
+            "detail": "この案に自民党内からは“異論”が相次いでいます。"
+          },
+          {
+            "title": "支援金 対象年収下限「56万円」案",
+            "link": "https://news.yahoo.co.jp/pickup/6603076?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "日中首脳が握手 会談は見送りへ",
+            "link": "https://news.yahoo.co.jp/pickup/6603084?source=rss",
+            "detail": "アジア太平洋経済協力会議（APEC）首脳会議に出席するため、中国・深圳を訪れている高市早苗首相は18日…"
+          },
+          {
+            "title": "トランプ氏 露大統領と個別会談へ",
+            "link": "https://news.yahoo.co.jp/pickup/6603100?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "米史上初 黒人の下院議長誕生へ",
+            "link": "https://news.yahoo.co.jp/pickup/6603104?source=rss",
+            "detail": "間選挙で勝利した民主党は18日、来年1月招集の新議会の議長候補に下院党トップで。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "未来の栄養士が和菓子職人の技に挑戦…",
+            "link": "http://www.beppu-u.ac.jp/9311/",
+            "detail": "別府大学・別府大学短期大学部の公式サイトです。"
+          },
+          {
+            "title": "メイク直しで“朝のつや”が復活！…",
+            "link": "https://ananweb.jp/categories/beauty/117620",
+            "detail": "重ねても厚塗り感がなく、テカリを抑えながら、つやと透明感をよみがえらせてくれます。"
+          },
+          {
+            "title": "健康栄養学科 伊藤 美穂…",
+            "link": "https://www.jumonji-u.ac.jp/info/1118jyusyou/",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-18",
     "heading": "11月18日（水曜日）",
     "sections": [
@@ -6475,117 +6586,6 @@
             "title": "寝るだけで222万円!?…",
             "link": "https://prtimes.jp/main/html/rd/p/000000241.000033793.html",
             "detail": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-09-20",
-    "heading": "9月20日（日曜日）",
-    "sections": [
-      {
-        "label": "天気",
-        "tone": "weather",
-        "items": [
-          {
-            "title": "今日は雨",
-            "detail": "最高24℃／最低22℃、降水確率100%。神奈川（横浜）の目安です。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "明日は強い雨",
-            "detail": "最高26℃／最低22℃、降水確率100%。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "週末（9/26（土））は雨",
-            "detail": "最高20℃／最低18℃、降水確率71%。お出かけの話のきっかけに。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          }
-        ]
-      },
-      {
-        "label": "神奈川",
-        "tone": "kanagawa",
-        "items": [
-          {
-            "title": "２１日に最接近へ…",
-            "link": "https://news.yahoo.co.jp/articles/05a881a3545c6ec1b74ba86979f523949eb576e2",
-            "detail": "台風２５号は２１日午後に神奈川県へ最接近する見込みだ。"
-          },
-          {
-            "title": "２１日、最接近へ 海上は大しけに…",
-            "link": "https://news.yahoo.co.jp/articles/654c71073dddc125e7a23e11bf57da34342ebc4a",
-            "detail": "横浜地方気象台は１９日、台風２５号に関する気象解説情報を発表した。"
-          },
-          {
-            "title": "は今夜から大雨警戒…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/2703092",
-            "detail": "21日は非常に激しい雨の降る所があるほか、夕方以降は風も強まる見込み。"
-          }
-        ]
-      },
-      {
-        "label": "全般・国内",
-        "tone": "domestic",
-        "items": [
-          {
-            "title": "大型で強い台風 21日に関東最接近",
-            "link": "https://news.yahoo.co.jp/pickup/6595856?source=rss",
-            "detail": "台風が近づくまでは比較的動きが遅いため、雨が長く続くでしょう。"
-          },
-          {
-            "title": "日米首脳会談 22日に米NYで開催",
-            "link": "https://news.yahoo.co.jp/pickup/6595772?source=rss",
-            "detail": "アメリカのトランプ政権は、トランプ大統領と高市総理が22日にニューヨークで首脳会談を行うと正式に発表しました。"
-          },
-          {
-            "title": "皇室の養子縁組 成立時の儀式検討",
-            "link": "https://news.yahoo.co.jp/pickup/6595761?source=rss",
-            "detail": "明治以降の皇室典範では、皇室の養子が禁。"
-          }
-        ]
-      },
-      {
-        "label": "全般・海外",
-        "tone": "world",
-        "items": [
-          {
-            "title": "対露制裁法が成立 トランプ氏署名",
-            "link": "https://news.yahoo.co.jp/pickup/6595796?source=rss",
-            "detail": "米連邦議会上下両院が16日までに法案を可決していた。"
-          },
-          {
-            "title": "グリーンランド安保 協定署名へ",
-            "link": "https://news.yahoo.co.jp/pickup/6595785?source=rss",
-            "detail": ""
-          },
-          {
-            "title": "AIで誤情報 米軍に一時緊張走る",
-            "link": "https://news.yahoo.co.jp/pickup/6595808?source=rss",
-            "detail": "（CNN） イランとの戦争のさなかにあった今春、米軍内で回覧されたある情報報告書に、即座に緊張が走った。"
-          }
-        ]
-      },
-      {
-        "label": "健康と美容",
-        "tone": "health",
-        "items": [
-          {
-            "title": "自費で海外遠征、睡眠は通勤電車で…",
-            "link": "https://www.asahi.com/articles/ASV9J1JG3V9JUTQP01MM.html",
-            "detail": "愛知・名古屋アジア大会総合格闘技男子トラディショナル65キロ級代表の村山大介（32）=マスタージャパン東京=は毎朝…"
-          },
-          {
-            "title": "加齢とともに減少する「コエンザイムQ10」を…",
-            "link": "https://www.kateigaho.com/migaku/biyou/182909",
-            "detail": ""
-          },
-          {
-            "title": "寝る前の体がフッとほぐれる「睡眠の質を高める…",
-            "link": "https://diamond.jp/articles/-/398206",
-            "detail": "満員電車を降りた時点で、まだ仕事前なのに疲れている......。"
           }
         ]
       }
