@@ -1,5 +1,106 @@
 [
   {
+    "id": "2026-11-23",
+    "heading": "11月23日（月曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "天気の話題を取得できませんでした",
+            "detail": "",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "「偏在是正」議論に…小池都知事が猛反発…",
+            "link": "https://news.yahoo.co.jp/articles/ba2e3c105ce3e5c58b14f0dd6a98b45b6a47fd4b",
+            "detail": "小池知事は11月20日に行われた定例記者会見の場で「もう一度よく冷静に問題点を見直してみてはいかがか」。"
+          },
+          {
+            "title": "全国でクマ出没増、背景は「奥山捨て里山に」…",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzQmRhSWpveG5VbnQwbzg0WGVrLTlZZlAydmdzODZlQ3RMYzNzX3ZkeW4xaGRNVldJRXBtSTV5TlpyVEZIMXJxYlpCVzl1amE3cHlINmx5YzZxZ1g1bFViR0VackFlcTg?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "（）横浜市泉区中田南２丁目で声かけ…",
+            "link": "https://topics.smt.docomo.ne.jp/article/fushinsha_joho/region/fushinsha_joho-1497113363936493925",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "野党 文科相の「問責」提出の構え",
+            "link": "https://news.yahoo.co.jp/pickup/6603638?source=rss",
+            "detail": "関文部科学相が企業関係者を集めた複数の政治資金パーティーに利害関係にある省庁職員を同席させていた問題で、野党は関氏の辞任要求を強めている。"
+          },
+          {
+            "title": "文科相の「交代示唆」木原氏否定",
+            "link": "https://news.yahoo.co.jp/pickup/6603601?source=rss",
+            "detail": "木原稔官房長官は22日、政治資金パーティー問題で批判を受けている関芳弘文部科学相について「しっかり説明することが重要だ」との認識を改めて示した。"
+          },
+          {
+            "title": "三原則例外 被爆者「言語道断だ」",
+            "link": "https://news.yahoo.co.jp/pickup/6603573?source=rss",
+            "detail": "聡司事務局長（82）らが22日、「とにかく言語道断だ」と批判した。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "COP31 合意文書採択できず閉幕",
+            "link": "https://news.yahoo.co.jp/pickup/6603614?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "ウ大統領出身地に露「3連続」攻撃",
+            "link": "https://news.yahoo.co.jp/pickup/6603535?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "米民主党が下‌院で258議席 報道",
+            "link": "https://news.yahoo.co.jp/pickup/6603631?source=rss",
+            "detail": "⁠連邦議会下院において、３０年余りで最大の多数派を。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "ニキビができそう...その予兆に…",
+            "link": "https://www.mensnonno.jp/beauty/skincare/819270/",
+            "detail": "「化粧水だけでは物足りない」「肌印象を引き上げたい」と冬に向けて考え始めたメンズ必見！"
+          },
+          {
+            "title": "美容系新興のMD…",
+            "link": "https://www.nikkei.com/article/DGXZQOUC203U00Q6A121C2000000/",
+            "detail": "業界慣習に縛られない攻めの姿勢で、海外市場を深耕する。"
+          },
+          {
+            "title": "〈医療〉 睡眠時無呼吸症候群（SAS）㊦",
+            "link": "https://www.seikyoonline.com/article/435ADD5EC4B0049CF72EB3ACEB1EE947",
+            "detail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-22",
     "heading": "11月22日（日曜日）",
     "sections": [
@@ -6455,117 +6556,6 @@
             "title": "“美容男子”43歳・青木源太アナ&26歳・秦…",
             "link": "https://www.oricon.co.jp/news/2482274/photo/17/?anc=309",
             "detail": "�摜�E�ʐ^�b���ʊ��u�،����̃L���������u���v���iC�j�J���e�� 17���� �^…"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-09-24",
-    "heading": "9月24日（木曜日）",
-    "sections": [
-      {
-        "label": "天気",
-        "tone": "weather",
-        "items": [
-          {
-            "title": "今日はくもり",
-            "detail": "最高28℃／最低20℃、降水確率69%。神奈川（横浜）の目安です。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "明日はくもり",
-            "detail": "最高25℃／最低23℃、降水確率78%。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "週末（9/26（土））は雨",
-            "detail": "最高23℃／最低19℃、降水確率100%。お出かけの話のきっかけに。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          }
-        ]
-      },
-      {
-        "label": "神奈川",
-        "tone": "kanagawa",
-        "items": [
-          {
-            "title": "台風２５号、に大きな爪痕",
-            "link": "https://www.kanaloco.jp/news/social/article-1306682.html",
-            "detail": "横須賀でも土砂流入、鎌倉の観光地では膝まで水が…"
-          },
-          {
-            "title": "東部 線状降水帯発生恐れ",
-            "link": "https://news.yahoo.co.jp/pickup/6596011",
-            "detail": ""
-          },
-          {
-            "title": "東部に線状降水帯直前予測…",
-            "link": "https://news.tv-asahi.co.jp/news_society/articles/000534844.html",
-            "detail": ""
-          }
-        ]
-      },
-      {
-        "label": "全般・国内",
-        "tone": "domestic",
-        "items": [
-          {
-            "title": "日米首脳会談の目的は達成? 解説",
-            "link": "https://news.yahoo.co.jp/pickup/6596299?source=rss",
-            "detail": "日本テレビ・井上幸昌政治部長が解説。"
-          },
-          {
-            "title": "日米 経済安保で連携の方針一致",
-            "link": "https://news.yahoo.co.jp/pickup/6596200?source=rss",
-            "detail": "【ニューヨーク共同】高市早苗首相は米東部時間22日（日本時間23日）、トランプ米大統領とニューヨークの国連本部で会談した。"
-          },
-          {
-            "title": "台風26号発生 26日には沖縄の南へ",
-            "link": "https://news.yahoo.co.jp/pickup/6596321?source=rss",
-            "detail": "台風の進路によっては沖縄は来週以降は大荒れの。"
-          }
-        ]
-      },
-      {
-        "label": "全般・海外",
-        "tone": "world",
-        "items": [
-          {
-            "title": "露側 プーチン氏のG20出席検討",
-            "link": "https://news.yahoo.co.jp/pickup/6596320?source=rss",
-            "detail": "２３日、‌米国で今年開催される主⁠要２０カ国・地域（Ｇ。"
-          },
-          {
-            "title": "習氏が米到着 トランプ氏が出迎え",
-            "link": "https://news.yahoo.co.jp/pickup/6596324?source=rss",
-            "detail": ""
-          },
-          {
-            "title": "マスク氏 習主席は偉大な指導者",
-            "link": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
-            "detail": "高経営責任者（ＣＥＯ）は２３日、中国⁠国営中央テレビ（ＣＣＴＶ）のインタビュー。"
-          }
-        ]
-      },
-      {
-        "label": "健康と美容",
-        "tone": "health",
-        "items": [
-          {
-            "title": "幼少期の栄養が寿命を左右する仕組み",
-            "link": "https://www.riken.jp/press/2026/20260924_1/index.html",
-            "detail": ""
-          },
-          {
-            "title": "近赤外線で不眠症を緩和…韓国研究チーム…",
-            "link": "https://finance.biggo.jp/news/85eedff3-1f89-4276-97a1-955da1db3b68",
-            "detail": "Gwangju Institute of Science and Technology（GIST）の研究チームが…"
-          },
-          {
-            "title": "ブランド初の美顔器デビュー…",
-            "link": "https://cancam.jp/archives/1761793",
-            "detail": "│コスメカレンダー 発売日：10月1日（木） ブランド：Yunth 商品名：Deep B。"
           }
         ]
       }
