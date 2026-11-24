@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-24",
+    "heading": "11月24日（火曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は強い雨",
+            "detail": "最高18℃／最低11℃、降水確率100%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日は晴れ",
+            "detail": "最高12℃／最低8℃、降水確率12%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/28（土））はにわか雨",
+            "detail": "最高19℃／最低11℃、降水確率88%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "乗用車同士が正面衝突 うち1台横転…",
+            "link": "https://news.tv-asahi.co.jp/news_society/articles/000549978.html",
+            "detail": "警察が事故の原因を調べています。"
+          },
+          {
+            "title": "箱根町 車同士が正面衝突",
+            "link": "https://news.yahoo.co.jp/articles/80426e26912f671f133acbf5b18e7ad0be0e3d3b",
+            "detail": "警察が事故の原因を調べています。"
+          },
+          {
+            "title": "箱根新道で乗用車同士の事故で5人がけが…",
+            "link": "https://newsdig.tbs.co.jp/articles/-/3104698",
+            "detail": "午前9時すぎ、箱根町の箱根新道・下りの須雲川インター付近で、乗用車2台が衝突する事故がありました。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "野党 文科相への問責案提出で一致",
+            "link": "https://news.yahoo.co.jp/pickup/6603783?source=rss",
+            "detail": "関芳弘文部科学相が自らの政治資金パーティーで官僚と企業関係者を引き合わせていた問題をめぐり、参院の野党各党は24日午前…"
+          },
+          {
+            "title": "文科相 自宅家賃を政治資金で支出",
+            "link": "https://news.yahoo.co.jp/pickup/6603766?source=rss",
+            "detail": "政治資金規正法に違反する疑いがある。"
+          },
+          {
+            "title": "3文書改定 経済安保の概要案判明",
+            "link": "https://news.yahoo.co.jp/pickup/6603742?source=rss",
+            "detail": "長期戦に耐え抜くウクライナを念頭に、インフラ（社会基盤）が攻撃されても即座に立ち直る「復元力」を掲げる。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米正副大統領 フアン氏復帰に関与",
+            "link": "https://news.yahoo.co.jp/pickup/6603736?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "フアン氏のCEO復帰 米議会反発",
+            "link": "https://news.yahoo.co.jp/pickup/6603761?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "NVIDIAフアンCEO復帰 3つの懸念",
+            "link": "https://news.yahoo.co.jp/pickup/6603782?source=rss",
+            "detail": "中国のスパイとされる女性など複数の相手との不倫が発覚し、辞任に追い込まれてわずか11。"
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "次世代トレンド「泡状美容液」で急成長…",
+            "link": "https://newscast.jp/smart/news/3556860",
+            "detail": "ニュースをメディアだけではなくSNSで拡散。"
+          },
+          {
+            "title": "焦点：米年末商戦…",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVRnX2xCREV0VGN1YktrMnhETEpXcDFMZy1GeDVNYTRtdkhnSllzOWVvNkdnTEhaWTRrVHVWMVg2M1llUGpLVE1QWG9TZng4X0x4TlZaUW5GczBIQmRaN0hyWGw1dzdQYnFhVWd6eWI1OHl3d19GcW1aZzhueXQ3RElFRnRjUGo2aDZRenlzTXRFUQ?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "眠れないなら無理に眠らなくていい「不眠の認知…",
+            "link": "https://newsdig.tbs.co.jp/articles/withbloomberg/3105929?display=1",
+            "detail": "【視聴者の皆様へお願い】本動画では不眠症の治療について解説していますが…"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-23",
     "heading": "11月23日（月曜日）",
     "sections": [
@@ -6445,117 +6556,6 @@
             "title": "ホシケミカルズ、環境ストレス対応の夜用美容液…",
             "link": "https://www.syogyo.jp/news/2026/09/post_044758",
             "detail": "2020年から提案を続けている「夜用アンチポリューションＷマスク美容液」は、スキンケアの最終工程で使用する美容液であり…"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-09-25",
-    "heading": "9月25日（金曜日）",
-    "sections": [
-      {
-        "label": "天気",
-        "tone": "weather",
-        "items": [
-          {
-            "title": "今日はくもり",
-            "detail": "最高26℃／最低22℃、降水確率87%。神奈川（横浜）の目安です。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "明日は雨",
-            "detail": "最高23℃／最低19℃、降水確率98%。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "週末（9/27（日））は雨",
-            "detail": "最高20℃／最低19℃、降水確率53%。お出かけの話のきっかけに。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          }
-        ]
-      },
-      {
-        "label": "神奈川",
-        "tone": "kanagawa",
-        "items": [
-          {
-            "title": "死者１０人、不明４人に 台風２５号…",
-            "link": "https://www.jiji.com/jc/article?k=2026092300327&g=soc",
-            "detail": "自衛隊と両県警、消防が捜索を続けている。"
-          },
-          {
-            "title": "で記録的大雨 三浦・横須賀で被害…",
-            "link": "https://news.yahoo.co.jp/articles/32f2f342251925378a74c55410213539f4751bac",
-            "detail": "シルバーウィークを直撃した台風25号。"
-          },
-          {
-            "title": "横浜が桐光学園下し４強、県内４２連勝…",
-            "link": "https://news.yahoo.co.jp/articles/6be7b2fbd073f1f42300a9886aa0a1c6a20e01fe",
-            "detail": "◆秋季高校野球神奈川県大会▽準々決勝 横浜７―０桐光学園＝８回コールド＝（２４日・横浜スタジアム）…"
-          }
-        ]
-      },
-      {
-        "label": "全般・国内",
-        "tone": "domestic",
-        "items": [
-          {
-            "title": "台風26号 強い勢力で沖縄に接近へ",
-            "link": "https://news.yahoo.co.jp/pickup/6596432?source=rss",
-            "detail": "その後は動きが遅くなるため、沖縄や奄美では風や波、雨の影響が長引きそうです。"
-          },
-          {
-            "title": "政府 米中首脳会談の動向を注視",
-            "link": "https://news.yahoo.co.jp/pickup/6596412?source=rss",
-            "detail": "トランプ氏は米中が世界を主導するというニュアンスがある「G2」に。"
-          },
-          {
-            "title": "新党・民主改革の会 18人が入党へ",
-            "link": "https://news.yahoo.co.jp/pickup/6596393?source=rss",
-            "detail": "した立憲民主党出身議員20人のうち、泉健太衆院議員と大島敦衆院議員以外の18。"
-          }
-        ]
-      },
-      {
-        "label": "全般・海外",
-        "tone": "world",
-        "items": [
-          {
-            "title": "習氏 米に台湾独立への反対求める",
-            "link": "https://news.yahoo.co.jp/pickup/6596431?source=rss",
-            "detail": "米国のトランプ大統領と中国の習近平（シーチンピン）国家主席が24日午前（日本時間25日未明）、米ホワイトハウスで会談した。"
-          },
-          {
-            "title": "米中の貿易休戦 2カ月延長で合意",
-            "link": "https://news.yahoo.co.jp/pickup/6596332?source=rss",
-            "detail": "中国の習近平国家主席は、11年ぶりとなる米国への公式訪問のため到着した。"
-          },
-          {
-            "title": "パンダ2頭近く米へ到着 習氏発表",
-            "link": "https://news.yahoo.co.jp/pickup/6596428?source=rss",
-            "detail": "米中関係の安定化を示す新たな兆候だ。"
-          }
-        ]
-      },
-      {
-        "label": "健康と美容",
-        "tone": "health",
-        "items": [
-          {
-            "title": "幼少期の栄養が寿命を左右する仕組み",
-            "link": "https://www.riken.jp/press/2026/20260924_1/index.html",
-            "detail": ""
-          },
-          {
-            "title": "LE SSERAFIMから学ぶ美容哲学",
-            "link": "https://tver.jp/episodes/ep3pe8vcmj",
-            "detail": ""
-          },
-          {
-            "title": "“美容男子”43歳・青木源太アナ&26歳・秦…",
-            "link": "https://www.oricon.co.jp/news/2482274/photo/17/?anc=309",
-            "detail": "�摜�E�ʐ^�b���ʊ��u�،����̃L���������u���v���iC�j�J���e�� 17���� �^…"
           }
         ]
       }
