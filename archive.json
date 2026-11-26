@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-11-26",
+    "heading": "11月26日（木曜日）",
+    "sections": [
+      {
+        "label": "天気",
+        "tone": "weather",
+        "items": [
+          {
+            "title": "今日は晴れ時々くもり",
+            "detail": "最高15℃／最低6℃、降水確率0%。神奈川（横浜）の目安です。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "明日はくもり",
+            "detail": "最高17℃／最低8℃、降水確率31%。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          },
+          {
+            "title": "週末（11/28（土））は雨",
+            "detail": "最高20℃／最低15℃、降水確率100%。お出かけの話のきっかけに。",
+            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
+          }
+        ]
+      },
+      {
+        "label": "神奈川",
+        "tone": "kanagawa",
+        "items": [
+          {
+            "title": "横浜が２年ぶり優勝 常葉大菊川破る…",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VWDdmUlVualZtS0QyTnBpYUkzV25Ya004Y0RhWFgwZGZ6QWVIZ09IRkc1MVRxTGRhY1gySGdkdjAxaXdpQ3BSMlYxRF8zSk9nUWZBQ2xfdkpialNQRVBLblZNVFYzTkxvWnNGUkEyUnp4SGNHUUVRZDZ4SQ?oc=5",
+            "detail": ""
+          },
+          {
+            "title": "プロ初本塁打マークの佐藤太陽が更改…",
+            "link": "https://www.nikkansports.com/baseball/news/202611250000515.html",
+            "detail": "24年育成ドラフト2位で神奈… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。"
+          },
+          {
+            "title": "横浜中華街の中華料理店「大珍樓」()の元運営…",
+            "link": "https://news.yahoo.co.jp/articles/39c52ec65773da154b4dc61f412a0c335730944b",
+            "detail": "代表陸佐光氏）は、11月11日に横浜地裁より破産手続き開始決定を受けた。"
+          }
+        ]
+      },
+      {
+        "label": "全般・国内",
+        "tone": "domestic",
+        "items": [
+          {
+            "title": "問責案受け 文科相「説明尽くす」",
+            "link": "https://news.yahoo.co.jp/pickup/6604038?source=rss",
+            "detail": "参議院で関文部科学大臣に対する問責決議案が提出されたことを受け、先ほど、関大臣が記者団の取材に応じました。"
+          },
+          {
+            "title": "野党 文科相の問責案を参院に提出",
+            "link": "https://news.yahoo.co.jp/pickup/6604023?source=rss",
+            "detail": "参議院の野党8会派は先ほど関口昌一参院議長に対し、関文部科学大臣に対する問責決議案を提出しました。"
+          },
+          {
+            "title": "3文書 防衛力整備計画の指針判明",
+            "link": "https://news.yahoo.co.jp/pickup/6603985?source=rss",
+            "detail": "反撃能力（敵基地攻撃能力）の手段となる長射程ミサイルとして、自衛隊の艦船から発射可能な新たな対艦ミサイルを導入する方針を。"
+          }
+        ]
+      },
+      {
+        "label": "全般・海外",
+        "tone": "world",
+        "items": [
+          {
+            "title": "米 日中やEUなどに新関税を提案",
+            "link": "https://news.yahoo.co.jp/pickup/6603990?source=rss",
+            "detail": ""
+          },
+          {
+            "title": "露のCS戦場使用巡り EUなど声明",
+            "link": "https://news.yahoo.co.jp/pickup/6604039?source=rss",
+            "detail": "化学兵器⁠禁止機関（ＯＰＣＷ）が、ウ。"
+          },
+          {
+            "title": "米36州がDC事業者に規制を導入",
+            "link": "https://news.yahoo.co.jp/pickup/6604002?source=rss",
+            "detail": ""
+          }
+        ]
+      },
+      {
+        "label": "健康と美容",
+        "tone": "health",
+        "items": [
+          {
+            "title": "クラランスからスキンケア発想のスカルプ＆ヘア…",
+            "link": "https://www.vogue.co.jp/article/2026-11-26-clarins-news",
+            "detail": "心を引きつけるアロマと贅沢なテクスチャーが、頭皮と髪を包み込んで至福のケアタイムへと誘う。"
+          },
+          {
+            "title": "Kビューティー、ブラックフライデーで6カ国A…",
+            "link": "https://finance.biggo.jp/news/8fda2961-8936-4948-9ed1-aedb1322e8ba",
+            "detail": "KOSPIが3.5%下落したのとは対照的な動きだ。"
+          },
+          {
+            "title": "アスリートにとって超加工食品は必ずしも悪では…",
+            "link": "https://sndj-web.jp/news/004261.php",
+            "detail": "UPFの使用はパフォーマンス上の目標達成に役立つ可能性がある一方で、過剰な摂取はアスリートの健康と地球環境に悪影響を及ぼし得ること、た。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-25",
     "heading": "11月25日（水曜日）",
     "sections": [
@@ -6445,117 +6556,6 @@
             "title": "幼少期の栄養が寿命を左右する仕組み",
             "link": "https://www.riken.jp/press/2026/20260924_1/index.html",
             "detail": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-09-27",
-    "heading": "9月27日（日曜日）",
-    "sections": [
-      {
-        "label": "天気",
-        "tone": "weather",
-        "items": [
-          {
-            "title": "今日は雨",
-            "detail": "最高22℃／最低19℃、降水確率82%。神奈川（横浜）の目安です。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "明日は雨",
-            "detail": "最高26℃／最低22℃、降水確率84%。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          },
-          {
-            "title": "週末（10/3（土））は霧雨",
-            "detail": "最高21℃／最低17℃、降水確率22%。お出かけの話のきっかけに。",
-            "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=140000"
-          }
-        ]
-      },
-      {
-        "label": "神奈川",
-        "tone": "kanagawa",
-        "items": [
-          {
-            "title": "町田の立ちんぼ〉「なぜか側にしかいない？」東…",
-            "link": "https://news.yahoo.co.jp/articles/287418e4b12268b1ae48ffa61c9553bbd98d1ff1",
-            "detail": "住所を見ると、そこは東京都ではなく神奈川県相模原市だ。"
-          },
-          {
-            "title": "〈町田の立ちんぼ〉「なぜか側にしかいない？」…",
-            "link": "https://topics.smt.docomo.ne.jp/article/shueisha/trend/shueisha-258736?page=3",
-            "detail": "住所を見ると、そこは東京都ではなく神奈川県相模原市だ。"
-          },
-          {
-            "title": "町田駅南口のラブホ街はなぜ側に集中しているの…",
-            "link": "https://news.livedoor.com/topics/detail/32418379/",
-            "detail": "住所を見ると、そこは東京都ではなく神奈川県相模原市だ。"
-          }
-        ]
-      },
-      {
-        "label": "全般・国内",
-        "tone": "domestic",
-        "items": [
-          {
-            "title": "九州4県に「線状降水帯」直前予測",
-            "link": "https://news.yahoo.co.jp/pickup/6596674?source=rss",
-            "detail": "27日朝、九州北部を中心に大気の状態が非常に不安定となり、局地的に猛烈な雨が降っています。"
-          },
-          {
-            "title": "関東 10月はじめにかけ雨多い予想",
-            "link": "https://news.yahoo.co.jp/pickup/6596625?source=rss",
-            "detail": "台風26号は沖縄に接近したあと、本州の南を進む予想です。"
-          },
-          {
-            "title": "「名代」茂木氏 首脳外交を補完",
-            "link": "https://news.yahoo.co.jp/pickup/6596590?source=rss",
-            "detail": "【ニューヨーク＝深沢亮爾】茂木外相は２５日、米ニューヨークで開かれた国連関連会合への出席など一連の外交日程を終えた。"
-          }
-        ]
-      },
-      {
-        "label": "全般・海外",
-        "tone": "world",
-        "items": [
-          {
-            "title": "米大統領 海峡巡るイラン提案拒否",
-            "link": "https://news.yahoo.co.jp/pickup/6596675?source=rss",
-            "detail": "アメリカのトランプ大統領はホルムズ海峡の開放を巡るイランの新たな提案について拒否する考えを示しました。"
-          },
-          {
-            "title": "中国 尖閣沖EEZで3",
-            "link": "https://news.yahoo.co.jp/pickup/6596658?source=rss",
-            "detail": "中国政府の海洋調査船が3～7月、沖縄県・尖閣諸島西側の日本の排他的経済水域（EEZ）内で、南北約66キロ…"
-          },
-          {
-            "title": "米中300億ドル規模関税引き下げへ",
-            "link": "https://news.yahoo.co.jp/pickup/6596642?source=rss",
-            "detail": ""
-          }
-        ]
-      },
-      {
-        "label": "健康と美容",
-        "tone": "health",
-        "items": [
-          {
-            "title": "幼少期の栄養が寿命を左右する仕組み",
-            "link": "https://www.riken.jp/press/2026/20260924_1/index.html",
-            "detail": ""
-          },
-          {
-            "title": "美容医療市場、5年で1.6倍に…",
-            "link": "https://www.nikkei.com/article/DGXZQOUC250UU0V20C26A9000000/",
-            "detail": "美しくなりたい、若々しくありたいと願う気持ちは今や年齢、性別を問わない。"
-          },
-          {
-            "title": "『髪カリスマたち～日本が誇る美容師のワザ～』",
-            "link": "https://www.bsfuji.tv/kamicharisma5/pub/260.html",
-            "detail": "選び抜かれたトップスタイリストたちが追い求めるスタイルをひもといていく。"
           }
         ]
       }
